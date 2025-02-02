@@ -1,0 +1,32 @@
+Category Statistics
+	Category 1:
+		Number of Orders: 21
+		Total Revenue: $3538.17
+		Percentage of Revenue: 21.58%
+
+	Category 2:
+		Number of Orders: 20
+		Total Revenue: $4355.64
+		Percentage of Revenue: 26.57%
+
+	Category 3:
+		Number of Orders: 19
+		Total Revenue: $2830.63
+		Percentage of Revenue: 17.26%
+
+	Category 4:
+		Number of Orders: 15
+		Total Revenue: $2269.36
+		Percentage of Revenue: 13.84%
+
+	Category 5:
+		Number of Orders: 12
+		Total Revenue: $1231.35
+		Percentage of Revenue: 7.51%
+
+	Category 6:
+		Number of Orders: 13
+		Total Revenue: $2170.63
+		Percentage of Revenue: 13.24%
+
+Most commonly purchased category: 2, Total revenue: $4355.64
