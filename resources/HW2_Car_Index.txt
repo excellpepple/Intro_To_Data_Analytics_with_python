@@ -1,0 +1,10 @@
+Maker: 18 auto makers
+Body_type: 5 types
+Drivetrains: 3 types
+Engine_type: 5 types
+Num_of_cylinders: 5 types
+Engine_size: Continuous values
+Horsepower: Continuous values
+City_mpg: Continuous values
+Highway_mpg: Continuous values
+Price: Continuous values
