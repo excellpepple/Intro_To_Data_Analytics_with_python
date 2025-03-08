@@ -4,65 +4,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5a8de8d-52d4-45d4-9930-4c98a79bbfb7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/HW2_Car_Data.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/HW2_Car_Index.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/HW2_Car_Info.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/HW2_Sales_Data.csv" afterDir="false" />
+    <list default="true" id="c269b09a-4e5e-496a-8f49-547331bcc275" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Assignment2_Excellent.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/csv-editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sales_Analysis.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Jupyter Notebook" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="Game-Market-Analysis" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
-  <component name="ProjectId" id="2rdOyjTVFVlpOYVR6SB9HPzuQxU" />
+  <component name="ProjectId" id="2t05gGKI01BujZXqegzMwzQpPL6" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Sales-Data-Analysis-Numpy-Panda&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Github/GuideBook&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Sales-Data-Analysis-Numpy-Panda",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Github\Intro_To_Data_Analytics_with_python\resources" />
-    </key>
-  </component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -74,20 +57,15 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e5a8de8d-52d4-45d4-9930-4c98a79bbfb7" name="Changes" comment="" />
-      <created>1736885742192</created>
+      <changelist id="c269b09a-4e5e-496a-8f49-547331bcc275" name="Changes" comment="" />
+      <created>1739476260301</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1736885742192</updated>
-      <workItem from="1736885744418" duration="920000" />
-      <workItem from="1737057443314" duration="836000" />
-      <workItem from="1737664946168" duration="3685000" />
-      <workItem from="1738085362471" duration="7404000" />
-      <workItem from="1738202514882" duration="3402000" />
-      <workItem from="1738267444939" duration="5159000" />
-      <workItem from="1738393506660" duration="11451000" />
-      <workItem from="1739940328833" duration="7553000" />
-      <workItem from="1740006331358" duration="3766000" />
+      <updated>1739476260301</updated>
+      <workItem from="1739476261410" duration="2254000" />
+      <workItem from="1741060275739" duration="7104000" />
+      <workItem from="1741117864527" duration="4450000" />
+      <workItem from="1741381042561" duration="9478000" />
     </task>
     <servers />
   </component>
