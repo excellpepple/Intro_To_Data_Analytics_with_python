@@ -1,0 +1,12 @@
+Maker: Number of auto makers
+Body_style: 5 types
+Drivetrains: 3 types, Some missing values noted as 'None'
+Fuel-type: 2 types
+Engine_type: 5 types
+Num_of_cylinders: 5 types
+Length: String, Continuous values
+Engine_size: String, Continuous values
+Horsepower: Continuous values
+City_mpg: Continuous values
+Highway_mpg: Continuous values
+Price: Continuous values
