@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5a8de8d-52d4-45d4-9930-4c98a79bbfb7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/Car_Sales_Data.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Car_Sales_Info.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Asignment3_Excellent.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Airbnb/Airbnb_Data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Airbnb/Airbnb_Data_Info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam1_ExcellPepple.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +70,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Github\Intro_To_Data_Analytics_with_python\resources\Airbnb" />
       <recent name="D:\Github\Intro_To_Data_Analytics_with_python\resources" />
     </key>
   </component>
@@ -103,6 +103,7 @@
       <workItem from="1742256162920" duration="12000" />
       <workItem from="1742361613937" duration="1071000" />
       <workItem from="1742843082139" duration="104000" />
+      <workItem from="1742929672147" duration="576000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,11 @@
+Room_ID, An exclusive identifier assigned to each room.
+Room_Type, It specifies the types of rooms.
+Address, (City, State, Country), The address of the rental properties.
+Reviews, Total number of reviews for the rental properties.
+Satisfaction, (Overall), The level of satisfaction reported by the renters for the Airbnb property, measured on a scale ranging from 1 to 5.
+Accommodates, Capacity of the rental properties to accommodate guests.
+Bedrooms, Number of bedrooms in the rental properties.
+Bathrooms, Number of bathrooms in the rental properties.
+Price, The price for a single night's stay.
+Latitude, The geographical coordinate representing the north-south position of the Airbnb location.
+Longitude, The geographical coordinate indicating the east-west position of the Airbnb location.
