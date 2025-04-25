@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5a8de8d-52d4-45d4-9930-4c98a79bbfb7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/Airbnb/Airbnb_Data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Airbnb/Airbnb_Data_Info.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exam1_ExcellPepple.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/csv-editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exam1_ExcellPepple.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exam1_ExcellPepple.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +103,11 @@
       <workItem from="1742256162920" duration="12000" />
       <workItem from="1742361613937" duration="1071000" />
       <workItem from="1742843082139" duration="104000" />
-      <workItem from="1742929672147" duration="576000" />
+      <workItem from="1742929672147" duration="5480000" />
+      <workItem from="1743080112853" duration="30000" />
+      <workItem from="1744416548629" duration="9731000" />
+      <workItem from="1745346378154" duration="202000" />
+      <workItem from="1745535160566" duration="1963000" />
     </task>
     <servers />
   </component>
