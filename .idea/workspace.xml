@@ -5,10 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5a8de8d-52d4-45d4-9930-4c98a79bbfb7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/HW4_Cafe_Sales.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment4_Excellent_Pepple.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jupyter-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/final/Customer_Info.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/final/Part2_Data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/final/Sales_Info.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataAnalyticsWithPython_CheatSheat.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_One_Excellent.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_Two_Excellent.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Python_Data_Analysis_CheatSheet.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/csv-editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_3_3_2025_9_37_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_3_3_2025_9_37_PM__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exam1_ExcellPepple.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exam1_ExcellPepple.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,27 +62,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;database.data.extractors.current.export.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;CarSales-EDA&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Github/GuideBook&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
+    "git-widget-placeholder": "Merge",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Github/GuideBook",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.intellij.jupyter.core.jupyter.connections.configuration.JupyterServerConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Github\Intro_To_Data_Analytics_with_python\resources\final" />
       <recent name="D:\Github\Intro_To_Data_Analytics_with_python\resources" />
+      <recent name="D:\Github\Intro_To_Data_Analytics_with_python\src" />
       <recent name="D:\Github\Intro_To_Data_Analytics_with_python\resources\Airbnb" />
     </key>
   </component>
@@ -113,6 +124,9 @@
       <workItem from="1745535160566" duration="15232000" />
       <workItem from="1745724174130" duration="35000" />
       <workItem from="1745783088115" duration="3608000" />
+      <workItem from="1746557912735" duration="1164000" />
+      <workItem from="1746673335882" duration="4887000" />
+      <workItem from="1746714837067" duration="7482000" />
     </task>
     <servers />
   </component>

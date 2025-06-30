@@ -1,0 +1,404 @@
+Customer_ID,Age,Gender,Marital Status,Occupation,Monthly Income,Education,Location
+16244,20,M,Single,Student,0,Undergrad,Peoria-Illinois
+14688,18,M,Single,Student,1,Undergrad,Boise-Idaho
+13873,16,F,Single,,1,High School,Springfield-Illinois
+13728,45,M,Prefer not to say,Employee,4,Post Graduate,Boise-Idaho
+16771,58,F,Single,Self Employed,2,Post Graduate,Fargo-North Dakota
+12583,15,M,Single,Student,0,High School,Cheyenne-Wyoming
+13141,59,M,Married,Employee,0,Graduate,Tulsa-Oklahoma
+17961,46,M,Prefer not to say,Employee,3,Post Graduate,El Paso-Texas
+15605,24,M,Married,Self Employed,2,Ph.D,Des Moines-Iowa
+14060,47,F,Single,Employee,0,Post Graduate,Cheyenne-Wyoming
+18239,15,M,Single,Student,0,High School,Reno-Nevada
+13606,65,M,Single,Self Employed,1,Graduate,Springfield-Illinois
+15235,18,M,Single,Student,1,Undergrad,Cheyenne-Wyoming
+12681,37,M,Single,Employee,4,?,Chicago-Illinois
+17548,34,F,Single,Employee,1,Post Graduate,Memphis-Tennessee
+17567,32,M,Single,Self Employed,3,,Savannah-Georgia
+17460,17,M,Single,Student,0,High School,Springfield-Illinois
+13093,35,M,Married,Self Employed,4,Ph.D,Lubbock-Texas
+15111,45,M,Single,Employee,1,,Spokane-Washington
+15834,34,F,Married,Housewife,3,Graduate,Peoria-Illinois
+16186,21,F,Single,Student,0,Graduate,Orlando-Florida
+13963,34,M,Married,Self Employed,4,Graduate,Fargo-North Dakota
+15350,36,F,Married,Housewife,3,Post Graduate,Springfield-Illinois
+13145,26,M,Single,,2,,Orlando-Florida
+12779,51,M,Single,Self Employed,3,?,Fargo-North Dakota
+14576,56,F,Married,Housewife,3,Graduate,Lubbock-Texas
+13069,40,F,Prefer not to say,Employee,3,Post Graduate,Fort Wayne-Indiana
+15090,38,F,Married,Housewife,4,?,Tempe-Arizona
+12471,37,F,Married,Self Employed,3,?,Fargo-North Dakota
+12868,49,F,Married,Housewife,0,Graduate,Madison-Wisconsin
+17838,55,M,Single,Self Employed,3,Graduate,Cheyenne-Wyoming
+13842,47,F,Married,Housewife,3,Post Graduate,Tempe-Arizona
+14462,23,F,Single,,0,Post Graduate,Fargo-North Dakota
+13050,32,M,Prefer not to say,Self Employed,4,Post Graduate,Lubbock-Texas
+15012,15,M,Single,Student,0,High School,Lubbock-Texas
+13584,50,M,Single,Employee,2,Graduate,Memphis-Tennessee
+17315,40,M,Single,Employee,4,Graduate,Tempe-Arizona
+18225,30,M,Married,Employee,3,Graduate,Springfield-Illinois
+12967,17,F,Single,Student,0,,Memphis-Tennessee
+15781,32,F,Single,Employee,2,Post Graduate,Springfield-Illinois
+15291,51,F,Single,Employee,3,Graduate,Madison-Wisconsin
+13576,52,M,Single,Employee,4,?,Lubbock-Texas
+14395,29,F,Married,Housewife,2,?,Cheyenne-Wyoming
+14142,47,M,Single,Employee,0,?,Tulsa-Oklahoma
+16191,22,M,Single,,1,Graduate,Fort Wayne-Indiana
+13394,57,M,Married,Employee,2,Graduate,Orlando-Florida
+17025,37,M,Single,Employee,4,Post Graduate,Fort Wayne-Indiana
+12915,38,F,Married,Housewife,2,Post Graduate,El Paso-Texas
+13138,55,M,Single,Employee,4,Post Graduate,Madison-Wisconsin
+17362,31,F,Single,Employee,3,Graduate,Memphis-Tennessee
+12738,27,M,Single,Employee,3,Post Graduate,Memphis-Tennessee
+16779,22,M,Single,Student,1,Graduate,Spokane-Washington
+16150,23,M,Single,Student,0,,Des Moines-Iowa
+17105,19,F,Married,Student,1,,Spokane-Washington
+17389,23,F,Married,Student,1,Post Graduate,Lubbock-Texas
+12477,24,M,Married,Employee,2,?,Boise-Idaho
+17552,55,M,Married,,3,Post Graduate,Sarasota-Florida
+17863,33,F,Married,Self Employed,4,Post Graduate,Springfield-Illinois
+14775,57,F,Married,Housewife,3,,Cheyenne-Wyoming
+15862,39,F,Married,Housewife,2,Post Graduate,Toledo-Ohio
+15100,18,F,Single,Student,0,Undergrad,El Paso-Texas
+17256,35,M,Married,Employee,4,,Chicago-Illinois
+16770,63,M,Married,Employee,1,,Savannah-Georgia
+15752,30,M,Single,Employee,1,?,Chicago-Illinois
+15005,33,M,Single,Self Employed,4,,Reno-Nevada
+13705,36,F,Married,Housewife,2,,Tulsa-Oklahoma
+14778,51,F,Single,Self Employed,3,Post Graduate,Tulsa-Oklahoma
+14549,38,M,Single,Employee,4,,Lubbock-Texas
+17905,57,F,Married,,3,Graduate,Memphis-Tennessee
+16725,42,F,Married,Housewife,4,,Peoria-Illinois
+13137,44,M,Married,Employee,3,Graduate,Madison-Wisconsin
+16745,40,F,Single,Employee,4,Graduate,El Paso-Texas
+16218,53,F,Single,Employee,4,Graduate,Savannah-Georgia
+14460,26,M,Single,Self Employed,0,Graduate,Toledo-Ohio
+14594,25,F,Married,Employee,2,Graduate,Memphis-Tennessee
+17572,33,M,Single,Employee,4,Graduate,El Paso-Texas
+17356,46,F,Prefer not to say,Self Employed,2,Graduate,Madison-Wisconsin
+18055,61,M,Single,Employee,0,,Savannah-Georgia
+14449,53,M,Single,Employee,4,?,Tulsa-Oklahoma
+18011,40,M,Single,Employee,1,Post Graduate,Springfield-Illinois
+12502,51,F,Single,Student,3,Ph.D,Fargo-North Dakota
+17381,43,M,Single,Employee,2,?,Tempe-Arizona
+14264,44,M,Single,Employee,4,Post Graduate,Chicago-Illinois
+15732,18,M,Single,Student,0,Undergrad,Boise-Idaho
+17912,43,M,Married,Employee,3,Graduate,Boise-Idaho
+16705,50,M,Single,Employee,3,Post Graduate,El Paso-Texas
+16634,42,M,Single,Self Employed,1,Post Graduate,Fargo-North Dakota
+12855,20,F,Single,Student,1,Undergrad,Memphis-Tennessee
+12778,43,F,Single,Employee,4,Post Graduate,Spokane-Washington
+16583,55,M,Single,Employee,3,,Madison-Wisconsin
+13309,20,F,Single,Student,0,Undergrad,Boise-Idaho
+16456,38,M,Single,Employee,2,Post Graduate,Tulsa-Oklahoma
+14135,50,M,Single,Employee,4,Post Graduate,Savannah-Georgia
+15687,62,M,Married,Self Employed,0,Graduate,Cheyenne-Wyoming
+15199,61,M,Single,Self Employed,0,School,Springfield-Illinois
+14850,24,M,Married,Self Employed,2,Graduate,Cheyenne-Wyoming
+17964,45,F,Married,Housewife,3,?,Des Moines-Iowa
+13715,35,F,Married,Housewife,3,Graduate,Savannah-Georgia
+17071,23,F,Single,Student,0,Ph.D,Tulsa-Oklahoma
+13881,38,M,Single,Self Employed,4,Post Graduate,Chicago-Illinois
+13629,48,F,Married,Housewife,1,?,El Paso-Texas
+12712,44,F,Married,Housewife,3,,Springfield-Illinois
+12853,28,M,Single,Employee,2,Graduate,Memphis-Tennessee
+15107,51,F,Single,Self Employed,4,,Tulsa-Oklahoma
+13539,62,M,Married,Employee,0,Post Graduate,Springfield-Illinois
+17334,26,F,Married,Housewife,1,Graduate,Boise-Idaho
+17412,18,M,Single,Student,0,Undergrad,El Paso-Texas
+17035,18,M,Married,Student,0,Undergrad,Boise-Idaho
+16814,37,M,Single,Employee,2,Graduate,Lubbock-Texas
+12929,42,M,Married,Employee,4,?,Madison-Wisconsin
+17457,51,F,Prefer not to say,Self Employed,4,Graduate,Peoria-Illinois
+15838,57,F,Married,Housewife,4,Post Graduate,Sarasota-Florida
+15544,50,F,Single,Self Employed,4,Graduate,Tempe-Arizona
+17897,36,F,Married,Employee,4,?,Tulsa-Oklahoma
+17929,55,F,Married,Employee,3,Graduate,Savannah-Georgia
+17396,55,F,Married,Employee,3,Graduate,Springfield-Illinois
+18074,16,F,Single,Student,0,High School,Memphis-Tennessee
+15694,23,F,Single,Student,0,Post Graduate,El Paso-Texas
+15719,46,M,Married,Employee,4,Post Graduate,Peoria-Illinois
+15955,34,F,Single,Self Employed,2,Post Graduate,Tulsa-Oklahoma
+16011,38,M,Single,Employee,4,Graduate,Des Moines-Iowa
+14766,44,F,Single,Self Employed,4,Post Graduate,Tempe-Arizona
+13871,49,M,Single,Self Employed,0,Graduate,Peoria-Illinois
+17604,47,M,Single,Self Employed,0,Post Graduate,Fort Wayne-Indiana
+13117,17,M,Single,Student,0,High School,Memphis-Tennessee
+14497,55,F,Single,Employee,4,?,Spokane-Washington
+12567,32,F,Married,Employee,3,Graduate,Cheyenne-Wyoming
+17873,50,M,Single,Self Employed,3,Graduate,Lubbock-Texas
+15589,52,M,Single,Self Employed,2,Post Graduate,Savannah-Georgia
+14798,44,M,Single,Employee,1,Post Graduate,Springfield-Illinois
+15854,53,F,Single,Employee,3,Post Graduate,Fargo-North Dakota
+13090,28,M,Single,Employee,2,Post Graduate,Tempe-Arizona
+13939,36,F,Married,Employee,2,,Fargo-North Dakota
+16274,16,F,Single,Student,0,High School,Savannah-Georgia
+17287,47,F,Single,Employee,0,?,Toledo-Ohio
+13102,18,F,Single,Student,0,,Sarasota-Florida
+15384,39,M,Married,Employee,4,School,Boise-Idaho
+12350,64,F,Single,Employee,0,Graduate,Madison-Wisconsin
+17293,15,M,Single,Student,0,High School,Reno-Nevada
+17214,35,M,Single,Employee,3,Graduate,Springfield-Illinois
+12540,36,M,Single,Employee,2,Graduate,Sarasota-Florida
+14001,63,M,Single,Employee,1,Post Graduate,Memphis-Tennessee
+16030,45,M,Single,?,3,Graduate,Fargo-North Dakota
+14127,32,M,Married,Self Employed,4,?,Reno-Nevada
+13108,26,M,Single,Self Employed,4,Graduate,Boise-Idaho
+18144,15,M,Single,Student,0,High School,El Paso-Texas
+15260,65,M,Single,Self Employed,1,Post Graduate,Memphis-Tennessee
+14237,49,M,Prefer not to say,Employee,4,?,Orlando-Florida
+17147,56,M,Married,Self Employed,4,Graduate,Memphis-Tennessee
+18229,31,F,Single,Self Employed,3,Post Graduate,Tempe-Arizona
+17659,55,M,Married,Employee,3,?,Cheyenne-Wyoming
+16552,64,M,Single,Employee,2,Post Graduate,Des Moines-Iowa
+14679,59,M,Married,Self Employed,1,?,Spokane-Washington
+13911,35,M,Prefer not to say,Self Employed,4,Graduate,Tempe-Arizona
+13208,15,M,Single,Student,0,?,Springfield-Illinois
+14849,38,F,Single,Employee,2,?,Spokane-Washington
+15485,28,M,Single,Self Employed,3,Graduate,Memphis-Tennessee
+16161,60,F,Married,Housewife,0,Post Graduate,Cheyenne-Wyoming
+12754,50,F,Single,Self Employed,4,Graduate,Tulsa-Oklahoma
+16042,65,M,Single,Employee,2,Post Graduate,Fargo-North Dakota
+13199,22,M,Single,Student,0,Graduate,Chicago-Illinois
+17581,62,M,Single,Self Employed,2,Graduate,Orlando-Florida
+16109,47,F,Single,Employee,0,,Reno-Nevada
+15601,39,M,Single,Employee,3,?,Lubbock-Texas
+17975,59,F,Married,Employee,1,Post Graduate,Spokane-Washington
+17135,41,M,Single,?,1,Graduate,Chicago-Illinois
+14606,32,F,Single,Employee,4,Graduate,Boise-Idaho
+14312,42,M,Single,Employee,4,,Des Moines-Iowa
+13011,26,M,Single,Self Employed,2,Graduate,Reno-Nevada
+17507,17,M,Single,Student,0,High School,Cheyenne-Wyoming
+17376,28,F,Single,Employee,3,?,Orlando-Florida
+15823,28,M,Married,Self Employed,4,Graduate,Tempe-Arizona
+14665,20,F,Single,,0,Undergrad,Springfield-Illinois
+17643,61,F,Married,Housewife,1,Post Graduate,Sarasota-Florida
+12464,18,F,Single,Student,0,Undergrad,Cheyenne-Wyoming
+15738,26,F,Single,Employee,1,Post Graduate,Des Moines-Iowa
+13448,39,M,Single,Employee,4,?,Boise-Idaho
+12662,44,F,Married,Employee,3,Graduate,Memphis-Tennessee
+14865,36,M,Single,Employee,3,Post Graduate,Fargo-North Dakota
+13491,19,M,Single,Student,0,Undergrad,Spokane-Washington
+15203,30,F,Single,Employee,3,Post Graduate,Cheyenne-Wyoming
+15194,38,M,Single,Employee,4,Graduate,Boise-Idaho
+14233,17,F,Single,Student,0,High School,Tempe-Arizona
+17337,31,F,Married,Self Employed,2,Post Graduate,Madison-Wisconsin
+13089,48,M,Single,Employee,1,,Tulsa-Oklahoma
+17976,20,M,Married,Student,1,,Reno-Nevada
+14625,60,M,Single,Employee,1,Post Graduate,Chicago-Illinois
+17908,38,F,Single,Self Employed,2,?,Boise-Idaho
+16156,37,F,Married,Housewife,3,Post Graduate,Memphis-Tennessee
+15093,50,M,Single,Employee,4,Post Graduate,Savannah-Georgia
+18041,53,F,Married,Employee,3,Graduate,Toledo-Ohio
+13494,47,F,Married,Employee,3,Graduate,Boise-Idaho
+17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois
+12921,32,F,Single,Employee,4,?,Boise-Idaho
+12836,25,F,Single,,3,Graduate,Tulsa-Oklahoma
+17924,21,M,Single,Student,0,?,Des Moines-Iowa
+12842,15,F,Single,Student,0,,Fort Wayne-Indiana
+17377,63,F,Married,Housewife,2,Post Graduate,Des Moines-Iowa
+12947,26,M,Single,Employee,4,Post Graduate,Spokane-Washington
+13668,55,M,Married,Employee,4,Ph.D,Madison-Wisconsin
+15058,22,M,Single,Student,1,Graduate,Chicago-Illinois
+14829,45,M,Single,Employee,3,Post Graduate,Lubbock-Texas
+17920,61,M,Single,Self Employed,2,Post Graduate,Tempe-Arizona
+16210,28,M,Married,Self Employed,3,,El Paso-Texas
+17392,54,M,Single,Employee,3,Post Graduate,Peoria-Illinois
+14587,33,F,Married,Housewife,3,Graduate,Chicago-Illinois
+13402,53,F,Single,Employee,4,Post Graduate,Toledo-Ohio
+15363,25,F,Single,,0,Graduate,Cheyenne-Wyoming
+14911,58,M,Single,Employee,3,Post Graduate,Chicago-Illinois
+14236,34,F,Married,Self Employed,1,?,Cheyenne-Wyoming
+14410,56,M,Married,Employee,2,,Reno-Nevada
+12682,42,M,Married,Employee,2,Graduate,Madison-Wisconsin
+16928,29,F,Single,Employee,3,Graduate,Fort Wayne-Indiana
+17855,62,M,Married,Self Employed,2,,Cheyenne-Wyoming
+14194,26,M,Single,Self Employed,3,Graduate,Springfield-Illinois
+17809,28,M,Married,Self Employed,4,Post Graduate,Sarasota-Florida
+12956,58,M,Single,Self Employed,2,Graduate,Fort Wayne-Indiana
+15358,50,M,Prefer not to say,Employee,1,Graduate,Chicago-Illinois
+17850,59,F,Single,Self Employed,2,?,Spokane-Washington
+16684,23,M,Single,Student,2,Graduate,Spokane-Washington
+13305,51,M,Single,Employee,3,?,Lubbock-Texas
+17511,24,M,Single,Employee,0,,Tulsa-Oklahoma
+14496,40,M,Single,Employee,3,Graduate,Springfield-Illinois
+16539,25,M,Single,Employee,2,Post Graduate,Chicago-Illinois
+18202,20,M,Married,Student,0,,Des Moines-Iowa
+15808,33,M,Single,Self Employed,4,Graduate,Des Moines-Iowa
+13694,35,M,Single,,1,Post Graduate,Des Moines-Iowa
+13824,64,F,Married,Housewife,0,,Savannah-Georgia
+16510,15,F,Single,Student,0,High School,Tulsa-Oklahoma
+17517,63,F,Married,Self Employed,0,Graduate,Toledo-Ohio
+16781,35,M,Single,Employee,4,Post Graduate,Spokane-Washington
+12838,27,M,Married,Employee,2,Graduate,Madison-Wisconsin
+14031,61,M,Single,Employee,1,Post Graduate,Reno-Nevada
+17346,49,M,Married,Employee,4,,Spokane-Washington
+12414,45,F,Single,Employee,4,,El Paso-Texas
+14540,43,F,Single,Employee,4,?,Cheyenne-Wyoming
+17672,39,F,Married,Housewife,3,Graduate,Chicago-Illinois
+13065,39,M,Single,Self Employed,3,Post Graduate,Des Moines-Iowa
+15270,44,M,Married,Employee,4,Graduate,Madison-Wisconsin
+15165,65,M,Single,Employee,1,Post Graduate,Tempe-Arizona
+12686,18,M,Single,Student,0,,El Paso-Texas
+17925,46,F,Married,Housewife,3,?,Fort Wayne-Indiana
+15971,39,F,Married,Housewife,4,,Savannah-Georgia
+15983,50,M,Single,Employee,3,,Savannah-Georgia
+17760,42,M,Single,Employee,4,Post Graduate,Madison-Wisconsin
+14901,29,M,Single,Self Employed,3,Graduate,Fargo-North Dakota
+14388,34,M,Married,Employee,2,?,Tulsa-Oklahoma
+16048,56,M,Married,Self Employed,3,Graduate,Fargo-North Dakota
+15226,54,M,Single,Employee,2,Graduate,Cheyenne-Wyoming
+18198,32,M,Single,Self Employed,4,Graduate,Peoria-Illinois
+12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming
+17446,36,M,Single,Employee,4,,Madison-Wisconsin
+15046,62,F,Single,Employee,1,Post Graduate,El Paso-Texas
+14810,18,F,Married,Student,0,High School,Memphis-Tennessee
+13767,38,M,Single,Employee,3,?,Fargo-North Dakota
+13110,49,F,Married,Employee,2,Post Graduate,Springfield-Illinois
+14729,50,M,Single,Employee,3,Graduate,Springfield-Illinois
+15827,49,M,Single,Employee,0,Post Graduate,Savannah-Georgia
+12791,16,F,Single,Student,0,High School,Tulsa-Oklahoma
+16612,59,F,Married,Housewife,0,Post Graduate,Orlando-Florida
+17069,15,M,Single,Student,0,High School,Fargo-North Dakota
+16250,56,M,Single,Employee,4,,Sarasota-Florida
+16515,57,F,Married,Self Employed,3,Post Graduate,Memphis-Tennessee
+17732,31,M,Single,Self Employed,4,Post Graduate,Springfield-Illinois
+15881,50,M,Single,Employee,4,Graduate,Savannah-Georgia
+17968,30,F,Single,Employee,3,Graduate,Spokane-Washington
+15525,18,F,Married,Student,0,High School,Chicago-Illinois
+14307,54,M,Single,Self Employed,4,Graduate,Cheyenne-Wyoming
+17690,55,M,Married,Self Employed,3,Graduate,Cheyenne-Wyoming
+14573,23,F,Single,Student,0,Post Graduate,Madison-Wisconsin
+18178,26,M,Prefer not to say,Self Employed,4,?,Boise-Idaho
+15923,16,M,Single,Student,0,High School,Fort Wayne-Indiana
+13370,47,F,Married,Self Employed,3,Post Graduate,Peoria-Illinois
+15070,44,F,Married,Housewife,2,?,Cheyenne-Wyoming
+12373,27,M,Single,Self Employed,2,Post Graduate,Boise-Idaho
+15061,30,M,Single,Employee,3,Post Graduate,Orlando-Florida
+15864,24,M,Single,Self Employed,2,,Memphis-Tennessee
+17547,26,M,Single,Employee,1,?,Tempe-Arizona
+14696,51,M,Single,Self Employed,3,Post Graduate,Orlando-Florida
+17291,57,M,Married,Self Employed,4,Post Graduate,Orlando-Florida
+17802,15,F,Single,Student,0,High School,Chicago-Illinois
+17757,61,M,Single,Self Employed,2,Post Graduate,Tempe-Arizona
+16203,19,M,Single,Student,0,Undergrad,Fargo-North Dakota
+12431,54,F,Married,Employee,4,Post Graduate,Madison-Wisconsin
+12437,65,M,Single,Employee,0,Post Graduate,Memphis-Tennessee
+14180,39,M,Single,Self Employed,4,Post Graduate,Sarasota-Florida
+17230,17,M,Single,Student,0,High School,Sarasota-Florida
+14527,22,F,Single,Student,0,Graduate,Cheyenne-Wyoming
+17951,56,F,Married,Housewife,3,Ph.D,Boise-Idaho
+13113,40,M,Married,Employee,3,Graduate,Boise-Idaho
+14627,18,M,Single,Student,0,Undergrad,Madison-Wisconsin
+14085,16,M,Single,Student,2,,Fort Wayne-Indiana
+13230,55,M,Married,Employee,4,Graduate,Sarasota-Florida
+13468,65,F,Married,Housewife,1,Post Graduate,Fort Wayne-Indiana
+13800,39,F,Married,Housewife,4,Graduate,Boise-Idaho
+13777,58,F,Married,Housewife,3,Post Graduate,Savannah-Georgia
+13819,58,M,Single,Employee,4,Graduate,Peoria-Illinois
+17228,50,F,Married,Employee,3,Graduate,Fargo-North Dakota
+12676,49,M,Married,Employee,0,,Lubbock-Texas
+15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida
+17226,42,F,Married,Housewife,3,Graduate,Toledo-Ohio
+15574,28,F,Married,Housewife,2,Post Graduate,Des Moines-Iowa
+14113,65,M,Married,Employee,0,Graduate,Fargo-North Dakota
+12971,31,F,Married,Self Employed,4,Graduate,Fargo-North Dakota
+13255,51,F,Prefer not to say,Employee,3,,Reno-Nevada
+18250,56,F,Single,Employee,2,Graduate,Sarasota-Florida
+13725,61,M,Single,Employee,1,Graduate,Springfield-Illinois
+16748,26,M,Single,Employee,4,Post Graduate,Spokane-Washington
+14600,15,M,Single,Student,0,High School,Fort Wayne-Indiana
+16029,54,F,Married,Employee,4,Ph.D,Tulsa-Oklahoma
+17685,19,M,Single,Student,0,?,Chicago-Illinois
+17181,20,F,Single,Student,0,Undergrad,Tulsa-Oklahoma
+13958,45,M,Single,Self Employed,1,Graduate,Boise-Idaho
+14045,19,F,Married,Student,1,Undergrad,Memphis-Tennessee
+17375,34,F,Single,Employee,3,Post Graduate,Reno-Nevada
+16752,24,F,Married,Self Employed,2,Post Graduate,Reno-Nevada
+13748,62,M,Single,Employee,1,Graduate,Savannah-Georgia
+15922,46,M,Single,Self Employed,4,Post Graduate,Des Moines-Iowa
+14188,61,F,Single,Self Employed,1,Ph.D,Chicago-Illinois
+14466,49,M,Single,Self Employed,4,,Des Moines-Iowa
+15039,41,F,Married,Self Employed,3,Post Graduate,Toledo-Ohio
+16546,64,M,Single,Self Employed,2,Post Graduate,Madison-Wisconsin
+14156,50,F,Married,Housewife,4,Post Graduate,Des Moines-Iowa
+12775,59,M,Single,Employee,1,Graduate,Memphis-Tennessee
+16938,20,F,Single,Student,0,Undergrad,El Paso-Texas
+13047,62,F,Married,Housewife,2,Graduate,Savannah-Georgia
+14741,24,M,Single,Employee,0,Post Graduate,Toledo-Ohio
+17420,16,F,Single,Student,0,High School,Madison-Wisconsin
+15299,53,M,Single,Employee,3,Graduate,Madison-Wisconsin
+16570,54,M,Single,Employee,4,Graduate,Reno-Nevada
+12410,42,F,Married,Employee,4,?,Boise-Idaho
+16916,18,M,Single,Student,0,Undergrad,Springfield-Illinois
+13295,30,M,Married,?,3,Graduate,Tulsa-Oklahoma
+14390,15,M,Single,Student,0,?,El Paso-Texas
+16110,58,M,Single,Self Employed,3,Graduate,Madison-Wisconsin
+16378,21,M,Single,Student,1,Graduate,Spokane-Washington
+13488,20,F,Single,Student,0,Undergrad,Memphis-Tennessee
+14078,61,F,Married,Self Employed,1,?,Chicago-Illinois
+14491,54,M,Single,Employee,4,Post Graduate,El Paso-Texas
+15640,56,F,Married,Housewife,4,Post Graduate,Savannah-Georgia
+17560,54,M,Married,,2,Graduate,Fargo-North Dakota
+12433,63,F,Married,Employee,1,Graduate,El Paso-Texas
+13941,15,F,Single,Student,0,High School,Orlando-Florida
+15513,27,F,Single,Employee,1,?,Sarasota-Florida
+16955,54,M,Single,Employee,3,Graduate,Des Moines-Iowa
+17619,37,M,Married,Self Employed,3,,Boise-Idaho
+13600,23,M,Married,Student,1,Graduate,Boise-Idaho
+14213,47,F,Married,Housewife,0,School,Tempe-Arizona
+18168,26,M,Single,Self Employed,4,Post Graduate,Sarasota-Florida
+15240,29,M,Single,Employee,1,Post Graduate,Fort Wayne-Indiana
+17314,24,F,Married,Self Employed,0,School,Orlando-Florida
+16419,24,M,Single,Employee,2,Graduate,Cheyenne-Wyoming
+17811,44,F,Single,Employee,3,Post Graduate,Lubbock-Texas
+16353,48,M,Married,Employee,4,Post Graduate,Fort Wayne-Indiana
+17235,58,F,Single,Employee,3,Ph.D,Sarasota-Florida
+17675,18,F,Married,Student,0,High School,Chicago-Illinois
+15658,34,F,Single,Self Employed,1,Post Graduate,Des Moines-Iowa
+14047,60,F,Single,Employee,1,Graduate,Boise-Idaho
+13758,30,F,Married,Housewife,4,Post Graduate,Cheyenne-Wyoming
+13798,31,F,Married,Housewife,3,Post Graduate,Sarasota-Florida
+13418,64,F,Prefer not to say,Housewife,2,Graduate,Chicago-Illinois
+13408,51,F,Married,Housewife,4,Post Graduate,Fort Wayne-Indiana
+13784,37,F,Married,Employee,2,Graduate,Cheyenne-Wyoming
+16997,25,M,Single,Self Employed,0,Graduate,Memphis-Tennessee
+14842,43,M,Single,Employee,4,Graduate,Peoria-Illinois
+12472,17,F,Single,Student,0,?,Sarasota-Florida
+13581,52,M,Married,Self Employed,4,,Chicago-Illinois
+15602,29,F,Single,Employee,4,Graduate,Fort Wayne-Indiana
+18085,29,M,Single,Employee,3,Post Graduate,Boise-Idaho
+12559,35,F,Married,Housewife,4,,Springfield-Illinois
+14044,39,M,Married,Employee,3,,Des Moines-Iowa
+16525,63,F,Single,Self Employed,0,Post Graduate,Orlando-Florida
+16754,33,F,Single,Self Employed,3,Post Graduate,Savannah-Georgia
+14006,34,F,Married,Housewife,2,Graduate,Des Moines-Iowa
+13894,34,M,Married,Self Employed,4,,Madison-Wisconsin
+14092,36,M,Single,?,3,Post Graduate,Lubbock-Texas
+15646,28,F,Single,Self Employed,1,Graduate,Peoria-Illinois
+16995,39,M,Single,Self Employed,3,Graduate,Tulsa-Oklahoma
+17884,18,M,Married,Student,0,,Sarasota-Florida
+15981,30,M,Single,Self Employed,1,,Toledo-Ohio
+13854,54,F,Single,Self Employed,4,Post Graduate,Chicago-Illinois
+16835,21,M,Single,Student,0,,Cheyenne-Wyoming
+16098,46,M,Single,Employee,2,Graduate,Chicago-Illinois
+13747,65,F,Married,Housewife,2,Post Graduate,Tempe-Arizona
+14438,43,M,Single,Self Employed,4,Graduate,Memphis-Tennessee
+14411,27,M,Married,Self Employed,4,Graduate,Spokane-Washington
+14443,48,M,Single,Employee,0,Graduate,Reno-Nevada
+17017,33,F,Single,Employee,2,Post Graduate,Orlando-Florida
+17838,55,M,Single,Self Employed,3,Graduate,Cheyenne-Wyoming
+17381,43,M,Single,Employee,2,?,Tempe-Arizona
+17256,35,M,Married,Employee,4,,Chicago-Illinois
+16754,33,F,Single,Self Employed,3,Post Graduate,Savannah-Georgia
+13963,34,M,Married,Self Employed,4,Graduate,Fargo-North Dakota
+14729,50,M,Single,Employee,3,Graduate,Springfield-Illinois
+15601,39,M,Single,Employee,3,?,Lubbock-Texas
+13011,26,M,Single,Self Employed,2,Graduate,Reno-Nevada
+14233,17,F,Single,Student,0,High School,Tempe-Arizona
+12433,63,F,Married,Employee,1,Graduate,El Paso-Texas
+16835,21,M,Single,Student,0,,Cheyenne-Wyoming
+15808,33,M,Single,Self Employed,4,Graduate,Des Moines-Iowa
+17069,15,M,Single,Student,0,High School,Fargo-North Dakota
+16510,15,F,Single,Student,0,High School,Tulsa-Oklahoma
+12868,49,F,Married,Housewife,0,Graduate,Madison-Wisconsin

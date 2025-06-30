@@ -1,0 +1,1229 @@
+,Customer_ID,Age,Gender,Marital Status,Occupation,Monthly Income,Education,Location,Product_Description,Product_Category,Quantity,Unit_Price,Delivery_Charges,Coupon,Discount_Rate
+0,16244,20,M,Single,Student,0,Undergrad,Peoria-Illinois,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,1.0,102.13,6.5,,10.0
+1,16244,20,M,Single,Student,0,Undergrad,Peoria-Illinois,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,122.77,6.5,,
+2,14688,18,M,Single,Student,1,Undergrad,Boise-Idaho,Google Women's Scoop Neck Tee White,Apparel,1.0,6.0,6.0,,30.0
+3,14688,18,M,Single,Student,1,Undergrad,Boise-Idaho,Nest Thermostat E - USA,Nest,3.0,99.0,6.5,,20.0
+4,14688,18,M,Single,Student,1,Undergrad,Boise-Idaho,25L Classic Rucksack,Backpacks,1.0,103.15,6.5,,
+5,14688,18,M,Single,Student,1,Undergrad,Boise-Idaho,Nest Learning Thermostat 3rd Gen - CA - Stainless Steel,Nest-Canada,2.0,199.0,8.7,,30.0
+6,14688,18,M,Single,Student,1,Undergrad,Boise-Idaho,YouTube Men's Short Sleeve Hero Tee Black,Apparel,1.0,13.59,6.0,,
+7,14688,18,M,Single,Student,1,Undergrad,Boise-Idaho,Google 5-Panel Cap,Headgear,2.0,19.59,6.5,HGEAR10,10.0
+8,14688,18,M,Single,Student,1,Undergrad,Boise-Idaho,Sport Bag,Bags,2.0,3.99,6.0,AIO30,
+9,16771,58,F,Single,Self Employed,2,Post Graduate,Fargo-North Dakota,Android RFID Journal,Notebooks & Journals,1.0,4.8,19.99,,10.0
+10,16771,58,F,Single,Self Employed,2,Post Graduate,Fargo-North Dakota,Google Men's 100% Cotton Short Sleeve Hero Tee Black,Apparel,1.0,16.99,6.0,,
+11,16771,58,F,Single,Self Employed,2,Post Graduate,Fargo-North Dakota,Nest Learning Thermostat 3rd Gen-USA - Copper,Nest-USA,2.0,151.88,6.5,,30.0
+12,16771,58,F,Single,Self Employed,2,Post Graduate,Fargo-North Dakota,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,2.0,151.88,6.5,,
+13,16771,58,F,Single,Self Employed,2,Post Graduate,Fargo-North Dakota,Ballpoint LED Light Pen,Office,2.0,2.55,6.0,,30.0
+14,16771,58,F,Single,Self Employed,2,Post Graduate,Fargo-North Dakota,YouTube Tee Black,Apparel,1.0,22.41,6.0,,
+15,16771,58,F,Single,Self Employed,2,Post Graduate,Fargo-North Dakota,Google Tee Blue,Apparel,1.0,17.93,12.99,,
+16,12583,15,M,Single,Student,0,High School,Cheyenne-Wyoming,Google Men's Pullover Hoodie Grey,Apparel,1.0,42.91,6.5,,
+17,12583,15,M,Single,Student,0,High School,Cheyenne-Wyoming,Google Women's Short Sleeve Hero Tee Black,Apparel,1.0,14.02,6.5,SALE10,10.0
+18,12583,15,M,Single,Student,0,High School,Cheyenne-Wyoming,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.0,ELEC20,20.0
+19,12583,15,M,Single,Student,0,High School,Cheyenne-Wyoming,Switch Tone Color Crayon Pen,Office,1.0,1.64,6.5,OFF10,10.0
+20,13141,59,M,Married,Employee,0,Graduate,Tulsa-Oklahoma,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,,20.0
+21,13141,59,M,Married,Employee,0,Graduate,Tulsa-Oklahoma,Google Large Standard Journal Navy,Office,1.0,15.99,6.0,,20.0
+22,17961,46,M,Prefer not to say,Employee,3,Post Graduate,El Paso-Texas,Google Men's Short Sleeve Hero Tee Light Blue,Apparel,1.0,15.19,6.0,SALE10,10.0
+23,17961,46,M,Prefer not to say,Employee,3,Post Graduate,El Paso-Texas,Google Men's Short Sleeve Hero Tee Charcoal,Apparel,1.0,10.63,6.0,,10.0
+24,17961,46,M,Prefer not to say,Employee,3,Post Graduate,El Paso-Texas,Google Onesie Green,Apparel,11.0,16.79,6.0,SALE10,10.0
+25,17961,46,M,Prefer not to say,Employee,3,Post Graduate,El Paso-Texas,Google 3/4 Sleeve Raglan Badge Henley Black,Apparel,4.0,25.78,6.5,,10.0
+26,17961,46,M,Prefer not to say,Employee,3,Post Graduate,El Paso-Texas,Google Men's Vintage Badge Tee White,Apparel,1.0,4.56,6.0,SALE10,10.0
+27,17961,46,M,Prefer not to say,Employee,3,Post Graduate,El Paso-Texas,Google Rucksack,Bags,3.0,72.2,6.5,,10.0
+28,17961,46,M,Prefer not to say,Employee,3,Post Graduate,El Paso-Texas,Google Infant Zip Hood Pink,Apparel,1.0,31.35,6.5,,10.0
+29,17961,46,M,Prefer not to say,Employee,3,Post Graduate,El Paso-Texas,Google Laptop and Cell Phone Stickers,Office,1.0,2.39,49.73,,10.0
+30,17961,46,M,Prefer not to say,Employee,3,Post Graduate,El Paso-Texas,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.0,ELEC10,10.0
+31,14060,47,F,Single,Employee,0,Post Graduate,Cheyenne-Wyoming,Google Men's Watershed Full Zip Hoodie Grey,Apparel,1.0,44.0,6.0,,20.0
+32,14060,47,F,Single,Employee,0,Post Graduate,Cheyenne-Wyoming,Google Doodle Decal,Office,1.0,2.99,6.0,,10.0
+33,18239,15,M,Single,Student,0,High School,Reno-Nevada,Google Men's Short Sleeve Performance Badge Tee Pewter,Apparel,1.0,11.0,6.0,SALE10,10.0
+34,18239,15,M,Single,Student,0,High School,Reno-Nevada,Nest Cam IQ - USA,Nest,2.0,199.0,6.0,,10.0
+35,18239,15,M,Single,Student,0,High School,Reno-Nevada,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,153.71,6.5,,10.0
+36,18239,15,M,Single,Student,0,High School,Reno-Nevada,Google Men's Performance 1/4 Zip Pullover Heather/Black,Apparel,1.0,26.4,6.0,,10.0
+37,18239,15,M,Single,Student,0,High School,Reno-Nevada,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,1.0,81.5,6.5,ELEC10,
+38,13606,65,M,Single,Self Employed,1,Graduate,Springfield-Illinois,Nest Cam Outdoor Security Camera - USA,Nest-USA,2.0,121.3,6.5,,30.0
+39,15235,18,M,Single,Student,1,Undergrad,Cheyenne-Wyoming,Google Men's Vintage Badge Tee Black,Apparel,1.0,7.6,6.0,,10.0
+40,15235,18,M,Single,Student,1,Undergrad,Cheyenne-Wyoming,Google Men's 100% Cotton Short Sleeve Hero Tee Black,Apparel,1.0,13.59,6.0,,
+41,15235,18,M,Single,Student,1,Undergrad,Cheyenne-Wyoming,Google Women's Tee Grey,Apparel,1.0,17.93,12.99,SALE30,
+42,15235,18,M,Single,Student,1,Undergrad,Cheyenne-Wyoming,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,1.0,80.52,12.99,ELEC30,
+43,15235,18,M,Single,Student,1,Undergrad,Cheyenne-Wyoming,Google Women's Short Sleeve Hero Tee Sky Blue,Apparel,1.0,15.19,6.0,SALE10,10.0
+44,15235,18,M,Single,Student,1,Undergrad,Cheyenne-Wyoming,Maze Pen,Office,25.0,0.98,6.5,OFF10,10.0
+45,15235,18,M,Single,Student,1,Undergrad,Cheyenne-Wyoming,Switch Tone Color Crayon Pen,Office,1.0,1.59,6.0,,
+46,15235,18,M,Single,Student,1,Undergrad,Cheyenne-Wyoming,Google Men's 100% Cotton Short Sleeve Hero Tee Black,Apparel,1.0,13.59,6.0,,10.0
+47,15235,18,M,Single,Student,1,Undergrad,Cheyenne-Wyoming,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,1.0,80.52,6.5,,
+48,15235,18,M,Single,Student,1,Undergrad,Cheyenne-Wyoming,Android Tone Hoodie Black,Apparel,1.0,61.15,6.0,,30.0
+49,15235,18,M,Single,Student,1,Undergrad,Cheyenne-Wyoming,Google Women's Short Sleeve Hero Tee Black,Apparel,1.0,13.59,6.0,,10.0
+50,15235,18,M,Single,Student,1,Undergrad,Cheyenne-Wyoming,YouTube Twill Cap,Apparel,1.0,8.79,6.0,,
+51,17548,34,F,Single,Employee,1,Post Graduate,Memphis-Tennessee,YouTube Custom Decals,Office,1.0,2.05,6.5,OFF10,10.0
+52,17460,17,M,Single,Student,0,High School,Springfield-Illinois,Google Men's Airflow 1/4 Zip Pullover Lapis,Apparel,1.0,14.0,6.0,,10.0
+53,13093,35,M,Married,Self Employed,4,Ph.D,Lubbock-Texas,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,2.0,149.0,6.0,ELEC20,20.0
+54,13093,35,M,Married,Self Employed,4,Ph.D,Lubbock-Texas,Galaxy Screen Cleaning Cloth,Office,20.0,1.99,6.0,,
+55,13093,35,M,Married,Self Employed,4,Ph.D,Lubbock-Texas,Gift Card- $100.00,Gift Cards,1.0,100.0,0.0,GC30,30.0
+56,13093,35,M,Married,Self Employed,4,Ph.D,Lubbock-Texas,Android Sticker Sheet Ultra Removable,Office,1.0,2.99,6.0,OFF30,30.0
+57,13093,35,M,Married,Self Employed,4,Ph.D,Lubbock-Texas,Android Women's Long Sleeve Blended Cardigan Grey,Apparel,1.0,12.0,6.0,,10.0
+58,13093,35,M,Married,Self Employed,4,Ph.D,Lubbock-Texas,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,,10.0
+59,13093,35,M,Married,Self Employed,4,Ph.D,Lubbock-Texas,Google Men's Short Sleeve Performance Badge Tee Pewter,Apparel,1.0,11.0,6.0,,
+60,13093,35,M,Married,Self Employed,4,Ph.D,Lubbock-Texas,Nest Protect Smoke + CO White Battery Alarm - CA,Nest-Canada,3.0,104.0,8.7,,30.0
+61,13093,35,M,Married,Self Employed,4,Ph.D,Lubbock-Texas,Google Sunglasses,Lifestyle,2.0,3.5,6.0,,30.0
+62,13093,35,M,Married,Self Employed,4,Ph.D,Lubbock-Texas,Android Stretch Fit Hat S/M,Headgear,1.0,12.31,6.0,,30.0
+63,13093,35,M,Married,Self Employed,4,Ph.D,Lubbock-Texas,Google Men's 100% Cotton Short Sleeve Hero Tee Red,Apparel,1.0,13.59,12.99,,
+64,13093,35,M,Married,Self Employed,4,Ph.D,Lubbock-Texas,Google Men's Performance 1/4 Zip Pullover Heather/Black,Apparel,1.0,90.77,6.5,SALE10,10.0
+65,13093,35,M,Married,Self Employed,4,Ph.D,Lubbock-Texas,Android Men's Outerstellar Short Sleeve Tee Black,Apparel,1.0,15.99,6.0,,
+66,13093,35,M,Married,Self Employed,4,Ph.D,Lubbock-Texas,Nest Learning Thermostat 3rd Gen-USA - Copper,Nest-USA,1.0,151.88,6.5,,30.0
+67,13093,35,M,Married,Self Employed,4,Ph.D,Lubbock-Texas,26 oz Double Wall Insulated Bottle,Drinkware,20.0,19.99,55.73,EXTRA10,
+68,13093,35,M,Married,Self Employed,4,Ph.D,Lubbock-Texas,Ballpoint Stylus Pen,Office,3.0,3.85,12.99,,10.0
+69,16186,21,F,Single,Student,0,Graduate,Orlando-Florida,Android Lifted Men's Short Sleeve Tee Blue,Apparel,1.0,16.5,6.5,,10.0
+70,13963,34,M,Married,Self Employed,4,Graduate,Fargo-North Dakota,Google Youth Sports Tee Navy,Apparel,1.0,21.99,39.27,SALE30,30.0
+71,13963,34,M,Married,Self Employed,4,Graduate,Fargo-North Dakota,Google Sunglasses,Lifestyle,20.0,2.8,140.68,,10.0
+72,13963,34,M,Married,Self Employed,4,Graduate,Fargo-North Dakota,Google Sunglasses,Lifestyle,30.0,2.8,140.68,EXTRA10,
+73,13963,34,M,Married,Self Employed,4,Graduate,Fargo-North Dakota,YouTube Leatherette Notebook Combo,Office,1.0,3.884635416666667,49.73,,30.0
+74,13963,34,M,Married,Self Employed,4,Graduate,Fargo-North Dakota,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,1.0,80.52,6.5,,
+75,14576,56,F,Married,Housewife,3,Graduate,Lubbock-Texas,Google Women's Performance Golf Polo Blue,Apparel,1.0,59.83,6.5,SALE10,
+76,13069,40,F,Prefer not to say,Employee,3,Post Graduate,Fort Wayne-Indiana,Google Sunglasses,Lifestyle,1.0,3.5,6.5,EXTRA20,20.0
+77,13069,40,F,Prefer not to say,Employee,3,Post Graduate,Fort Wayne-Indiana,Google Women's Short Sleeve Hero Tee Red Heather,Apparel,1.0,19.46884713375796,6.5,SALE20,20.0
+78,13069,40,F,Prefer not to say,Employee,3,Post Graduate,Fort Wayne-Indiana,Google Men's 100% Cotton Short Sleeve Hero Tee Navy,Apparel,2.0,13.59,6.0,,
+79,13069,40,F,Prefer not to say,Employee,3,Post Graduate,Fort Wayne-Indiana,Google Men's Short Sleeve Hero Tee Charcoal,Apparel,1.0,15.19,6.0,,20.0
+80,13069,40,F,Prefer not to say,Employee,3,Post Graduate,Fort Wayne-Indiana,Google Men's Pullover Hoodie Grey,Apparel,1.0,41.59,6.5,,20.0
+81,13069,40,F,Prefer not to say,Employee,3,Post Graduate,Fort Wayne-Indiana,Windup Android,Lifestyle,1.0,3.19,6.5,,20.0
+82,13069,40,F,Prefer not to say,Employee,3,Post Graduate,Fort Wayne-Indiana,Nest Thermostat E - USA,Nest,1.0,100.91,6.5,,
+83,13069,40,F,Prefer not to say,Employee,3,Post Graduate,Fort Wayne-Indiana,Google Men's 100% Cotton Short Sleeve Hero Tee Navy,Apparel,1.0,16.99,6.5,SALE20,20.0
+84,13069,40,F,Prefer not to say,Employee,3,Post Graduate,Fort Wayne-Indiana,Nest Learning Thermostat 3rd Gen-USA - Copper,Nest-USA,3.0,151.88,6.5,,
+85,13069,40,F,Prefer not to say,Employee,3,Post Graduate,Fort Wayne-Indiana,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.5,,
+86,13069,40,F,Prefer not to say,Employee,3,Post Graduate,Fort Wayne-Indiana,Google Men's Long & Lean Tee Charcoal,Apparel,2.0,4.8,6.0,,
+87,13069,40,F,Prefer not to say,Employee,3,Post Graduate,Fort Wayne-Indiana,Google Men's Watershed Full Zip Hoodie Grey,Apparel,1.0,44.0,6.0,,
+88,13069,40,F,Prefer not to say,Employee,3,Post Graduate,Fort Wayne-Indiana,Google Youth Short Sleeve T-shirt Yellow,Apparel,1.0,18.99,6.5,,
+89,12868,49,F,Married,Housewife,0,Graduate,Madison-Wisconsin,26 oz Double Wall Insulated Bottle,Drinkware,3.0,19.99,6.0,,
+90,17838,55,M,Single,Self Employed,3,Graduate,Cheyenne-Wyoming,Maze Pen,Office,4.0,0.99,6.0,,
+91,17838,55,M,Single,Self Employed,3,Graduate,Cheyenne-Wyoming,Google Women's Short Sleeve Hero Tee White,Apparel,3.0,14.02,98.74,,10.0
+92,17838,55,M,Single,Self Employed,3,Graduate,Cheyenne-Wyoming,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,153.71,6.5,ELEC10,10.0
+93,13842,47,F,Married,Housewife,3,Post Graduate,Tempe-Arizona,Leatherette Journal,Office,250.0,10.99,250.01,,30.0
+94,13842,47,F,Married,Housewife,3,Post Graduate,Tempe-Arizona,Google Women's Tee Grey,Apparel,1.0,17.93,12.99,,
+95,13842,47,F,Married,Housewife,3,Post Graduate,Tempe-Arizona,YouTube Leatherette Notebook Combo,Office,10.0,5.59,21.92,,30.0
+96,13842,47,F,Married,Housewife,3,Post Graduate,Tempe-Arizona,Rainbow Stylus Pen,Office,20.0,1.2,21.92,,30.0
+97,13842,47,F,Married,Housewife,3,Post Graduate,Tempe-Arizona,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,2.0,149.0,6.5,ELEC30,
+98,13842,47,F,Married,Housewife,3,Post Graduate,Tempe-Arizona,Google Women's Short Sleeve Hero Tee Grey,Apparel,1.0,4.08,6.0,SALE20,
+99,13842,47,F,Married,Housewife,3,Post Graduate,Tempe-Arizona,Google Men's Performance Full Zip Jacket Black,Apparel,1.0,67.19,6.5,SALE30,30.0
+100,13050,32,M,Prefer not to say,Self Employed,4,Post Graduate,Lubbock-Texas,Nest Cam Indoor Security Camera - USA,Nest-USA,3.0,119.0,12.99,ELEC20,20.0
+101,13050,32,M,Prefer not to say,Self Employed,4,Post Graduate,Lubbock-Texas,Google Infuser-Top Water Bottle,Drinkware,1.0,9.99,14.41,,30.0
+102,13050,32,M,Prefer not to say,Self Employed,4,Post Graduate,Lubbock-Texas,Google Men's 100% Cotton Short Sleeve Hero Tee White,Apparel,1.0,13.59,6.0,SALE30,30.0
+103,13050,32,M,Prefer not to say,Self Employed,4,Post Graduate,Lubbock-Texas,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.5,ELEC30,30.0
+104,13050,32,M,Prefer not to say,Self Employed,4,Post Graduate,Lubbock-Texas,Google Toddler Short Sleeve T-shirt Royal Blue,Apparel,1.0,13.59,6.0,,30.0
+105,13050,32,M,Prefer not to say,Self Employed,4,Post Graduate,Lubbock-Texas,Bottle Opener Clip,Drinkware,1.0,3.5,14.41,,30.0
+106,13050,32,M,Prefer not to say,Self Employed,4,Post Graduate,Lubbock-Texas,Google Men's 100% Cotton Short Sleeve Hero Tee Black,Apparel,10.0,16.99,6.0,,30.0
+107,13050,32,M,Prefer not to say,Self Employed,4,Post Graduate,Lubbock-Texas,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,ELEC30,30.0
+108,13050,32,M,Prefer not to say,Self Employed,4,Post Graduate,Lubbock-Texas,Google Braille Tee Black,Apparel,1.0,17.93,6.5,,
+109,13050,32,M,Prefer not to say,Self Employed,4,Post Graduate,Lubbock-Texas,Nest Thermostat E - USA,Nest,1.0,100.91,6.5,,
+110,15012,15,M,Single,Student,0,High School,Lubbock-Texas,Leatherette Journal,Office,31.0,8.78,41.3,,
+111,15012,15,M,Single,Student,0,High School,Lubbock-Texas,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,122.77,6.5,ELEC10,10.0
+112,15012,15,M,Single,Student,0,High School,Lubbock-Texas,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,1.0,81.5,6.5,,10.0
+113,15012,15,M,Single,Student,0,High School,Lubbock-Texas,Softsided Travel Pouch Set,Bags,1.0,11.34,30.0,AIO10,10.0
+114,15012,15,M,Single,Student,0,High School,Lubbock-Texas,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,2.0,81.5,6.5,,10.0
+115,15012,15,M,Single,Student,0,High School,Lubbock-Texas,Google Men's  Zip Hoodie,Apparel,3.0,46.21,62.74,,
+116,15012,15,M,Single,Student,0,High School,Lubbock-Texas,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,3.0,81.5,6.5,,10.0
+117,15012,15,M,Single,Student,0,High School,Lubbock-Texas,Nest Cam Indoor Security Camera - USA,Nest-USA,2.0,122.77,6.5,,10.0
+118,13584,50,M,Single,Employee,2,Graduate,Memphis-Tennessee,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1.0,151.88,19.99,,30.0
+119,17315,40,M,Single,Employee,4,Graduate,Tempe-Arizona,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.0,ELEC30,
+120,17315,40,M,Single,Employee,4,Graduate,Tempe-Arizona,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.0,ELEC30,
+121,17315,40,M,Single,Employee,4,Graduate,Tempe-Arizona,Android Men's Short Sleeve Hero Tee Heather,Apparel,1.0,13.29,6.0,SALE30,30.0
+122,17315,40,M,Single,Employee,4,Graduate,Tempe-Arizona,Collapsible Shopping Bag,Bags,1.0,3.99,20.0,,30.0
+123,17315,40,M,Single,Employee,4,Graduate,Tempe-Arizona,Google Youth Girl Tee Green,Apparel,1.0,15.19,6.0,,30.0
+124,17315,40,M,Single,Employee,4,Graduate,Tempe-Arizona,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,,
+125,17315,40,M,Single,Employee,4,Graduate,Tempe-Arizona,Google Sunglasses,Lifestyle,6.0,2.8,33.04,EXTRA30,30.0
+126,17315,40,M,Single,Employee,4,Graduate,Tempe-Arizona,Keyboard DOT Sticker,Office,1.0,1.2,20.0,,30.0
+127,15781,32,F,Single,Employee,2,Post Graduate,Springfield-Illinois,Google Trike Tee Black,Apparel,1.0,16.3,6.5,SALE30,
+128,15291,51,F,Single,Employee,3,Graduate,Madison-Wisconsin,Google Women's Lightweight Microfleece Jacket,Apparel,1.0,61.89,6.5,,10.0
+129,15291,51,F,Single,Employee,3,Graduate,Madison-Wisconsin,Google Blackout Cap,Headgear,20.0,13.29,6.0,,
+130,15291,51,F,Single,Employee,3,Graduate,Madison-Wisconsin,Google Men's Long & Lean Tee Charcoal,Apparel,1.0,4.8,6.0,,
+131,15291,51,F,Single,Employee,3,Graduate,Madison-Wisconsin,Satin Black Ballpoint Pen,Office,2.0,9.6,6.0,,20.0
+132,13394,57,M,Married,Employee,2,Graduate,Orlando-Florida,Google Thermal Bottle Green,Drinkware,1.0,19.56,6.5,EXTRA30,30.0
+133,13394,57,M,Married,Employee,2,Graduate,Orlando-Florida,Google Twill Cap,Apparel,2.0,11.2,6.0,,
+134,17362,31,F,Single,Employee,3,Graduate,Memphis-Tennessee,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,2.0,151.88,6.5,ELEC30,30.0
+135,17362,31,F,Single,Employee,3,Graduate,Memphis-Tennessee,Nest Cam IQ - USA,Nest,1.0,202.84,6.5,NE30,
+136,17362,31,F,Single,Employee,3,Graduate,Memphis-Tennessee,Google Emoji Sticker Pack,Accessories,1.0,4.07,6.5,,30.0
+137,16779,22,M,Single,Student,1,Graduate,Spokane-Washington,Google Women's Short Sleeve Hero Tee Grey,Apparel,5.0,5.1,6.0,SALE20,20.0
+138,16779,22,M,Single,Student,1,Graduate,Spokane-Washington,Google Men's Vintage Badge Tee White,Apparel,2.0,5.7,6.0,,20.0
+139,16779,22,M,Single,Student,1,Graduate,Spokane-Washington,Google Men's Watershed Full Zip Hoodie Grey,Apparel,1.0,44.0,6.0,,
+140,16779,22,M,Single,Student,1,Graduate,Spokane-Washington,Google Men's Short Sleeve Performance Badge Tee Pewter,Apparel,1.0,11.0,6.0,,20.0
+141,16779,22,M,Single,Student,1,Graduate,Spokane-Washington,Nest Secure Alarm System Starter Pack - USA,Nest,1.0,183.72125,6.5,,30.0
+142,16779,22,M,Single,Student,1,Graduate,Spokane-Washington,Nest Secure Alarm System Starter Pack - USA,Nest,1.0,355.74,6.5,,
+143,16779,22,M,Single,Student,1,Graduate,Spokane-Washington,Google Men's Long & Lean Tee Charcoal,Apparel,10.0,6.0,6.0,SALE20,20.0
+144,17389,23,F,Married,Student,1,Post Graduate,Lubbock-Texas,Nest Cam IQ - USA,Nest,1.0,199.0,6.0,,20.0
+145,17389,23,F,Married,Student,1,Post Graduate,Lubbock-Texas,Nest Cam IQ - USA,Nest,1.0,199.0,6.0,,10.0
+146,17863,33,F,Married,Self Employed,4,Post Graduate,Springfield-Illinois,Google Sunglasses,Lifestyle,1.0,3.5,6.48,EXTRA20,
+147,17863,33,F,Married,Self Employed,4,Post Graduate,Springfield-Illinois,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,2.0,151.88,6.5,,30.0
+148,15862,39,F,Married,Housewife,2,Post Graduate,Toledo-Ohio,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,153.71,6.5,ELEC10,10.0
+149,15862,39,F,Married,Housewife,2,Post Graduate,Toledo-Ohio,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,122.77,6.5,,10.0
+150,15862,39,F,Married,Housewife,2,Post Graduate,Toledo-Ohio,Google Men's Microfiber 1/4 Zip Pullover Blue/Indigo,Apparel,1.0,61.89,6.5,,10.0
+151,15862,39,F,Married,Housewife,2,Post Graduate,Toledo-Ohio,Google Pet Feeding Mat,Lifestyle,1.0,7.21,6.5,,10.0
+152,15862,39,F,Married,Housewife,2,Post Graduate,Toledo-Ohio,Ballpoint LED Light Pen,Office,62.0,2.0,210.44,OFF10,
+153,15862,39,F,Married,Housewife,2,Post Graduate,Toledo-Ohio,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,153.71,6.5,,10.0
+154,15862,39,F,Married,Housewife,2,Post Graduate,Toledo-Ohio,Google Men's 100% Cotton Short Sleeve Hero Tee Red,Apparel,1.0,17.53,6.5,SALE10,10.0
+155,15100,18,F,Single,Student,0,Undergrad,El Paso-Texas,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,119.0,6.5,,30.0
+156,14778,51,F,Single,Self Employed,3,Post Graduate,Tulsa-Oklahoma,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1.0,151.88,19.99,ELEC30,30.0
+157,14778,51,F,Single,Self Employed,3,Post Graduate,Tulsa-Oklahoma,Nest Learning Thermostat 3rd Gen - CA - Stainless Steel,Nest-Canada,1.0,202.84,8.7,,
+158,13137,44,M,Married,Employee,3,Graduate,Madison-Wisconsin,Nest Secure Alarm System Starter Pack - USA,Nest,1.0,355.74,6.5,NE30,30.0
+159,13137,44,M,Married,Employee,3,Graduate,Madison-Wisconsin,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,1.0,80.52,6.5,ELEC30,30.0
+160,13137,44,M,Married,Employee,3,Graduate,Madison-Wisconsin,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,1.0,80.52,6.5,,30.0
+161,13137,44,M,Married,Employee,3,Graduate,Madison-Wisconsin,Nest Cam Indoor Security Camera - USA,Nest-USA,2.0,121.3,6.5,,30.0
+162,13137,44,M,Married,Employee,3,Graduate,Madison-Wisconsin,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,121.3,6.5,ELEC30,30.0
+163,13137,44,M,Married,Employee,3,Graduate,Madison-Wisconsin,Nest Secure Alarm System Starter Pack - USA,Nest,1.0,355.74,6.5,,30.0
+164,13137,44,M,Married,Employee,3,Graduate,Madison-Wisconsin,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,2.0,80.52,6.5,ELEC30,
+165,13137,44,M,Married,Employee,3,Graduate,Madison-Wisconsin,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,151.88,6.5,,
+166,16745,40,F,Single,Employee,4,Graduate,El Paso-Texas,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,151.88,6.5,,
+167,16745,40,F,Single,Employee,4,Graduate,El Paso-Texas,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,1.0,80.52,6.5,,30.0
+168,16745,40,F,Single,Employee,4,Graduate,El Paso-Texas,Nest Learning Thermostat 3rd Gen - CA - Stainless Steel,Nest-Canada,1.0,202.84,8.7,,30.0
+169,16745,40,F,Single,Employee,4,Graduate,El Paso-Texas,Google Tee Blue,Apparel,1.0,17.93,12.48,,
+170,16745,40,F,Single,Employee,4,Graduate,El Paso-Texas,Google Women's Short Sleeve Badge Tee Grey,Apparel,1.0,3.47,12.48,SALE30,30.0
+171,16745,40,F,Single,Employee,4,Graduate,El Paso-Texas,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1.0,151.88,6.5,,30.0
+172,16745,40,F,Single,Employee,4,Graduate,El Paso-Texas,Nest Cam Indoor Security Camera - USA,Nest-USA,2.0,121.3,6.5,,30.0
+173,16745,40,F,Single,Employee,4,Graduate,El Paso-Texas,YouTube Tee Black,Apparel,1.0,17.93,12.91,SALE30,30.0
+174,16745,40,F,Single,Employee,4,Graduate,El Paso-Texas,Nest Cam IQ - USA,Nest,1.0,202.84,6.5,NE30,
+175,16218,53,F,Single,Employee,4,Graduate,Savannah-Georgia,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,3.0,81.5,6.5,ELEC10,10.0
+176,16218,53,F,Single,Employee,4,Graduate,Savannah-Georgia,Engraved Ceramic Google Mug,Drinkware,2.0,7.42,6.5,EXTRA10,
+177,14594,25,F,Married,Employee,2,Graduate,Memphis-Tennessee,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,122.77,6.5,,10.0
+178,17356,46,F,Prefer not to say,Self Employed,2,Graduate,Madison-Wisconsin,Android Women's Dash Tee Grey,Apparel,1.0,17.93,6.5,SALE30,30.0
+179,17356,46,F,Prefer not to say,Self Employed,2,Graduate,Madison-Wisconsin,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,151.88,6.5,ELEC30,30.0
+180,18011,40,M,Single,Employee,1,Post Graduate,Springfield-Illinois,Red Spiral Google Notebook,Office,1.0,10.31,6.5,,10.0
+181,18011,40,M,Single,Employee,1,Post Graduate,Springfield-Illinois,20 oz Stainless Steel Insulated Tumbler,Drinkware,1.0,25.78,6.5,,10.0
+182,18011,40,M,Single,Employee,1,Post Graduate,Springfield-Illinois,Badge Holder,Office,3.0,2.05,6.5,,10.0
+183,12502,51,F,Single,Student,3,Ph.D,Fargo-North Dakota,Waze Mobile Phone Vent Mount,Waze,1.0,7.12,6.0,,
+184,12502,51,F,Single,Student,3,Ph.D,Fargo-North Dakota,Nest Thermostat E - USA,Nest,1.0,100.91,12.99,NE30,
+185,17912,43,M,Married,Employee,3,Graduate,Boise-Idaho,YouTube Men's Short Sleeve Hero Tee Black,Apparel,1.0,16.99,30.0,,10.0
+186,17912,43,M,Married,Employee,3,Graduate,Boise-Idaho,Waze Baby on Board Window Decal,Waze,1.0,2.99,6.0,,
+187,17912,43,M,Married,Employee,3,Graduate,Boise-Idaho,Colored Pencil Set,Office,1.0,2.99,6.0,OFF30,
+188,16705,50,M,Single,Employee,3,Post Graduate,El Paso-Texas,Google Men's Bayside Graphic Tee,Apparel,1.0,19.99,6.0,SALE30,30.0
+189,16705,50,M,Single,Employee,3,Post Graduate,El Paso-Texas,YouTube Custom Decals,Office,1.0,0.41,6.5,,30.0
+190,16705,50,M,Single,Employee,3,Post Graduate,El Paso-Texas,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,121.3,6.5,,30.0
+191,16634,42,M,Single,Self Employed,1,Post Graduate,Fargo-North Dakota,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,153.71,6.5,ELEC10,10.0
+192,16634,42,M,Single,Self Employed,1,Post Graduate,Fargo-North Dakota,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,153.71,6.5,,
+193,12778,43,F,Single,Employee,4,Post Graduate,Spokane-Washington,Google Women's Short Sleeve Hero Tee Heather,Apparel,1.0,7.75,6.5,,30.0
+194,13309,20,F,Single,Student,0,Undergrad,Boise-Idaho,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,121.3,6.5,ELEC30,
+195,13309,20,F,Single,Student,0,Undergrad,Boise-Idaho,Nest Secure Alarm System Starter Pack - USA,Nest,1.0,355.74,6.5,,30.0
+196,13309,20,F,Single,Student,0,Undergrad,Boise-Idaho,Nest Thermostat E - USA,Nest,1.0,100.91,6.5,NE30,30.0
+197,13309,20,F,Single,Student,0,Undergrad,Boise-Idaho,Nest Detect - USA,Nest,2.0,49.95,6.5,,
+198,13309,20,F,Single,Student,0,Undergrad,Boise-Idaho,Nest Detect - USA,Nest,2.0,49.95,6.5,NE30,30.0
+199,16456,38,M,Single,Employee,2,Post Graduate,Tulsa-Oklahoma,Nest Detect - USA,Nest,1.0,49.95,6.5,,30.0
+200,16456,38,M,Single,Employee,2,Post Graduate,Tulsa-Oklahoma,Nest Thermostat E - USA,Nest,1.0,100.91,7.385868263473054,,
+201,16456,38,M,Single,Employee,2,Post Graduate,Tulsa-Oklahoma,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,153.71,6.5,,10.0
+202,16456,38,M,Single,Employee,2,Post Graduate,Tulsa-Oklahoma,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,151.88,6.5,ELEC30,30.0
+203,14135,50,M,Single,Employee,4,Post Graduate,Savannah-Georgia,YouTube Twill Cap,Apparel,1.0,11.34,6.5,,10.0
+204,14135,50,M,Single,Employee,4,Post Graduate,Savannah-Georgia,Google Youth Short Sleeve Tee White,Apparel,5.0,15.19,12.91,,20.0
+205,14135,50,M,Single,Employee,4,Post Graduate,Savannah-Georgia,Google Spiral Journal with Pen,Notebooks & Journals,1.0,5.59,34.94,NJ20,20.0
+206,14135,50,M,Single,Employee,4,Post Graduate,Savannah-Georgia,Maze Pen,Office,1.0,0.99,6.0,OFF10,10.0
+207,14135,50,M,Single,Employee,4,Post Graduate,Savannah-Georgia,Android Men's Long & Lean Badge Tee Charcoal,Apparel,1.0,4.8,6.0,,20.0
+208,14135,50,M,Single,Employee,4,Post Graduate,Savannah-Georgia,Ballpoint Pen Blue,Office,4.0,1.02,6.5,,10.0
+209,14135,50,M,Single,Employee,4,Post Graduate,Savannah-Georgia,Nest Cam Indoor Security Camera - USA,Nest-USA,5.0,119.0,12.91,,20.0
+210,14135,50,M,Single,Employee,4,Post Graduate,Savannah-Georgia,YouTube Women's Short Sleeve Hero Tee Charcoal,Apparel,1.0,15.67,18.47,,10.0
+211,14850,24,M,Married,Self Employed,2,Graduate,Cheyenne-Wyoming,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,3.0,80.52,12.99,,30.0
+212,14850,24,M,Married,Self Employed,2,Graduate,Cheyenne-Wyoming,Google Men's 100% Cotton Short Sleeve Hero Tee Black,Apparel,1.0,6.93,19.99,,
+213,14850,24,M,Married,Self Employed,2,Graduate,Cheyenne-Wyoming,Google Youth Short Sleeve Tee White,Apparel,1.0,15.19,6.5,SALE30,30.0
+214,14850,24,M,Married,Self Employed,2,Graduate,Cheyenne-Wyoming,YouTube Custom Decals,Office,5.0,0.51,6.0,,
+215,13715,35,F,Married,Housewife,3,Graduate,Savannah-Georgia,7&quot; Dog Frisbee,Lifestyle,1.0,1.5,6.0,EXTRA10,10.0
+216,13715,35,F,Married,Housewife,3,Graduate,Savannah-Georgia,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,153.71,6.5,,10.0
+217,13715,35,F,Married,Housewife,3,Graduate,Savannah-Georgia,Google Men's Vintage Badge Tee Sage,Apparel,1.0,4.56,6.0,SALE10,10.0
+218,13715,35,F,Married,Housewife,3,Graduate,Savannah-Georgia,Google Sunglasses,Lifestyle,25.0,2.8,12.99,EXTRA20,20.0
+219,13715,35,F,Married,Housewife,3,Graduate,Savannah-Georgia,23 oz Wide Mouth Sport Bottle,Drinkware,3.0,8.79,12.48,,10.0
+220,13715,35,F,Married,Housewife,3,Graduate,Savannah-Georgia,Google Men's Short Sleeve Hero Tee Charcoal,Apparel,2.0,10.63,12.48,,10.0
+221,13715,35,F,Married,Housewife,3,Graduate,Savannah-Georgia,Google Men's Vintage Badge Tee White,Apparel,2.0,4.56,6.0,,
+222,13715,35,F,Married,Housewife,3,Graduate,Savannah-Georgia,Google Men's Short Sleeve Hero Tee Charcoal,Apparel,1.0,15.19,6.0,,20.0
+223,13715,35,F,Married,Housewife,3,Graduate,Savannah-Georgia,Google Men's 100% Cotton Short Sleeve Hero Tee Black,Apparel,1.0,13.59,6.0,,20.0
+224,13715,35,F,Married,Housewife,3,Graduate,Savannah-Georgia,Badge Holder,Office,1.0,1.59,6.0,,20.0
+225,13715,35,F,Married,Housewife,3,Graduate,Savannah-Georgia,26 oz Double Wall Insulated Bottle,Drinkware,1.0,19.99,6.0,,10.0
+226,13715,35,F,Married,Housewife,3,Graduate,Savannah-Georgia,Google Laptop and Cell Phone Stickers,Office,5.0,2.39,6.5,OFF10,10.0
+227,13715,35,F,Married,Housewife,3,Graduate,Savannah-Georgia,Sport Bag,Bags,3.0,3.99,12.48,,
+228,17071,23,F,Single,Student,0,Ph.D,Tulsa-Oklahoma,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,121.3,6.5,ELEC30,
+229,17071,23,F,Single,Student,0,Ph.D,Tulsa-Oklahoma,Google Crew Sweater Navy,Apparel,1.0,42.39,6.5,,30.0
+230,17071,23,F,Single,Student,0,Ph.D,Tulsa-Oklahoma,Nest Thermostat E - USA,Nest,1.0,100.91,6.5,,30.0
+231,17071,23,F,Single,Student,0,Ph.D,Tulsa-Oklahoma,Google Women's Short Sleeve Hero Tee White,Apparel,1.0,4.33,6.0,,30.0
+232,13881,38,M,Single,Self Employed,4,Post Graduate,Chicago-Illinois,Maze Pen,Office,2.0,0.81,6.5,OFF30,30.0
+233,12853,28,M,Single,Employee,2,Graduate,Memphis-Tennessee,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,3.0,79.0,6.0,,20.0
+234,12853,28,M,Single,Employee,2,Graduate,Memphis-Tennessee,8 pc Android Sticker Sheet,Office,1.0,1.59,6.5,,20.0
+235,12853,28,M,Single,Employee,2,Graduate,Memphis-Tennessee,Google Laptop and Cell Phone Stickers,Office,2.0,2.99,6.0,OFF20,20.0
+236,12853,28,M,Single,Employee,2,Graduate,Memphis-Tennessee,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,19.99,ELEC20,20.0
+237,13539,62,M,Married,Employee,0,Post Graduate,Springfield-Illinois,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,121.3,6.5,,30.0
+238,13539,62,M,Married,Employee,0,Post Graduate,Springfield-Illinois,Nest Cam Outdoor Security Camera - USA,Nest-USA,2.0,121.3,19.99,,30.0
+239,17334,26,F,Married,Housewife,1,Graduate,Boise-Idaho,Ballpoint LED Light Pen,Office,1.0,2.04,6.5,,30.0
+240,17412,18,M,Single,Student,0,Undergrad,El Paso-Texas,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,122.77,6.5,,10.0
+241,17412,18,M,Single,Student,0,Undergrad,El Paso-Texas,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,ELEC30,30.0
+242,17035,18,M,Married,Student,0,Undergrad,Boise-Idaho,Google Metallic Notebook Set,Office,1.0,4.88,6.5,OFF30,
+243,16814,37,M,Single,Employee,2,Graduate,Lubbock-Texas,Google Twill Cap,Apparel,4.0,8.79,6.0,SALE20,
+244,16814,37,M,Single,Employee,2,Graduate,Lubbock-Texas,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,,20.0
+245,16814,37,M,Single,Employee,2,Graduate,Lubbock-Texas,Google Sunglasses,Lifestyle,2.0,2.8,6.0,EXTRA20,20.0
+246,16814,37,M,Single,Employee,2,Graduate,Lubbock-Texas,Red Shine 15 oz Mug,Drinkware,1.0,12.99,6.5,,20.0
+247,16814,37,M,Single,Employee,2,Graduate,Lubbock-Texas,Android Sticker Sheet Ultra Removable,Office,1.0,2.99,6.0,,30.0
+248,16814,37,M,Single,Employee,2,Graduate,Lubbock-Texas,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,1.0,79.0,6.0,,20.0
+249,15838,57,F,Married,Housewife,4,Post Graduate,Sarasota-Florida,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,121.3,6.5,,
+250,15544,50,F,Single,Self Employed,4,Graduate,Tempe-Arizona,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,1.0,81.5,6.5,ELEC10,10.0
+251,15544,50,F,Single,Self Employed,4,Graduate,Tempe-Arizona,Google Doodle Decal,Office,2.0,3.08,6.5,,10.0
+252,15544,50,F,Single,Self Employed,4,Graduate,Tempe-Arizona,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,2.0,81.5,6.5,ELEC10,10.0
+253,15544,50,F,Single,Self Employed,4,Graduate,Tempe-Arizona,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,153.71,6.5,ELEC10,10.0
+254,15694,23,F,Single,Student,0,Post Graduate,El Paso-Texas,Android 17oz Stainless Steel Sport Bottle,Drinkware,2.0,10.63,12.48,,20.0
+255,15719,46,M,Married,Employee,4,Post Graduate,Peoria-Illinois,Google Women's Short Sleeve Hero Tee Grey,Apparel,1.0,5.1,6.0,SALE10,10.0
+256,15719,46,M,Married,Employee,4,Post Graduate,Peoria-Illinois,Google Canvas Tote Natural/Navy,Bags,1.0,12.79,6.0,,10.0
+257,15719,46,M,Married,Employee,4,Post Graduate,Peoria-Illinois,Google Men's Short Sleeve Performance Badge Tee Charcoal,Apparel,1.0,13.2,6.0,SALE10,10.0
+258,15719,46,M,Married,Employee,4,Post Graduate,Peoria-Illinois,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,1.0,79.0,6.0,,10.0
+259,15719,46,M,Married,Employee,4,Post Graduate,Peoria-Illinois,Android RFID Journal,Notebooks & Journals,1.0,4.8,6.0,,
+260,15719,46,M,Married,Employee,4,Post Graduate,Peoria-Illinois,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,121.3,6.5,,30.0
+261,15719,46,M,Married,Employee,4,Post Graduate,Peoria-Illinois,Google Luggage Tag,Fun,2.0,4.5,6.0,,
+262,15719,46,M,Married,Employee,4,Post Graduate,Peoria-Illinois,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.5,ELEC10,
+263,15719,46,M,Married,Employee,4,Post Graduate,Peoria-Illinois,Nest Detect - USA,Nest,3.0,49.95,6.5,NE30,30.0
+264,15719,46,M,Married,Employee,4,Post Graduate,Peoria-Illinois,Nest Tag - USA,Nest,2.0,20.39,6.5,,30.0
+265,15719,46,M,Married,Employee,4,Post Graduate,Peoria-Illinois,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,121.3,6.5,,
+266,15719,46,M,Married,Employee,4,Post Graduate,Peoria-Illinois,Satin Black Ballpoint Pen,Office,30.0,12.0,6.0,,10.0
+267,15955,34,F,Single,Self Employed,2,Post Graduate,Tulsa-Oklahoma,Windup Android,Lifestyle,26.0,3.96,323.47,,10.0
+268,16011,38,M,Single,Employee,4,Graduate,Des Moines-Iowa,Google Men's 100% Cotton Short Sleeve Hero Tee Red,Apparel,1.0,16.99,6.5,SALE10,
+269,16011,38,M,Single,Employee,4,Graduate,Des Moines-Iowa,Nest Cam Indoor Security Camera - USA,Nest-USA,3.0,119.0,6.5,,10.0
+270,16011,38,M,Single,Employee,4,Graduate,Des Moines-Iowa,Spiral Notebook and Pen Set,Office,1.0,5.99,6.5,,
+271,14766,44,F,Single,Self Employed,4,Post Graduate,Tempe-Arizona,Google Men's 100% Cotton Short Sleeve Hero Tee Black,Apparel,1.0,16.99,12.99,,10.0
+272,13117,17,M,Single,Student,0,High School,Memphis-Tennessee,Nest Secure Alarm System Starter Pack - USA,Nest,1.0,349.0,6.0,,10.0
+273,13117,17,M,Single,Student,0,High School,Memphis-Tennessee,Google Men's Long Sleeve Pullover Badge Tee Heather,Apparel,1.0,36.1,6.5,,10.0
+274,13117,17,M,Single,Student,0,High School,Memphis-Tennessee,Google Men's 100% Cotton Short Sleeve Hero Tee Red,Apparel,2.0,17.53,6.5,,10.0
+275,13117,17,M,Single,Student,0,High School,Memphis-Tennessee,Google 22 oz Water Bottle,Drinkware,1.0,2.99,6.0,,10.0
+276,12567,32,F,Married,Employee,3,Graduate,Cheyenne-Wyoming,Nest Cam IQ - USA,Nest,1.0,202.84,12.99,,30.0
+277,12567,32,F,Married,Employee,3,Graduate,Cheyenne-Wyoming,Google Women's Short Sleeve Badge Tee Grey,Apparel,3.0,3.47,6.5,SALE30,30.0
+278,12567,32,F,Married,Employee,3,Graduate,Cheyenne-Wyoming,Google Infant Short Sleeve Tee Green,Apparel,1.0,3.47,6.5,SALE30,30.0
+279,12567,32,F,Married,Employee,3,Graduate,Cheyenne-Wyoming,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,5.0,79.0,6.5,,20.0
+280,12567,32,F,Married,Employee,3,Graduate,Cheyenne-Wyoming,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,119.0,6.5,ELEC30,30.0
+281,12567,32,F,Married,Employee,3,Graduate,Cheyenne-Wyoming,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,121.3,12.99,,30.0
+282,12567,32,F,Married,Employee,3,Graduate,Cheyenne-Wyoming,Google 22 oz Water Bottle,Drinkware,1.0,2.44,6.5,,30.0
+283,12567,32,F,Married,Employee,3,Graduate,Cheyenne-Wyoming,Android Women's Long Sleeve Blended Cardigan Grey,Apparel,1.0,29.99,6.5,SALE20,
+284,12567,32,F,Married,Employee,3,Graduate,Cheyenne-Wyoming,Google Thermal Bottle Blue,Drinkware,1.0,19.56,6.5,EXTRA30,
+285,12567,32,F,Married,Employee,3,Graduate,Cheyenne-Wyoming,Google Snapback Hat Black,Headgear,3.0,22.99,6.5,HGEAR20,
+286,12567,32,F,Married,Employee,3,Graduate,Cheyenne-Wyoming,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,2.0,149.0,6.5,,
+287,12567,32,F,Married,Employee,3,Graduate,Cheyenne-Wyoming,Google Men's Vintage Badge Tee White,Apparel,4.0,18.99,6.5,,20.0
+288,12567,32,F,Married,Employee,3,Graduate,Cheyenne-Wyoming,Google Canvas Tote Natural/Navy,Bags,1.0,15.99,6.5,,30.0
+289,12567,32,F,Married,Employee,3,Graduate,Cheyenne-Wyoming,Recycled Paper Journal Set,Office,5.0,3.19,6.5,OFF20,20.0
+290,15589,52,M,Single,Self Employed,2,Post Graduate,Savannah-Georgia,Google Tee Green,Apparel,1.0,17.93,6.5,,30.0
+291,14798,44,M,Single,Employee,1,Post Graduate,Springfield-Illinois,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,2.0,151.88,6.5,,
+292,15854,53,F,Single,Employee,3,Post Graduate,Fargo-North Dakota,Google Men's 100% Cotton Short Sleeve Hero Tee Black,Apparel,5.0,4.33,6.0,SALE30,30.0
+293,15854,53,F,Single,Employee,3,Post Graduate,Fargo-North Dakota,Google Men's  Zip Hoodie,Apparel,1.0,44.79,12.99,SALE20,20.0
+294,15854,53,F,Single,Employee,3,Post Graduate,Fargo-North Dakota,Leatherette Journal,Office,2.0,8.79,12.99,OFF20,20.0
+295,16274,16,F,Single,Student,0,High School,Savannah-Georgia,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,122.77,6.5,ELEC10,
+296,16274,16,F,Single,Student,0,High School,Savannah-Georgia,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,122.77,6.5,ELEC10,
+297,16274,16,F,Single,Student,0,High School,Savannah-Georgia,Leatherette Journal,Office,2.0,11.34,6.5,,10.0
+298,16274,16,F,Single,Student,0,High School,Savannah-Georgia,Google Men's Long Sleeve Raglan Ocean Blue,Apparel,1.0,25.78,18.65,,10.0
+299,16274,16,F,Single,Student,0,High School,Savannah-Georgia,Nest Cam Outdoor Security Camera - USA,Nest-USA,2.0,122.77,6.5,,10.0
+300,15384,39,M,Married,Employee,4,School,Boise-Idaho,Nest Cam Indoor Security Camera - USA,Nest-USA,2.0,119.0,12.99,ELEC30,
+301,17293,15,M,Single,Student,0,High School,Reno-Nevada,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,151.88,6.5,,30.0
+302,17293,15,M,Single,Student,0,High School,Reno-Nevada,Google Rucksack,Bags,1.0,55.99,6.0,AIO20,20.0
+303,17293,15,M,Single,Student,0,High School,Reno-Nevada,Nest Thermostat E - USA,Nest,1.0,100.91,6.5,NE30,
+304,17293,15,M,Single,Student,0,High School,Reno-Nevada,Google Women's Short Sleeve Badge Tee Grey,Apparel,1.0,3.47,6.5,,30.0
+305,17293,15,M,Single,Student,0,High School,Reno-Nevada,Google Men's Short Sleeve Hero Tee Charcoal,Apparel,1.0,19.46884713375796,6.0,,
+306,17214,35,M,Single,Employee,3,Graduate,Springfield-Illinois,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,2.0,149.0,6.0,ELEC30,30.0
+307,17214,35,M,Single,Employee,3,Graduate,Springfield-Illinois,Four Color Retractable Pen,Office,9.0,3.05,6.0,,
+308,12540,36,M,Single,Employee,2,Graduate,Sarasota-Florida,Google Women's Lightweight Microfleece Jacket,Apparel,1.0,41.99,6.0,,20.0
+309,12540,36,M,Single,Employee,2,Graduate,Sarasota-Florida,Google Toddler Short Sleeve Tee White,Apparel,1.0,16.99,6.0,,
+310,12540,36,M,Single,Employee,2,Graduate,Sarasota-Florida,Google Pet Feeding Mat,Lifestyle,1.0,1.68,12.99,EXTRA30,30.0
+311,12540,36,M,Single,Employee,2,Graduate,Sarasota-Florida,Google Twill Cap,Apparel,1.0,10.99,6.0,SALE20,20.0
+312,12540,36,M,Single,Employee,2,Graduate,Sarasota-Florida,Google Women's Scoop Neck Tee Black,Apparel,1.0,4.8,6.0,,20.0
+313,12540,36,M,Single,Employee,2,Graduate,Sarasota-Florida,BLM Sweatshirt,Apparel,1.0,33.59,6.0,,20.0
+314,14001,63,M,Single,Employee,1,Post Graduate,Memphis-Tennessee,Gift Card - $50.00,Gift Cards,2.0,51.58,0.0,GC10,
+315,14001,63,M,Single,Employee,1,Post Graduate,Memphis-Tennessee,Compact Selfie Stick,Lifestyle,46.0,7.26,158.74,,10.0
+316,15260,65,M,Single,Self Employed,1,Post Graduate,Memphis-Tennessee,Google Onesie Red,Apparel,1.0,24.75,6.5,,10.0
+317,15260,65,M,Single,Self Employed,1,Post Graduate,Memphis-Tennessee,Insulated Bottle,Drinkware,2.0,18.15,18.47,EXTRA10,10.0
+318,17147,56,M,Married,Self Employed,4,Graduate,Memphis-Tennessee,8 pc Android Sticker Sheet,Office,6.0,1.62,16.038608695652176,OFF30,30.0
+319,18229,31,F,Single,Self Employed,3,Post Graduate,Tempe-Arizona,Nest Cam Indoor Security Camera - USA,Nest-USA,2.0,122.77,6.5,ELEC10,10.0
+320,18229,31,F,Single,Self Employed,3,Post Graduate,Tempe-Arizona,YouTube Women's Fleece Hoodie Black,Apparel,1.0,55.99,6.5,SALE30,30.0
+321,18229,31,F,Single,Self Employed,3,Post Graduate,Tempe-Arizona,Google Men's 100% Cotton Short Sleeve Hero Tee Black,Apparel,1.0,16.99,6.0,SALE20,
+322,16552,64,M,Single,Employee,2,Post Graduate,Des Moines-Iowa,Google Metallic Notebook Set,Office,2.0,4.94,6.5,OFF10,
+323,15485,28,M,Single,Self Employed,3,Graduate,Memphis-Tennessee,Google Men's Long Sleeve Raglan Ocean Blue,Apparel,1.0,25.78,6.5,SALE10,
+324,15485,28,M,Single,Self Employed,3,Graduate,Memphis-Tennessee,Google Women's Vintage Hero Tee Black,Apparel,1.0,5.7,6.0,,20.0
+325,15485,28,M,Single,Self Employed,3,Graduate,Memphis-Tennessee,Google Youth Girl Hoodie,Apparel,1.0,36.31,6.5,SALE10,
+326,15485,28,M,Single,Self Employed,3,Graduate,Memphis-Tennessee,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,153.71,6.5,,10.0
+327,15485,28,M,Single,Self Employed,3,Graduate,Memphis-Tennessee,Google Men's Short Sleeve Performance Badge Tee Charcoal,Apparel,1.0,16.5,6.0,,20.0
+328,16161,60,F,Married,Housewife,0,Post Graduate,Cheyenne-Wyoming,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,ELEC30,30.0
+329,16161,60,F,Married,Housewife,0,Post Graduate,Cheyenne-Wyoming,Google Twill Cap,Apparel,1.0,11.2,6.0,SALE30,30.0
+330,16161,60,F,Married,Housewife,0,Post Graduate,Cheyenne-Wyoming,Waze Mood Ninja Window Decal,Waze,1.0,1.59,6.5,WEMP20,20.0
+331,16161,60,F,Married,Housewife,0,Post Graduate,Cheyenne-Wyoming,8 pc Android Sticker Sheet,Office,10.0,3.884635416666667,24.49,,
+332,16161,60,F,Married,Housewife,0,Post Graduate,Cheyenne-Wyoming,Android Men's Take Charge Short Sleeve Tee Purple,Apparel,1.0,11.19,6.0,SALE30,30.0
+333,16161,60,F,Married,Housewife,0,Post Graduate,Cheyenne-Wyoming,Android Rise 14 oz Mug,Drinkware,1.0,12.99,6.0,,20.0
+334,16161,60,F,Married,Housewife,0,Post Graduate,Cheyenne-Wyoming,Google Sunglasses,Lifestyle,5.0,2.8,24.49,,30.0
+335,16161,60,F,Married,Housewife,0,Post Graduate,Cheyenne-Wyoming,Google Toddler Short Sleeve Tee White,Apparel,1.0,13.59,6.0,,30.0
+336,16161,60,F,Married,Housewife,0,Post Graduate,Cheyenne-Wyoming,Nest Cam Indoor Security Camera - USA,Nest-USA,2.0,121.3,6.5,ELEC30,
+337,16161,60,F,Married,Housewife,0,Post Graduate,Cheyenne-Wyoming,Android BTTF Moonshot Graphic Tee,Apparel,1.0,19.99,6.5,,
+338,12754,50,F,Single,Self Employed,4,Graduate,Tulsa-Oklahoma,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,121.3,12.99,,
+339,16042,65,M,Single,Employee,2,Post Graduate,Fargo-North Dakota,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,153.71,6.5,,10.0
+340,13199,22,M,Single,Student,0,Graduate,Chicago-Illinois,Android Twill Cap,Apparel,1.0,10.99,6.0,,30.0
+341,17581,62,M,Single,Self Employed,2,Graduate,Orlando-Florida,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.0,ELEC20,
+342,17581,62,M,Single,Self Employed,2,Graduate,Orlando-Florida,Google Tri-blend Hoodie Grey,Apparel,2.0,41.26,6.5,SALE10,10.0
+343,17581,62,M,Single,Self Employed,2,Graduate,Orlando-Florida,Google Women's Vintage Hero Tee Black,Apparel,1.0,4.56,6.0,SALE20,20.0
+344,17581,62,M,Single,Self Employed,2,Graduate,Orlando-Florida,Google Men's  Zip Hoodie,Apparel,1.0,57.76,50.0,SALE10,10.0
+345,17581,62,M,Single,Self Employed,2,Graduate,Orlando-Florida,Google Women's Short Sleeve Badge Tee Grey,Apparel,1.0,4.08,6.0,,20.0
+346,17975,59,F,Married,Employee,1,Post Graduate,Spokane-Washington,Maze Pen,Office,2.0,1.01,6.0,,30.0
+347,17975,59,F,Married,Employee,1,Post Graduate,Spokane-Washington,Android Matrix Tee White,Apparel,1.0,17.93,6.5,SALE30,
+348,17975,59,F,Married,Employee,1,Post Graduate,Spokane-Washington,Badge Holder,Office,1.0,1.99,6.0,,
+349,17975,59,F,Married,Employee,1,Post Graduate,Spokane-Washington,Switch Tone Color Crayon Pen,Office,1.0,1.99,6.5,OFF30,30.0
+350,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Google 17oz Stainless Steel Sport Bottle,Drinkware,1.0,16.79,6.0,EXTRA30,30.0
+351,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Nest Cam Outdoor Security Camera - USA,Nest-USA,4.0,119.0,6.5,ELEC30,30.0
+352,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Nest Learning Thermostat 3rd Gen-USA - Copper,Nest-USA,1.0,149.0,6.0,,30.0
+353,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,,20.0
+354,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Nest Cam IQ - USA,Nest,2.0,199.0,19.99,,
+355,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Google 5-Panel Snapback Cap,Headgear,3.0,10.63,12.91,HGEAR10,10.0
+356,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Google Youth Short Sleeve Tee Red,Apparel,2.0,3.87,12.48,,30.0
+357,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,YouTube Youth Short Sleeve Tee Red,Apparel,1.0,15.19,6.5,,30.0
+358,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Google Women's Short Sleeve Hero Tee Heather,Apparel,1.0,15.19,20.85,,10.0
+359,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Google Women's Vintage Hero Tee White,Apparel,1.0,10.63,6.0,,10.0
+360,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,YouTube 3 lines Tee Grey,Apparel,41.0,21.87,6.0,,30.0
+361,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,8 pc Android Sticker Sheet,Office,1.0,1.59,6.0,OFF10,10.0
+362,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Google Thermal Bottle Blue,Drinkware,1.0,19.56,6.5,EXTRA30,
+363,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Google Men's Watershed Full Zip Hoodie Grey,Apparel,1.0,55.0,106.0,SALE20,20.0
+364,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Android Men's Outerstellar Short Sleeve Tee Black,Apparel,1.0,15.99,6.0,,20.0
+365,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Foam Can and Bottle Cooler,Drinkware,4.0,1.59,11.1,,30.0
+366,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,1.0,79.0,12.99,ELEC10,
+367,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Google Men's Short Sleeve Performance Badge Tee Pewter,Apparel,1.0,17.59,15.75,SALE30,
+368,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,YouTube Tee Black,Apparel,41.0,21.87,6.0,SALE30,30.0
+369,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,121.3,6.5,,30.0
+370,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Badge Holder,Office,1.0,1.99,6.0,OFF20,20.0
+371,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Google Twill Cap,Apparel,1.0,8.79,6.5,,30.0
+372,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Leatherette Journal,Office,2.0,8.79,6.5,,30.0
+373,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Android Men's Vintage Tank,Apparel,1.0,8.4,6.0,,
+374,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Android Men's Short Sleeve Hero Tee Heather,Apparel,1.0,5.7,6.0,SALE10,10.0
+375,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Google Stylus Pen w/ LED Light,Office,1.0,5.5,6.5,,
+376,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Google Emoji Sticker Pack,Accessories,1.0,5.09,6.0,,
+377,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Women's Performance Full Zip Jacket Black,Apparel,1.0,30.0,6.0,,10.0
+378,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,119.0,6.5,,30.0
+379,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Nest Cam Outdoor Security Camera - USA,Nest-USA,2.0,119.0,19.99,,10.0
+380,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Google Onesie Green,Apparel,1.0,19.19,6.0,SALE30,30.0
+381,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,1 oz Hand Sanitizer,Lifestyle,100.0,1.99,6.5,,20.0
+382,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Google Men's Performance Full Zip Jacket Black,Apparel,1.0,48.0,6.0,SALE20,20.0
+383,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,3.0,149.0,6.0,,
+384,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Google Men's Short Sleeve Hero Tee Charcoal,Apparel,1.0,15.19,6.0,SALE30,
+385,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.0,,
+386,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,YouTube Men's Short Sleeve Hero Tee White,Apparel,1.0,11.89,6.0,,10.0
+387,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Gift Card- $100.00,Gift Cards,1.0,100.0,0.0,GC10,10.0
+388,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Google Men's Airflow 1/4 Zip Pullover Lapis,Apparel,1.0,28.54,6.5,,
+389,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Nest Cam Indoor Security Camera - USA,Nest-USA,2.0,122.77,6.5,,10.0
+390,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,,10.0
+391,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,121.3,12.99,,30.0
+392,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Google Women's Vintage Hero Tee Lavender,Apparel,28.0,7.6,26.84,SALE30,30.0
+393,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Google Women's Vintage Hero Tee Black,Apparel,1.0,4.56,6.0,,
+394,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Google Laptop Backpack,Bags,1.0,79.99,6.0,,30.0
+395,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Google Women's Short Sleeve Hero Tee Grey,Apparel,1.0,4.08,6.5,,10.0
+396,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Google Kick Ball,Lifestyle,5.0,3.8349242424242425,12.48,,30.0
+397,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Google Men's Short Sleeve Hero Tee Heather,Apparel,1.0,18.99,6.5,,30.0
+398,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Android RFID Journal,Notebooks & Journals,3.0,4.8,6.0,,30.0
+399,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Android Large Removable Sticker Sheet,Accessories,1.0,3.05,6.0,ACC30,30.0
+400,14606,32,F,Single,Employee,4,Graduate,Boise-Idaho,Google Women's Short Sleeve Hero Tee White,Apparel,2.0,3.47,6.5,SALE30,30.0
+401,17507,17,M,Single,Student,0,High School,Cheyenne-Wyoming,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,151.88,6.5,,30.0
+402,17507,17,M,Single,Student,0,High School,Cheyenne-Wyoming,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,151.88,6.5,,30.0
+403,17507,17,M,Single,Student,0,High School,Cheyenne-Wyoming,Android Sticker Sheet Ultra Removable,Office,1.0,2.44,6.5,,
+404,17507,17,M,Single,Student,0,High School,Cheyenne-Wyoming,Google Thermal Bottle Green,Drinkware,1.0,19.56,6.5,,30.0
+405,17507,17,M,Single,Student,0,High School,Cheyenne-Wyoming,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,121.3,6.5,ELEC30,30.0
+406,15738,26,F,Single,Employee,1,Post Graduate,Des Moines-Iowa,24 oz YouTube Sergeant Stripe Bottle,Drinkware,1.0,8.24,6.5,,10.0
+407,15738,26,F,Single,Employee,1,Post Graduate,Des Moines-Iowa,Reusable Shopping Bag,Bags,3.0,3.61,6.5,AIO10,10.0
+408,12662,44,F,Married,Employee,3,Graduate,Memphis-Tennessee,Nest Cam Indoor Security Camera - USA,Nest-USA,2.0,122.77,6.5,ELEC10,
+409,12662,44,F,Married,Employee,3,Graduate,Memphis-Tennessee,Waze Mobile Phone Vent Mount,Waze,6.0,5.7,12.99,WEMP30,
+410,14865,36,M,Single,Employee,3,Post Graduate,Fargo-North Dakota,Badge Holder,Office,1.0,1.64,6.5,,10.0
+411,13491,19,M,Single,Student,0,Undergrad,Spokane-Washington,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,1.0,80.52,19.99,,
+412,13491,19,M,Single,Student,0,Undergrad,Spokane-Washington,SPF-15 Slim & Slender Lip Balm,Housewares,14.0,1.4,34.94,,
+413,15203,30,F,Single,Employee,3,Post Graduate,Cheyenne-Wyoming,Google Twill Cap,Apparel,4.0,8.96,6.5,,30.0
+414,15203,30,F,Single,Employee,3,Post Graduate,Cheyenne-Wyoming,Google Women's Tee Grey,Apparel,1.0,17.93,6.5,,30.0
+415,15194,38,M,Single,Employee,4,Graduate,Boise-Idaho,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,5.0,79.0,7.115924686192469,,30.0
+416,15194,38,M,Single,Employee,4,Graduate,Boise-Idaho,Google Alpine Style Backpack,Bags,1.0,101.92,6.0,,30.0
+417,15194,38,M,Single,Employee,4,Graduate,Boise-Idaho,Google Men's  Zip Hoodie,Apparel,1.0,55.99,6.0,,20.0
+418,15194,38,M,Single,Employee,4,Graduate,Boise-Idaho,Google Men's Short Sleeve Hero Tee Light Blue,Apparel,1.0,18.99,6.5,SALE30,30.0
+419,15194,38,M,Single,Employee,4,Graduate,Boise-Idaho,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,121.3,6.5,,30.0
+420,15194,38,M,Single,Employee,4,Graduate,Boise-Idaho,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,ELEC30,30.0
+421,15194,38,M,Single,Employee,4,Graduate,Boise-Idaho,Maze Pen,Office,200.0,0.79,26.2,OFF30,30.0
+422,15194,38,M,Single,Employee,4,Graduate,Boise-Idaho,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,121.3,6.5,,30.0
+423,15194,38,M,Single,Employee,4,Graduate,Boise-Idaho,Android BTTF Moonshot Graphic Tee,Apparel,1.0,15.99,6.5,,
+424,14233,17,F,Single,Student,0,High School,Tempe-Arizona,Nest Thermostat E - USA,Nest,1.0,100.91,6.5,,
+425,17337,31,F,Married,Self Employed,2,Post Graduate,Madison-Wisconsin,Google Twill Cap,Apparel,1.0,8.96,6.5,,
+426,17337,31,F,Married,Self Employed,2,Post Graduate,Madison-Wisconsin,Google Women's Tee Grey,Apparel,1.0,22.41,10.993060317460317,SALE30,30.0
+427,17337,31,F,Married,Self Employed,2,Post Graduate,Madison-Wisconsin,Google Thermal Bottle Blue,Drinkware,2.0,19.56,12.91,,30.0
+428,17337,31,F,Married,Self Employed,2,Post Graduate,Madison-Wisconsin,Nest Detect - USA,Nest,2.0,49.95,12.99,,30.0
+429,17337,31,F,Married,Self Employed,2,Post Graduate,Madison-Wisconsin,Google Women's Short Sleeve Hero Tee Heather,Apparel,2.0,3.87,6.5,SALE30,30.0
+430,17337,31,F,Married,Self Employed,2,Post Graduate,Madison-Wisconsin,Nest Thermostat E - USA,Nest,1.0,100.91,6.5,NE30,30.0
+431,17337,31,F,Married,Self Employed,2,Post Graduate,Madison-Wisconsin,Nest Cam IQ - USA,Nest,1.0,202.84,6.5,,
+432,17337,31,F,Married,Self Employed,2,Post Graduate,Madison-Wisconsin,Google Thermal Bottle Red,Drinkware,1.0,24.45,6.0,,30.0
+433,17337,31,F,Married,Self Employed,2,Post Graduate,Madison-Wisconsin,Nest Cam IQ - USA,Nest,2.0,202.84,6.5,,30.0
+434,17337,31,F,Married,Self Employed,2,Post Graduate,Madison-Wisconsin,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,1.0,80.52,6.5,,
+435,17337,31,F,Married,Self Employed,2,Post Graduate,Madison-Wisconsin,8 pc Android Sticker Sheet,Office,4.0,1.62,12.48,OFF30,30.0
+436,17337,31,F,Married,Self Employed,2,Post Graduate,Madison-Wisconsin,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1.0,151.88,12.99,,30.0
+437,17337,31,F,Married,Self Employed,2,Post Graduate,Madison-Wisconsin,Google Thermal Bottle Yellow,Drinkware,1.0,24.45,75.0,,30.0
+438,17337,31,F,Married,Self Employed,2,Post Graduate,Madison-Wisconsin,Nest Cam Indoor Security Camera - USA,Nest-USA,2.0,121.3,6.5,ELEC30,
+439,17337,31,F,Married,Self Employed,2,Post Graduate,Madison-Wisconsin,Google Stylus Pen w/ LED Light,Office,1.0,5.61,6.0,,
+440,17337,31,F,Married,Self Employed,2,Post Graduate,Madison-Wisconsin,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,2.0,151.88,6.5,ELEC30,30.0
+441,14625,60,M,Single,Employee,1,Post Graduate,Chicago-Illinois,Grip Highlighter Pen 3 Pack,Office,1.0,2.79,18.36,,
+442,14625,60,M,Single,Employee,1,Post Graduate,Chicago-Illinois,Keyboard DOT Sticker,Office,1.0,1.2,6.0,,20.0
+443,14625,60,M,Single,Employee,1,Post Graduate,Chicago-Illinois,Pen Pencil & Highlighter Set,Office,15.0,3.19,73.71,,20.0
+444,14625,60,M,Single,Employee,1,Post Graduate,Chicago-Illinois,Spiral Notebook and Pen Set,Office,3.0,4.79,73.71,OFF20,20.0
+445,14625,60,M,Single,Employee,1,Post Graduate,Chicago-Illinois,Google Doodle Decal,Office,1.0,2.39,18.36,,20.0
+446,16156,37,F,Married,Housewife,3,Post Graduate,Memphis-Tennessee,Nest Thermostat E - USA,Nest,1.0,100.91,6.5,,30.0
+447,15093,50,M,Single,Employee,4,Post Graduate,Savannah-Georgia,YouTube Custom Decals,Office,1.0,1.99,6.0,,
+448,15093,50,M,Single,Employee,4,Post Graduate,Savannah-Georgia,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,256.88,6.5,ELEC10,10.0
+449,15093,50,M,Single,Employee,4,Post Graduate,Savannah-Georgia,Google Men's 100% Cotton Short Sleeve Hero Tee White,Apparel,1.0,17.53,6.5,,10.0
+450,15093,50,M,Single,Employee,4,Post Graduate,Savannah-Georgia,Google Women's Vintage Hero Tee Black,Apparel,2.0,5.7,50.0,,
+451,18041,53,F,Married,Employee,3,Graduate,Toledo-Ohio,Google Infant Short Sleeve Tee White,Apparel,1.0,13.59,6.0,,10.0
+452,18041,53,F,Married,Employee,3,Graduate,Toledo-Ohio,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,122.77,6.5,,10.0
+453,18041,53,F,Married,Employee,3,Graduate,Toledo-Ohio,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,151.88,6.5,ELEC30,30.0
+454,18041,53,F,Married,Employee,3,Graduate,Toledo-Ohio,Google Wool Heather Cap Heather/Navy,Headgear,1.0,20.62,6.5,,
+455,18041,53,F,Married,Employee,3,Graduate,Toledo-Ohio,Waze Mobile Phone Vent Mount,Waze,10.0,5.7,13.38,,30.0
+456,18041,53,F,Married,Employee,3,Graduate,Toledo-Ohio,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,,
+457,18041,53,F,Married,Employee,3,Graduate,Toledo-Ohio,Google Men's Airflow 1/4 Zip Pullover Lapis,Apparel,1.0,39.19,12.99,SALE10,10.0
+458,18041,53,F,Married,Employee,3,Graduate,Toledo-Ohio,Google Metallic Notebook Set,Office,1.0,6.18,6.5,OFF10,10.0
+459,18041,53,F,Married,Employee,3,Graduate,Toledo-Ohio,Android RFID Journal,Notebooks & Journals,1.0,6.0,6.0,NJ10,10.0
+460,18041,53,F,Married,Employee,3,Graduate,Toledo-Ohio,Google Slim Utility Travel Bag,Bags,1.0,8.39,6.0,AIO10,10.0
+461,18041,53,F,Married,Employee,3,Graduate,Toledo-Ohio,Google Men's Short Sleeve Performance Badge Tee Navy,Apparel,1.0,17.59,6.0,,10.0
+462,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,,20.0
+463,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Google Women's Short Sleeve Hero Tee Red Heather,Apparel,1.0,15.19,19.99,SALE30,30.0
+464,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.5,,
+465,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,YouTube Men's Short Sleeve Hero Tee Black,Apparel,1.0,16.99,6.0,,30.0
+466,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Google Sunglasses,Lifestyle,6.0,3.5,6.0,EXTRA10,
+467,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,122.77,6.5,,
+468,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Google Sunglasses,Lifestyle,2.0,2.89,62.74,EXTRA10,10.0
+469,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,1.0,81.5,6.5,,10.0
+470,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Nest Thermostat E - USA,Nest,5.0,99.0,19.02,,10.0
+471,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Google 22 oz Water Bottle,Drinkware,5.0,2.99,6.0,EXTRA30,30.0
+472,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,YouTube Men's Short Sleeve Hero Tee Black,Apparel,1.0,16.99,6.5,SALE20,20.0
+473,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,ELEC10,10.0
+474,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Google Men's Vintage Badge Tee White,Apparel,1.0,10.63,19.99,,30.0
+475,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Google Luggage Tag,Fun,2.0,3.6,6.0,,
+476,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Google Luggage Tag,Fun,1.0,7.19,6.0,,
+477,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Nest Cam Outdoor Security Camera - USA,Nest-USA,2.0,119.0,6.0,,
+478,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.0,ELEC30,30.0
+479,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1.0,151.88,6.5,,
+480,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Google Sunglasses,Lifestyle,2.0,2.89,62.74,,10.0
+481,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Nest Cam IQ - USA,Nest,1.0,199.0,6.0,,
+482,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Google Women's Short Sleeve Hero Tee White,Apparel,1.0,13.59,12.99,SALE10,
+483,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Google Women's Convertible Vest-Jacket Sea Foam Green,Apparel,1.0,23.76,6.0,SALE20,20.0
+484,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Google Men's Short Sleeve Hero Tee Heather,Apparel,1.0,15.19,6.0,SALE20,20.0
+485,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Google Stretch Fit Hat M/L Navy,Headgear,30.0,12.31,52.17,HGEAR10,10.0
+486,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Android Large Removable Sticker Sheet,Accessories,3.0,2.39,6.5,ACC20,
+487,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Google Men's 100% Cotton Short Sleeve Hero Tee Navy,Apparel,1.0,14.02,62.74,,10.0
+488,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Google Stylus Pen w/ LED Light,Office,8.0,5.5,6.0,OFF10,
+489,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Google Women's Short Sleeve Hero Tee White,Apparel,1.0,13.59,12.99,,10.0
+490,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Google Women's Short Sleeve Hero Tee White,Apparel,1.0,13.59,6.5,,10.0
+491,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,1.0,102.13,6.5,,10.0
+492,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Nest Tag - USA,Nest,1.0,20.39,6.5,NE30,30.0
+493,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Google Men's Vintage Badge Tee White,Apparel,1.0,10.63,19.99,,30.0
+494,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.0,,
+495,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Google Youth Short Sleeve Tee White,Apparel,1.0,15.19,12.99,,
+496,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,23 oz Wide Mouth Sport Bottle,Drinkware,1.0,8.79,6.0,EXTRA30,
+497,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Collapsible Shopping Bag,Bags,2.0,4.99,6.5,AIO30,30.0
+498,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.0,ELEC20,20.0
+499,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,,20.0
+500,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Sport Bag,Bags,1.0,3.99,6.0,,30.0
+501,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Google Hard Cover Journal,Notebooks & Journals,1.0,12.37,20.74,,10.0
+502,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.0,,10.0
+503,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Google Men's Watershed Full Zip Hoodie Grey,Apparel,1.0,61.59,6.0,SALE30,30.0
+504,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Google Metallic Notebook Set,Office,35.0,4.79,13.75,,30.0
+505,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Google Women's Scoop Neck Tee Black,Apparel,1.0,4.8,6.0,,10.0
+506,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,153.71,6.5,,10.0
+507,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Google Doodle Decal,Office,2.0,2.39,6.0,,
+508,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Android Men's Long Sleeve Badge Crew Tee Heather,Apparel,1.0,19.59,6.0,,20.0
+509,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Google Women's Short Sleeve Hero Tee White,Apparel,1.0,13.59,6.0,,30.0
+510,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Leatherette Journal,Office,5.0,6.15,12.48,OFF20,20.0
+511,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,153.71,6.5,,10.0
+512,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Google 22 oz Water Bottle,Drinkware,5.0,2.99,6.5,EXTRA30,30.0
+513,17841,33,F,Single,Employee,4,Graduate,Springfield-Illinois,Google 22 oz Water Bottle,Drinkware,40.0,2.99,6.0,EXTRA20,20.0
+514,17377,63,F,Married,Housewife,2,Post Graduate,Des Moines-Iowa,Google Men's Vintage Badge Tee Black,Apparel,2.0,18.99,6.5,SALE10,10.0
+515,17377,63,F,Married,Housewife,2,Post Graduate,Des Moines-Iowa,Pen Pencil & Highlighter Set,Office,2.0,3.99,6.5,,
+516,17377,63,F,Married,Housewife,2,Post Graduate,Des Moines-Iowa,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,1.0,81.5,6.5,ELEC10,10.0
+517,17377,63,F,Married,Housewife,2,Post Graduate,Des Moines-Iowa,Android Men's  Zip Hoodie,Apparel,1.0,44.79,6.5,,10.0
+518,17377,63,F,Married,Housewife,2,Post Graduate,Des Moines-Iowa,Nest Cam Indoor Security Camera - USA,Nest-USA,2.0,119.0,6.0,,30.0
+519,12947,26,M,Single,Employee,4,Post Graduate,Spokane-Washington,Google Men's Short Sleeve Hero Tee Charcoal,Apparel,1.0,13.29,6.0,,20.0
+520,12947,26,M,Single,Employee,4,Post Graduate,Spokane-Washington,Windup Android,Lifestyle,1.0,3.29,6.5,,10.0
+521,12947,26,M,Single,Employee,4,Post Graduate,Spokane-Washington,Nest Cam Outdoor Security Camera - USA,Nest-USA,3.0,122.77,6.5,,10.0
+522,12947,26,M,Single,Employee,4,Post Graduate,Spokane-Washington,Nest Cam Outdoor Security Camera - USA,Nest-USA,2.0,122.77,6.5,,
+523,12947,26,M,Single,Employee,4,Post Graduate,Spokane-Washington,Google Women's Vintage Hero Tee White,Apparel,2.0,18.99,12.99,SALE30,30.0
+524,13668,55,M,Married,Employee,4,Ph.D,Madison-Wisconsin,YouTube Women's Short Sleeve Hero Tee Charcoal,Apparel,1.0,18.99,6.0,SALE20,20.0
+525,13668,55,M,Married,Employee,4,Ph.D,Madison-Wisconsin,8 pc Android Sticker Sheet,Office,1.0,1.99,12.99,,
+526,13668,55,M,Married,Employee,4,Ph.D,Madison-Wisconsin,YouTube Men's Long & Lean Tee Charcoal,Apparel,1.0,8.0,6.0,,20.0
+527,13668,55,M,Married,Employee,4,Ph.D,Madison-Wisconsin,Nest Cam Indoor Security Camera - CA,Nest-Canada,1.0,149.0,8.7,NCA20,
+528,15058,22,M,Single,Student,1,Graduate,Chicago-Illinois,Waze Mobile Phone Vent Mount,Waze,2.0,5.7,6.5,WEMP30,30.0
+529,15058,22,M,Single,Student,1,Graduate,Chicago-Illinois,Google Sunglasses,Lifestyle,1.0,3.57,6.0,EXTRA30,30.0
+530,15058,22,M,Single,Student,1,Graduate,Chicago-Illinois,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,151.88,6.5,,30.0
+531,15058,22,M,Single,Student,1,Graduate,Chicago-Illinois,Nest Cam Indoor Security Camera - USA,Nest-USA,2.0,121.3,6.5,,30.0
+532,15058,22,M,Single,Student,1,Graduate,Chicago-Illinois,Google Tee Blue,Apparel,1.0,17.93,6.5,,30.0
+533,15058,22,M,Single,Student,1,Graduate,Chicago-Illinois,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1.0,151.88,6.5,,
+534,15058,22,M,Single,Student,1,Graduate,Chicago-Illinois,Google Men's 100% Cotton Short Sleeve Hero Tee Black,Apparel,2.0,6.93,6.5,,30.0
+535,15058,22,M,Single,Student,1,Graduate,Chicago-Illinois,Ballpoint LED Light Pen,Office,4.0,2.55,6.0,OFF30,30.0
+536,15058,22,M,Single,Student,1,Graduate,Chicago-Illinois,Four Color Retractable Pen,Office,1.0,3.05,6.0,,
+537,14829,45,M,Single,Employee,3,Post Graduate,Lubbock-Texas,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,2.0,153.71,6.5,ELEC10,10.0
+538,14829,45,M,Single,Employee,3,Post Graduate,Lubbock-Texas,YouTube Twill Cap,Apparel,2.0,10.99,6.0,,
+539,17920,61,M,Single,Self Employed,2,Post Graduate,Tempe-Arizona,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,153.71,6.5,,10.0
+540,17920,61,M,Single,Self Employed,2,Post Graduate,Tempe-Arizona,Google Trucker Hat,Headgear,1.0,18.15,6.5,,10.0
+541,17920,61,M,Single,Self Employed,2,Post Graduate,Tempe-Arizona,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,2.0,79.0,6.5,ELEC30,30.0
+542,17920,61,M,Single,Self Employed,2,Post Graduate,Tempe-Arizona,Google 25 oz Red Stainless Steel Bottle,Drinkware,1.0,11.54,6.5,EXTRA10,10.0
+543,17920,61,M,Single,Self Employed,2,Post Graduate,Tempe-Arizona,Waterproof Backpack,Bags,1.0,82.52,6.5,AIO10,10.0
+544,17920,61,M,Single,Self Employed,2,Post Graduate,Tempe-Arizona,Men's Softshell Jacket Black/Grey,Apparel,1.0,81.7,6.5,,10.0
+545,17920,61,M,Single,Self Employed,2,Post Graduate,Tempe-Arizona,Nest Cam Outdoor Security Camera - USA,Nest-USA,2.0,122.77,6.5,,10.0
+546,17920,61,M,Single,Self Employed,2,Post Graduate,Tempe-Arizona,Men's Softshell Jacket Black/Grey,Apparel,1.0,81.7,6.5,,10.0
+547,17920,61,M,Single,Self Employed,2,Post Graduate,Tempe-Arizona,Sport Bag,Bags,1.0,4.12,6.5,,10.0
+548,17920,61,M,Single,Self Employed,2,Post Graduate,Tempe-Arizona,Google Wool Heather Cap Heather/Navy,Headgear,1.0,20.62,6.5,,10.0
+549,17392,54,M,Single,Employee,3,Post Graduate,Peoria-Illinois,Google Men's 100% Cotton Short Sleeve Hero Tee White,Apparel,2.0,16.99,6.0,SALE30,30.0
+550,17392,54,M,Single,Employee,3,Post Graduate,Peoria-Illinois,Nest Cam Indoor Security Camera - USA,Nest-USA,2.0,121.3,6.5,ELEC30,30.0
+551,17392,54,M,Single,Employee,3,Post Graduate,Peoria-Illinois,Google Doodle Decal,Office,1.0,2.39,6.0,OFF30,
+552,17392,54,M,Single,Employee,3,Post Graduate,Peoria-Illinois,Google Women's Vintage Hero Tee White,Apparel,2.0,15.19,6.0,SALE30,30.0
+553,14587,33,F,Married,Housewife,3,Graduate,Chicago-Illinois,Google Women's Vintage Hero Tee Black,Apparel,1.0,5.7,6.0,,20.0
+554,14587,33,F,Married,Housewife,3,Graduate,Chicago-Illinois,Google Stylus Pen w/ LED Light,Office,31.0,4.34,6.5,OFF30,30.0
+555,14587,33,F,Married,Housewife,3,Graduate,Chicago-Illinois,Android Men's Take Charge Short Sleeve Tee Purple,Apparel,1.0,8.0,12.91,SALE20,
+556,14587,33,F,Married,Housewife,3,Graduate,Chicago-Illinois,Android BTTF Moonshot Graphic Tee,Apparel,1.0,15.99,12.91,,
+557,14587,33,F,Married,Housewife,3,Graduate,Chicago-Illinois,Google Sunglasses,Lifestyle,1.0,2.8,6.0,EXTRA20,20.0
+558,14587,33,F,Married,Housewife,3,Graduate,Chicago-Illinois,Ballpoint LED Light Pen,Office,31.0,1.97,6.5,OFF30,30.0
+559,14911,58,M,Single,Employee,3,Post Graduate,Chicago-Illinois,YouTube Custom Decals,Office,3.0,2.05,6.5,,
+560,14911,58,M,Single,Employee,3,Post Graduate,Chicago-Illinois,YouTube Custom Decals,Office,1.0,1.99,6.5,,
+561,14911,58,M,Single,Employee,3,Post Graduate,Chicago-Illinois,Google Toddler Short Sleeve Tee Red,Apparel,1.0,13.59,6.0,SALE10,
+562,14911,58,M,Single,Employee,3,Post Graduate,Chicago-Illinois,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,2.0,153.71,6.5,ELEC10,10.0
+563,14911,58,M,Single,Employee,3,Post Graduate,Chicago-Illinois,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,153.71,6.5,ELEC10,10.0
+564,14911,58,M,Single,Employee,3,Post Graduate,Chicago-Illinois,Nest Cam Outdoor Security Camera - USA,Nest-USA,2.0,119.0,6.0,,20.0
+565,14911,58,M,Single,Employee,3,Post Graduate,Chicago-Illinois,Google Men's Vintage Badge Tee Sage,Apparel,2.0,4.56,6.0,,30.0
+566,14911,58,M,Single,Employee,3,Post Graduate,Chicago-Illinois,YouTube Women's Short Sleeve Hero Tee Charcoal,Apparel,1.0,15.19,6.0,SALE10,
+567,14911,58,M,Single,Employee,3,Post Graduate,Chicago-Illinois,Android Men's Engineer Short Sleeve Tee Charcoal,Apparel,1.0,19.99,6.5,SALE30,
+568,14911,58,M,Single,Employee,3,Post Graduate,Chicago-Illinois,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.5,ELEC20,20.0
+569,14911,58,M,Single,Employee,3,Post Graduate,Chicago-Illinois,Google Men's Performance 1/4 Zip Pullover Heather/Black,Apparel,1.0,61.59,12.48,,30.0
+570,14911,58,M,Single,Employee,3,Post Graduate,Chicago-Illinois,Leatherette Journal,Office,1.0,6.15,49.73,,10.0
+571,14911,58,M,Single,Employee,3,Post Graduate,Chicago-Illinois,Google Men's Long & Lean Tee Charcoal,Apparel,1.0,6.0,6.0,SALE10,10.0
+572,14911,58,M,Single,Employee,3,Post Graduate,Chicago-Illinois,Nest Cam Outdoor Security Camera - USA,Nest-USA,3.0,119.0,19.99,,
+573,14911,58,M,Single,Employee,3,Post Graduate,Chicago-Illinois,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.5,ELEC20,20.0
+574,14911,58,M,Single,Employee,3,Post Graduate,Chicago-Illinois,Nest Cam Outdoor Security Camera - USA,Nest-USA,3.0,119.0,6.5,,20.0
+575,14911,58,M,Single,Employee,3,Post Graduate,Chicago-Illinois,Recycled Paper Journal Set,Office,15.0,3.19,35.3,,
+576,14911,58,M,Single,Employee,3,Post Graduate,Chicago-Illinois,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,,30.0
+577,14911,58,M,Single,Employee,3,Post Graduate,Chicago-Illinois,Google Men's 100% Cotton Short Sleeve Hero Tee Black,Apparel,1.0,13.59,6.0,,10.0
+578,14911,58,M,Single,Employee,3,Post Graduate,Chicago-Illinois,Google Sunglasses,Lifestyle,15.0,3.5,294.0,,
+579,14911,58,M,Single,Employee,3,Post Graduate,Chicago-Illinois,Google Women's 1/4 Zip Jacket Charcoal,Apparel,1.0,44.0,6.0,SALE20,20.0
+580,14911,58,M,Single,Employee,3,Post Graduate,Chicago-Illinois,YouTube Tee Black,Apparel,1.0,22.41,6.0,,30.0
+581,14911,58,M,Single,Employee,3,Post Graduate,Chicago-Illinois,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.5,ELEC30,
+582,14911,58,M,Single,Employee,3,Post Graduate,Chicago-Illinois,Sport Bag,Bags,3.0,4.07,6.5,AIO30,30.0
+583,14911,58,M,Single,Employee,3,Post Graduate,Chicago-Illinois,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.5,,20.0
+584,14911,58,M,Single,Employee,3,Post Graduate,Chicago-Illinois,Google Men's Microfiber 1/4 Zip Pullover Blue/Indigo,Apparel,1.0,37.49,6.0,,
+585,14911,58,M,Single,Employee,3,Post Graduate,Chicago-Illinois,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1.0,151.88,6.5,,
+586,14911,58,M,Single,Employee,3,Post Graduate,Chicago-Illinois,Google Twill Cap,Apparel,1.0,8.79,49.73,SALE10,
+587,14911,58,M,Single,Employee,3,Post Graduate,Chicago-Illinois,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.5,ELEC20,20.0
+588,14911,58,M,Single,Employee,3,Post Graduate,Chicago-Illinois,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,1.0,81.5,6.5,ELEC10,
+589,14911,58,M,Single,Employee,3,Post Graduate,Chicago-Illinois,Google Men's Airflow 1/4 Zip Pullover Lapis,Apparel,1.0,69.99,6.5,,20.0
+590,14911,58,M,Single,Employee,3,Post Graduate,Chicago-Illinois,Nest Cam IQ - USA,Nest,1.0,199.0,6.0,,20.0
+591,14911,58,M,Single,Employee,3,Post Graduate,Chicago-Illinois,Google Trike Tee Black,Apparel,1.0,16.3,6.5,SALE30,30.0
+592,14911,58,M,Single,Employee,3,Post Graduate,Chicago-Illinois,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,,
+593,14911,58,M,Single,Employee,3,Post Graduate,Chicago-Illinois,Google Men's 100% Cotton Short Sleeve Hero Tee Black,Apparel,1.0,13.59,6.0,,10.0
+594,14911,58,M,Single,Employee,3,Post Graduate,Chicago-Illinois,BLM Sweatshirt,Apparel,2.0,33.59,6.0,,
+595,14911,58,M,Single,Employee,3,Post Graduate,Chicago-Illinois,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.5,,
+596,12682,42,M,Married,Employee,2,Graduate,Madison-Wisconsin,Google Stylus Pen w/ LED Light,Office,1.0,5.61,6.0,,30.0
+597,12682,42,M,Married,Employee,2,Graduate,Madison-Wisconsin,Google Women's Short Sleeve Hero Tee Red Heather,Apparel,2.0,15.19,6.0,,10.0
+598,12682,42,M,Married,Employee,2,Graduate,Madison-Wisconsin,Google Men's Skater Tee Grey,Apparel,1.0,11.19,6.0,,10.0
+599,12682,42,M,Married,Employee,2,Graduate,Madison-Wisconsin,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,121.3,6.5,,
+600,12682,42,M,Married,Employee,2,Graduate,Madison-Wisconsin,Nest Cam Outdoor Security Camera - USA,Nest-USA,2.0,119.0,6.0,,10.0
+601,12682,42,M,Married,Employee,2,Graduate,Madison-Wisconsin,Google Twill Cap,Apparel,1.0,10.99,6.0,SALE10,10.0
+602,12682,42,M,Married,Employee,2,Graduate,Madison-Wisconsin,8 pc Android Sticker Sheet,Office,1.0,1.59,6.0,OFF10,
+603,12682,42,M,Married,Employee,2,Graduate,Madison-Wisconsin,Nest Thermostat E - USA,Nest,1.0,100.91,6.5,,30.0
+604,12682,42,M,Married,Employee,2,Graduate,Madison-Wisconsin,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,,
+605,12682,42,M,Married,Employee,2,Graduate,Madison-Wisconsin,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,2.0,123.84885642737896,12.99,,
+606,12682,42,M,Married,Employee,2,Graduate,Madison-Wisconsin,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,151.88,6.5,ELEC30,30.0
+607,12682,42,M,Married,Employee,2,Graduate,Madison-Wisconsin,Google Crewneck Sweatshirt Navy,Apparel,1.0,42.39,6.5,,30.0
+608,12682,42,M,Married,Employee,2,Graduate,Madison-Wisconsin,Android Men's Vintage Henley,Apparel,1.0,7.2,6.0,SALE10,10.0
+609,14194,26,M,Single,Self Employed,3,Graduate,Springfield-Illinois,8 pc Android Sticker Sheet,Office,4.0,1.62,6.5,,30.0
+610,14194,26,M,Single,Self Employed,3,Graduate,Springfield-Illinois,Google Twill Cap,Apparel,2.0,8.96,6.5,,
+611,14194,26,M,Single,Self Employed,3,Graduate,Springfield-Illinois,Nest Thermostat E - USA,Nest,2.0,100.91,19.99,,
+612,17809,28,M,Married,Self Employed,4,Post Graduate,Sarasota-Florida,22 oz Android Bottle,Bottles,20.0,2.99,6.5,,
+613,12956,58,M,Single,Self Employed,2,Graduate,Fort Wayne-Indiana,Nest Cam Outdoor Security Camera - USA,Nest-USA,3.0,121.3,6.5,,30.0
+614,12956,58,M,Single,Self Employed,2,Graduate,Fort Wayne-Indiana,Nest Thermostat E - USA,Nest,1.0,100.91,19.99,,30.0
+615,12956,58,M,Single,Self Employed,2,Graduate,Fort Wayne-Indiana,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,4.0,80.52,6.5,,
+616,12956,58,M,Single,Self Employed,2,Graduate,Fort Wayne-Indiana,Google Hub Mug White,Drinkware,1.0,10.59,6.5,EXTRA30,30.0
+617,12956,58,M,Single,Self Employed,2,Graduate,Fort Wayne-Indiana,Nest Cam Outdoor Security Camera - USA,Nest-USA,2.0,121.3,6.5,,30.0
+618,15358,50,M,Prefer not to say,Employee,1,Graduate,Chicago-Illinois,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.5,ELEC10,10.0
+619,15358,50,M,Prefer not to say,Employee,1,Graduate,Chicago-Illinois,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,,
+620,15358,50,M,Prefer not to say,Employee,1,Graduate,Chicago-Illinois,Google Men's Vintage Badge Tee Black,Apparel,1.0,9.49,6.0,SALE10,10.0
+621,15358,50,M,Prefer not to say,Employee,1,Graduate,Chicago-Illinois,26 oz Double Wall Insulated Bottle,Drinkware,1.0,19.99,6.5,EXTRA10,10.0
+622,15358,50,M,Prefer not to say,Employee,1,Graduate,Chicago-Illinois,Google Youth Short Sleeve Tee Red,Apparel,1.0,15.19,6.0,,20.0
+623,15358,50,M,Prefer not to say,Employee,1,Graduate,Chicago-Illinois,Google Men's Bike Short Sleeve Tee Charcoal,Apparel,4.0,15.99,24.49,,10.0
+624,15358,50,M,Prefer not to say,Employee,1,Graduate,Chicago-Illinois,Android BTTF Cosmos Graphic Tee,Apparel,1.0,8.15,6.5,SALE30,30.0
+625,15358,50,M,Prefer not to say,Employee,1,Graduate,Chicago-Illinois,Google Crew Sweater Navy,Apparel,1.0,42.39,6.5,,30.0
+626,15358,50,M,Prefer not to say,Employee,1,Graduate,Chicago-Illinois,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1.0,149.0,6.0,ELEC10,10.0
+627,15358,50,M,Prefer not to say,Employee,1,Graduate,Chicago-Illinois,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,12.99,,20.0
+628,15358,50,M,Prefer not to say,Employee,1,Graduate,Chicago-Illinois,Waze Mood Ninja Window Decal,Waze,1.0,1.59,6.0,WEMP10,
+629,16684,23,M,Single,Student,2,Graduate,Spokane-Washington,Nest Thermostat E - USA,Nest,1.0,100.91,6.5,,
+630,16684,23,M,Single,Student,2,Graduate,Spokane-Washington,8 pc Android Sticker Sheet,Office,1.0,1.59,6.5,,30.0
+631,16684,23,M,Single,Student,2,Graduate,Spokane-Washington,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,1.0,80.52,12.99,ELEC30,
+632,16684,23,M,Single,Student,2,Graduate,Spokane-Washington,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,121.3,6.5,,30.0
+633,16684,23,M,Single,Student,2,Graduate,Spokane-Washington,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,121.3,6.5,,30.0
+634,16684,23,M,Single,Student,2,Graduate,Spokane-Washington,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,2.0,151.88,6.5,,30.0
+635,16539,25,M,Single,Employee,2,Post Graduate,Chicago-Illinois,Android Youth Short Sleeve T-shirt Pewter,Apparel,1.0,15.19,12.99,,30.0
+636,16539,25,M,Single,Employee,2,Post Graduate,Chicago-Illinois,Google Men's Around The Block Short Sleeve Tee Ash,Apparel,1.0,20.62,6.5,SALE10,10.0
+637,16539,25,M,Single,Employee,2,Post Graduate,Chicago-Illinois,Reusable Shopping Bag,Bags,3.0,3.61,6.5,,
+638,15808,33,M,Single,Self Employed,4,Graduate,Des Moines-Iowa,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,,10.0
+639,15808,33,M,Single,Self Employed,4,Graduate,Des Moines-Iowa,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,151.88,6.5,,
+640,15808,33,M,Single,Self Employed,4,Graduate,Des Moines-Iowa,Google Women's Vintage Hero Tee Lavender,Apparel,1.0,15.19,6.5,,20.0
+641,15808,33,M,Single,Self Employed,4,Graduate,Des Moines-Iowa,Google Men's Watershed Full Zip Hoodie Grey,Apparel,1.0,61.59,6.0,SALE20,
+642,15808,33,M,Single,Self Employed,4,Graduate,Des Moines-Iowa,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.0,,20.0
+643,15808,33,M,Single,Self Employed,4,Graduate,Des Moines-Iowa,Nest Thermostat E - USA,Nest,1.0,100.91,6.5,,30.0
+644,15808,33,M,Single,Self Employed,4,Graduate,Des Moines-Iowa,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.5,ELEC20,20.0
+645,15808,33,M,Single,Self Employed,4,Graduate,Des Moines-Iowa,Crunch Noise Dog Toy,Lifestyle,1.0,2.79,6.0,EXTRA10,10.0
+646,15808,33,M,Single,Self Employed,4,Graduate,Des Moines-Iowa,Android 17oz Stainless Steel Sport Bottle,Drinkware,1.0,10.63,6.0,,10.0
+647,15808,33,M,Single,Self Employed,4,Graduate,Des Moines-Iowa,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,2.0,80.52,6.5,ELEC30,
+648,15808,33,M,Single,Self Employed,4,Graduate,Des Moines-Iowa,Google Leather Journal-Black,Notebooks & Journals,4.0,16.5,6.0,NJ10,10.0
+649,15808,33,M,Single,Self Employed,4,Graduate,Des Moines-Iowa,Google Men's 100% Cotton Short Sleeve Hero Tee White,Apparel,5.0,13.59,41.3,,20.0
+650,15808,33,M,Single,Self Employed,4,Graduate,Des Moines-Iowa,Nest Cam Indoor Security Camera - USA,Nest-USA,3.0,119.0,6.5,,20.0
+651,15808,33,M,Single,Self Employed,4,Graduate,Des Moines-Iowa,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.0,,
+652,15808,33,M,Single,Self Employed,4,Graduate,Des Moines-Iowa,Crunch Noise Dog Toy,Lifestyle,1.0,3.49,6.0,,10.0
+653,17517,63,F,Married,Self Employed,0,Graduate,Toledo-Ohio,Google Crew Sweater Navy,Apparel,1.0,42.39,6.5,,30.0
+654,16781,35,M,Single,Employee,4,Post Graduate,Spokane-Washington,Google Men's Bike Short Sleeve Tee Charcoal,Apparel,1.0,20.62,6.5,,
+655,16781,35,M,Single,Employee,4,Post Graduate,Spokane-Washington,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,122.77,6.5,ELEC10,10.0
+656,16781,35,M,Single,Employee,4,Post Graduate,Spokane-Washington,YouTube Twill Cap,Apparel,1.0,10.99,6.0,SALE10,
+657,16781,35,M,Single,Employee,4,Post Graduate,Spokane-Washington,YouTube Men's Short Sleeve Hero Tee White,Apparel,1.0,16.99,6.0,,10.0
+658,12838,27,M,Married,Employee,2,Graduate,Madison-Wisconsin,Engraved Ceramic Google Mug,Drinkware,1.0,7.42,12.76,,10.0
+659,12838,27,M,Married,Employee,2,Graduate,Madison-Wisconsin,Engraved Ceramic Google Mug,Drinkware,4.0,7.42,6.5,EXTRA10,
+660,12838,27,M,Married,Employee,2,Graduate,Madison-Wisconsin,22 oz YouTube Bottle Infuser,Bottles,1.0,5.15,6.5,,10.0
+661,12838,27,M,Married,Employee,2,Graduate,Madison-Wisconsin,Google Slim Utility Travel Bag,Bags,1.0,15.46,6.5,,10.0
+662,12838,27,M,Married,Employee,2,Graduate,Madison-Wisconsin,Google 25 oz Red Stainless Steel Bottle,Drinkware,4.0,11.54,35.96,,10.0
+663,12838,27,M,Married,Employee,2,Graduate,Madison-Wisconsin,26 oz Double Wall Insulated Bottle,Drinkware,1.0,20.62,12.76,EXTRA10,10.0
+664,12838,27,M,Married,Employee,2,Graduate,Madison-Wisconsin,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,122.77,6.5,,10.0
+665,14031,61,M,Single,Employee,1,Post Graduate,Reno-Nevada,Google Sunglasses,Lifestyle,1.0,2.8,19.99,EXTRA30,
+666,14031,61,M,Single,Employee,1,Post Graduate,Reno-Nevada,Google Snapback Hat Black,Headgear,1.0,22.99,6.0,,30.0
+667,14031,61,M,Single,Employee,1,Post Graduate,Reno-Nevada,Google Men's 100% Cotton Short Sleeve Hero Tee Black,Apparel,1.0,13.59,6.0,,20.0
+668,14031,61,M,Single,Employee,1,Post Graduate,Reno-Nevada,Google Men's 100% Cotton Short Sleeve Hero Tee Navy,Apparel,1.0,13.59,6.0,,
+669,14031,61,M,Single,Employee,1,Post Graduate,Reno-Nevada,Android Men's Take Charge Short Sleeve Tee Purple,Apparel,1.0,8.0,6.0,SALE20,20.0
+670,17672,39,F,Married,Housewife,3,Graduate,Chicago-Illinois,Google Tee Green,Apparel,1.0,17.93,12.99,,30.0
+671,17672,39,F,Married,Housewife,3,Graduate,Chicago-Illinois,Nest Cam IQ - USA,Nest,2.0,202.84,12.99,,
+672,17672,39,F,Married,Housewife,3,Graduate,Chicago-Illinois,Nest Cam Indoor Security Camera - USA,Nest-USA,3.0,121.3,12.99,,30.0
+673,17672,39,F,Married,Housewife,3,Graduate,Chicago-Illinois,Android Small Removable Sticker Sheet,Accessories,1.0,3.05,6.0,,
+674,13065,39,M,Single,Self Employed,3,Post Graduate,Des Moines-Iowa,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,153.71,6.5,,10.0
+675,13065,39,M,Single,Self Employed,3,Post Graduate,Des Moines-Iowa,Google Tote Bag,Bags,2.0,8.24,6.5,AIO10,
+676,15270,44,M,Married,Employee,4,Graduate,Madison-Wisconsin,Google Thermal Bottle Red,Drinkware,1.0,19.56,6.5,,30.0
+677,15165,65,M,Single,Employee,1,Post Graduate,Tempe-Arizona,YouTube Spiral Journal with Pen,Notebooks & Journals,1.0,10.31,6.5,,10.0
+678,14901,29,M,Single,Self Employed,3,Graduate,Fargo-North Dakota,Google Men's Airflow 1/4 Zip Pullover Lapis,Apparel,5.0,48.99,6.5,SALE30,30.0
+679,14901,29,M,Single,Self Employed,3,Graduate,Fargo-North Dakota,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,122.77,6.5,,
+680,14901,29,M,Single,Self Employed,3,Graduate,Fargo-North Dakota,Waterproof Backpack,Bags,3.0,99.99,6.5,AIO30,30.0
+681,14901,29,M,Single,Self Employed,3,Graduate,Fargo-North Dakota,YouTube Custom Decals,Office,2.0,2.05,6.5,,10.0
+682,14901,29,M,Single,Self Employed,3,Graduate,Fargo-North Dakota,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,122.77,6.5,ELEC10,
+683,16048,56,M,Married,Self Employed,3,Graduate,Fargo-North Dakota,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,5.0,153.71,6.5,,10.0
+684,15226,54,M,Single,Employee,2,Graduate,Cheyenne-Wyoming,Google Tee Green,Apparel,1.0,17.93,6.5,,30.0
+685,18198,32,M,Single,Self Employed,4,Graduate,Peoria-Illinois,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,151.88,6.5,,
+686,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.0,ELEC30,30.0
+687,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Google Laptop Tech Backpack,Backpacks,5.0,38.39,12.91,,
+688,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Google Men's 100% Cotton Short Sleeve Hero Tee Red,Apparel,1.0,16.99,6.5,SALE20,
+689,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Nest Cam Indoor Security Camera - USA,Nest-USA,2.0,119.0,6.5,ELEC20,
+690,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.5,,20.0
+691,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Google Men's Pullover Hoodie Grey,Apparel,1.0,29.11,6.0,,
+692,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,YouTube Men's Short Sleeve Hero Tee Charcoal,Apparel,1.0,18.99,6.5,,
+693,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Keyboard DOT Sticker,Office,1.0,1.5,6.5,,20.0
+694,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Google Vintage Henley Grey/Black,Apparel,1.0,29.99,6.5,,20.0
+695,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Sport Bag,Bags,1.0,4.99,6.0,,10.0
+696,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Google Women's Vintage Hero Tee Lavender,Apparel,1.0,10.63,6.0,,
+697,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,2.0,79.0,6.5,ELEC30,30.0
+698,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,25L Classic Rucksack,Backpacks,1.0,99.99,6.5,,
+699,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,4.0,79.0,6.0,ELEC20,20.0
+700,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Yoga Mat Blue,Lifestyle,1.0,12.87,23.17,EXTRA30,30.0
+701,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,119.0,6.5,,20.0
+702,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.5,,20.0
+703,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Android Sticker Sheet Ultra Removable,Office,80.0,2.99,6.0,,
+704,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Google Baby Essentials Set,Apparel,1.0,27.19,6.0,,30.0
+705,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Google Women's Vintage Hero Tee Black,Apparel,1.0,13.29,6.0,SALE10,10.0
+706,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Google Lunch Bag,Bags,30.0,13.99,6.0,AIO30,30.0
+707,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Android Men's Long & Lean Badge Tee Charcoal,Apparel,1.0,11.19,6.0,,20.0
+708,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Leather and Metal Ballpoint Pen,Office,1.0,10.07,6.5,,10.0
+709,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Google Men's Bike Short Sleeve Tee Charcoal,Apparel,1.0,19.46884713375796,6.0,,10.0
+710,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,26 oz Double Wall Insulated Bottle,Drinkware,1.0,24.99,14.822127659574468,EXTRA20,20.0
+711,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Google 17oz Stainless Steel Sport Bottle,Drinkware,8.0,15.19,13.38,,
+712,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1.0,149.0,6.5,ELEC10,
+713,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Collapsible Shopping Bag,Bags,2.0,3.99,6.0,AIO20,
+714,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Android Toddler Short Sleeve T-shirt Pink,Apparel,7.0,11.89,6.0,,
+715,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.0,,
+716,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Foam Can and Bottle Cooler,Drinkware,10.0,1.59,12.48,EXTRA10,10.0
+717,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Google Twill Cap,Apparel,4.0,8.79,6.5,,20.0
+718,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,119.0,6.5,,
+719,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Android Youth Short Sleeve T-shirt Aqua,Apparel,1.0,13.29,6.0,,10.0
+720,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Android Men's Engineer Short Sleeve Tee Charcoal,Apparel,1.0,15.99,15.75,,
+721,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Nest Cam Outdoor Security Camera - USA,Nest-USA,2.0,119.0,6.5,ELEC20,
+722,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Recycled Paper Journal Set,Office,10.0,3.19,37.83,,30.0
+723,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Android Men's Pep Rally Short Sleeve Tee Navy,Apparel,1.0,11.19,6.0,,30.0
+724,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Gel Roller Pen,Office,100.0,2.8,27.62,,10.0
+725,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Google 22 oz Water Bottle,Drinkware,80.0,2.99,6.0,EXTRA10,
+726,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Nest Learning Thermostat 3rd Gen-USA - Copper,Nest-USA,1.0,149.0,6.0,,10.0
+727,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Android 24 oz Contigo Bottle,Drinkware,1.0,19.19,6.5,EXTRA30,
+728,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Android Men's  Zip Hoodie,Apparel,1.0,44.79,6.0,,
+729,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,20 oz Stainless Steel Insulated Tumbler,Drinkware,1.0,19.99,15.75,,30.0
+730,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Google Men's 100% Cotton Short Sleeve Hero Tee Black,Apparel,1.0,13.59,12.99,,20.0
+731,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Yoga Block,Lifestyle,1.0,12.99,6.5,,10.0
+732,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Google Women's Long Sleeve Blended Cardigan Charcoal,Apparel,1.0,23.99,6.0,,30.0
+733,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Android Infant Short Sleeve Tee Pink,Apparel,1.0,13.59,6.0,SALE10,
+734,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Android Sticker Sheet Ultra Removable,Office,1.0,2.99,6.5,OFF20,20.0
+735,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Compact Selfie Stick,Lifestyle,1.0,8.99,6.5,EXTRA30,30.0
+736,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,,
+737,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Google Baby Essentials Set,Apparel,1.0,27.19,6.0,,10.0
+738,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Google Twill Cap,Apparel,1.0,10.99,6.0,,30.0
+739,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,119.0,6.5,,20.0
+740,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.5,,20.0
+741,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Google Women's Vintage Hero Tee Lavender,Apparel,1.0,13.29,6.0,,10.0
+742,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Metal Texture Roller Pen,Office,15.0,16.23,15.37,,10.0
+743,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Google Onesie Green,Apparel,7.0,16.79,6.0,,10.0
+744,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Badge Holder,Office,2.0,1.59,6.0,,
+745,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Google Wool Heather Cap Heather/Navy,Headgear,1.0,19.99,6.5,HGEAR30,30.0
+746,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,YouTube Men's Short Sleeve Hero Tee Charcoal,Apparel,1.0,18.99,6.5,SALE30,
+747,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,YouTube Women's Short Sleeve Tri-blend Badge Tee Charcoal,Apparel,1.0,10.63,6.0,SALE10,10.0
+748,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,,
+749,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Google Luggage Tag,Fun,1.0,8.99,6.0,,
+750,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Google Men's 100% Cotton Short Sleeve Hero Tee Navy,Apparel,1.0,13.59,12.99,,30.0
+751,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,BLM Sweatshirt,Apparel,1.0,33.59,6.0,,
+752,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,BLM Sweatshirt,Apparel,2.0,33.59,6.0,,
+753,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,2.0,149.0,6.5,,20.0
+754,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,YouTube Infant Short Sleeve Tee Red,Apparel,1.0,13.59,6.5,SALE30,30.0
+755,12748,46,M,Single,Employee,4,Post Graduate,Cheyenne-Wyoming,Google Men's Long Sleeve Pullover Badge Tee Heather,Apparel,1.0,24.49,6.0,,10.0
+756,15046,62,F,Single,Employee,1,Post Graduate,El Paso-Texas,Google Women's Vintage Hero Tee Black,Apparel,2.0,5.7,6.0,,30.0
+757,15046,62,F,Single,Employee,1,Post Graduate,El Paso-Texas,Galaxy Screen Cleaning Cloth,Office,1.0,1.59,6.0,,10.0
+758,15046,62,F,Single,Employee,1,Post Graduate,El Paso-Texas,Google Women's Tee Grey,Apparel,1.0,17.93,6.5,,30.0
+759,15046,62,F,Single,Employee,1,Post Graduate,El Paso-Texas,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,119.0,12.99,,10.0
+760,14810,18,F,Married,Student,0,High School,Memphis-Tennessee,Google Women's Vintage Hero Tee Black,Apparel,2.0,4.56,140.68,,
+761,14810,18,F,Married,Student,0,High School,Memphis-Tennessee,Google Thermal Bottle Red,Drinkware,1.0,19.56,19.99,,30.0
+762,14810,18,F,Married,Student,0,High School,Memphis-Tennessee,Sport Bag,Bags,30.0,3.99,84.7,AIO20,20.0
+763,14810,18,F,Married,Student,0,High School,Memphis-Tennessee,Google Men's Short Sleeve Performance Badge Tee Charcoal,Apparel,5.0,13.2,140.68,,
+764,13110,49,F,Married,Employee,2,Post Graduate,Springfield-Illinois,Google Tee Blue,Apparel,1.0,17.93,6.5,,30.0
+765,13110,49,F,Married,Employee,2,Post Graduate,Springfield-Illinois,Google Metallic Notebook Set,Office,5.0,6.11,6.0,OFF30,30.0
+766,14729,50,M,Single,Employee,3,Graduate,Springfield-Illinois,Recycled Paper Journal Set,Office,2.0,4.12,6.5,OFF10,10.0
+767,14729,50,M,Single,Employee,3,Graduate,Springfield-Illinois,Google Men's Short Sleeve Hero Tee Charcoal,Apparel,1.0,15.67,6.5,SALE10,10.0
+768,14729,50,M,Single,Employee,3,Graduate,Springfield-Illinois,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,122.77,6.5,,10.0
+769,14729,50,M,Single,Employee,3,Graduate,Springfield-Illinois,Nest Cam Indoor Security Camera - USA,Nest-USA,4.0,122.77,6.5,,10.0
+770,14729,50,M,Single,Employee,3,Graduate,Springfield-Illinois,Google Men's Short Sleeve Hero Tee Charcoal,Apparel,1.0,15.67,17.96,SALE10,
+771,14729,50,M,Single,Employee,3,Graduate,Springfield-Illinois,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,5.0,81.5,6.5,,
+772,14729,50,M,Single,Employee,3,Graduate,Springfield-Illinois,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,1.0,81.5,6.5,,
+773,15827,49,M,Single,Employee,0,Post Graduate,Savannah-Georgia,Google Canvas Tote Natural/Navy,Bags,1.0,16.5,6.5,,10.0
+774,15827,49,M,Single,Employee,0,Post Graduate,Savannah-Georgia,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,153.71,6.5,,
+775,16612,59,F,Married,Housewife,0,Post Graduate,Orlando-Florida,Google Large Standard Journal Navy,Office,36.0,12.67,26.4,OFF30,
+776,16612,59,F,Married,Housewife,0,Post Graduate,Orlando-Florida,Ballpoint LED Light Pen,Office,36.0,1.98,26.4,,30.0
+777,17069,15,M,Single,Student,0,High School,Fargo-North Dakota,Google Men's Short Sleeve Hero Tee Light Blue,Apparel,1.0,15.19,6.0,,
+778,17069,15,M,Single,Student,0,High School,Fargo-North Dakota,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,1.0,81.5,6.5,,
+779,17069,15,M,Single,Student,0,High School,Fargo-North Dakota,Android Men's Paradise Short Sleeve Tee Olive,Android,2.0,11.19,6.0,,
+780,16515,57,F,Married,Self Employed,3,Post Graduate,Memphis-Tennessee,Google Women's Short Sleeve Badge Tee Grey,Apparel,1.0,3.47,6.5,,30.0
+781,17732,31,M,Single,Self Employed,4,Post Graduate,Springfield-Illinois,Leatherette Journal,Office,1.0,9.07,6.5,,
+782,17732,31,M,Single,Self Employed,4,Post Graduate,Springfield-Illinois,Leatherette Journal,Office,36.0,8.82,41.3,,10.0
+783,15881,50,M,Single,Employee,4,Graduate,Savannah-Georgia,Google Men's Short Sleeve Performance Badge Tee Pewter,Apparel,1.0,15.39,6.0,,10.0
+784,15881,50,M,Single,Employee,4,Graduate,Savannah-Georgia,Google Men's 100% Cotton Short Sleeve Hero Tee Black,Apparel,2.0,8.65,6.0,SALE30,30.0
+785,15881,50,M,Single,Employee,4,Graduate,Savannah-Georgia,Nest Learning Thermostat 3rd Gen-USA - Copper,Nest-USA,4.0,151.88,6.5,ELEC30,30.0
+786,17968,30,F,Single,Employee,3,Graduate,Spokane-Washington,Google Spiral Journal with Pen,Notebooks & Journals,1.0,10.31,6.5,NJ10,10.0
+787,17968,30,F,Single,Employee,3,Graduate,Spokane-Washington,Google Sunglasses,Lifestyle,1.0,3.61,6.5,EXTRA10,
+788,17968,30,F,Single,Employee,3,Graduate,Spokane-Washington,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,122.77,6.5,,10.0
+789,17968,30,F,Single,Employee,3,Graduate,Spokane-Washington,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,3.0,81.5,6.5,ELEC10,10.0
+790,17968,30,F,Single,Employee,3,Graduate,Spokane-Washington,Google Alpine Style Backpack,Bags,1.0,82.52,64.01,,
+791,17968,30,F,Single,Employee,3,Graduate,Spokane-Washington,Four Color Retractable Pen,Office,1.0,3.08,6.5,,10.0
+792,17968,30,F,Single,Employee,3,Graduate,Spokane-Washington,Google Sunglasses,Lifestyle,1.0,3.61,6.5,,10.0
+793,17968,30,F,Single,Employee,3,Graduate,Spokane-Washington,Google Men's 100% Cotton Short Sleeve Hero Tee Navy,Apparel,2.0,14.02,6.5,,
+794,17968,30,F,Single,Employee,3,Graduate,Spokane-Washington,Waterproof Backpack,Bags,1.0,82.52,64.01,,10.0
+795,17968,30,F,Single,Employee,3,Graduate,Spokane-Washington,Google Women's Short Sleeve Hero Tee Red Heather,Apparel,1.0,19.59,6.5,SALE10,10.0
+796,15525,18,F,Married,Student,0,High School,Chicago-Illinois,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,153.71,6.5,ELEC10,10.0
+797,15525,18,F,Married,Student,0,High School,Chicago-Illinois,Nest Cam Indoor Security Camera - USA,Nest-USA,3.0,122.77,6.5,,10.0
+798,15525,18,F,Married,Student,0,High School,Chicago-Illinois,Google Laptop and Cell Phone Stickers,Office,1.0,2.05,6.5,,10.0
+799,15525,18,F,Married,Student,0,High School,Chicago-Illinois,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,2.0,153.71,6.5,,
+800,15525,18,F,Married,Student,0,High School,Chicago-Illinois,Android Men's Paradise Short Sleeve Tee Olive,Android,1.0,20.62,6.5,AND10,10.0
+801,15525,18,F,Married,Student,0,High School,Chicago-Illinois,Android Toddler Short Sleeve T-shirt Pewter,Apparel,1.0,17.53,6.5,,10.0
+802,14307,54,M,Single,Self Employed,4,Graduate,Cheyenne-Wyoming,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,122.77,6.5,ELEC10,
+803,14307,54,M,Single,Self Employed,4,Graduate,Cheyenne-Wyoming,Sport Bag,Bags,1.0,3.99,6.0,,30.0
+804,14307,54,M,Single,Self Employed,4,Graduate,Cheyenne-Wyoming,Google Women's Convertible Vest-Jacket Sea Foam Green,Apparel,1.0,23.76,82.48,,30.0
+805,14307,54,M,Single,Self Employed,4,Graduate,Cheyenne-Wyoming,Google Onesie Green,Apparel,1.0,19.8,11.1,,
+806,14307,54,M,Single,Self Employed,4,Graduate,Cheyenne-Wyoming,Emoji Sticker Sheet,Accessories,1.0,3.99,6.0,,30.0
+807,14307,54,M,Single,Self Employed,4,Graduate,Cheyenne-Wyoming,Google Metallic Notebook Set,Office,3.0,4.94,11.1,OFF10,
+808,14307,54,M,Single,Self Employed,4,Graduate,Cheyenne-Wyoming,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,153.71,6.5,,10.0
+809,17690,55,M,Married,Self Employed,3,Graduate,Cheyenne-Wyoming,20 oz Stainless Steel Insulated Tumbler,Drinkware,1.0,19.99,6.0,,10.0
+810,17690,55,M,Married,Self Employed,3,Graduate,Cheyenne-Wyoming,Nest Cam Outdoor Security Camera - USA,Nest-USA,2.0,122.77,6.5,,10.0
+811,17690,55,M,Married,Self Employed,3,Graduate,Cheyenne-Wyoming,Google Twill Cap,Apparel,1.0,11.34,6.5,,10.0
+812,17690,55,M,Married,Self Employed,3,Graduate,Cheyenne-Wyoming,BLM Sweatshirt,Apparel,1.0,33.59,6.0,,
+813,17690,55,M,Married,Self Employed,3,Graduate,Cheyenne-Wyoming,Colored Pencil Set,Office,1.0,2.39,12.99,OFF30,30.0
+814,17690,55,M,Married,Self Employed,3,Graduate,Cheyenne-Wyoming,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,153.71,28.78,ELEC10,
+815,17690,55,M,Married,Self Employed,3,Graduate,Cheyenne-Wyoming,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,,30.0
+816,14573,23,F,Single,Student,0,Post Graduate,Madison-Wisconsin,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,122.77,6.5,,10.0
+817,14573,23,F,Single,Student,0,Post Graduate,Madison-Wisconsin,Google Men's Performance Polo Grey/Black,Apparel,1.0,74.27,6.5,,10.0
+818,14573,23,F,Single,Student,0,Post Graduate,Madison-Wisconsin,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,2.0,81.5,6.5,ELEC10,10.0
+819,14573,23,F,Single,Student,0,Post Graduate,Madison-Wisconsin,Ballpoint Pen Blue,Office,206.0,0.79,50.74,,10.0
+820,14573,23,F,Single,Student,0,Post Graduate,Madison-Wisconsin,Google Sunglasses,Lifestyle,5.0,2.89,6.5,,
+821,14573,23,F,Single,Student,0,Post Graduate,Madison-Wisconsin,Google Women's Yoga Jacket Black,Apparel,1.0,86.65,6.5,SALE10,10.0
+822,14573,23,F,Single,Student,0,Post Graduate,Madison-Wisconsin,Google 25 oz Red Stainless Steel Bottle,Drinkware,12.0,11.54,6.5,,10.0
+823,14573,23,F,Single,Student,0,Post Graduate,Madison-Wisconsin,Waze Men's Short Sleeve Tee,Waze,1.0,15.67,6.5,,
+824,13370,47,F,Married,Self Employed,3,Post Graduate,Peoria-Illinois,YouTube Leatherette Notebook Combo,Office,4.0,5.59,28.78,,20.0
+825,13370,47,F,Married,Self Employed,3,Post Graduate,Peoria-Illinois,Google Youth Short Sleeve T-shirt Royal Blue,Apparel,1.0,15.19,20.78,SALE20,
+826,13370,47,F,Married,Self Employed,3,Post Graduate,Peoria-Illinois,Waze Mobile Phone Vent Mount,Waze,1.0,5.77,6.5,,
+827,15061,30,M,Single,Employee,3,Post Graduate,Orlando-Florida,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.0,ELEC30,30.0
+828,15061,30,M,Single,Employee,3,Post Graduate,Orlando-Florida,26 oz Double Wall Insulated Bottle,Drinkware,1.0,24.99,20.0,EXTRA30,30.0
+829,15061,30,M,Single,Employee,3,Post Graduate,Orlando-Florida,Google 22 oz Water Bottle,Drinkware,1.0,2.99,6.0,,30.0
+830,15061,30,M,Single,Employee,3,Post Graduate,Orlando-Florida,Android Luggage Tag,Fun,1.0,7.19,12.99,,
+831,15061,30,M,Single,Employee,3,Post Graduate,Orlando-Florida,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,3.0,79.0,6.0,,20.0
+832,15061,30,M,Single,Employee,3,Post Graduate,Orlando-Florida,Foam Can and Bottle Cooler,Drinkware,12.0,1.59,6.5,,10.0
+833,15061,30,M,Single,Employee,3,Post Graduate,Orlando-Florida,Google Women's Short Sleeve Hero Tee Grey,Apparel,1.0,4.08,6.0,,20.0
+834,15061,30,M,Single,Employee,3,Post Graduate,Orlando-Florida,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,256.88,6.5,,10.0
+835,15061,30,M,Single,Employee,3,Post Graduate,Orlando-Florida,YouTube Men's Fleece Hoodie Black,Apparel,1.0,46.21,6.5,,10.0
+836,15061,30,M,Single,Employee,3,Post Graduate,Orlando-Florida,Google 22 oz Water Bottle,Drinkware,155.0,2.39,122.74,,
+837,15061,30,M,Single,Employee,3,Post Graduate,Orlando-Florida,Google Twill Cap,Apparel,2.0,10.99,6.5,,
+838,15061,30,M,Single,Employee,3,Post Graduate,Orlando-Florida,Waze Baby on Board Window Decal,Waze,1.0,2.47,6.5,,10.0
+839,15061,30,M,Single,Employee,3,Post Graduate,Orlando-Florida,Engraved Ceramic Google Mug,Drinkware,1.0,7.42,6.5,,10.0
+840,15061,30,M,Single,Employee,3,Post Graduate,Orlando-Florida,Google Infant Zip Hood Royal Blue,Apparel,1.0,30.39,6.0,,
+841,15061,30,M,Single,Employee,3,Post Graduate,Orlando-Florida,Google Women's Short Sleeve Hero Tee Black,Apparel,9.0,13.59,16.85,,30.0
+842,15061,30,M,Single,Employee,3,Post Graduate,Orlando-Florida,Google Executive Umbrella,Lifestyle,2.0,28.88,57.74,,10.0
+843,15061,30,M,Single,Employee,3,Post Graduate,Orlando-Florida,Google Youth Short Sleeve Tee White,Apparel,1.0,15.19,6.5,,
+844,14696,51,M,Single,Self Employed,3,Post Graduate,Orlando-Florida,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,153.71,6.5,,
+845,14696,51,M,Single,Self Employed,3,Post Graduate,Orlando-Florida,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,,30.0
+846,17291,57,M,Married,Self Employed,4,Post Graduate,Orlando-Florida,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,121.3,6.5,,30.0
+847,17802,15,F,Single,Student,0,High School,Chicago-Illinois,Electronics Accessory Pouch,Bags,1.0,4.12,11.777349397590362,AIO10,10.0
+848,17802,15,F,Single,Student,0,High School,Chicago-Illinois,7&quot; Dog Frisbee,Lifestyle,1.0,1.24,6.5,,10.0
+849,17757,61,M,Single,Self Employed,2,Post Graduate,Tempe-Arizona,Google Men's Bike Short Sleeve Tee Charcoal,Apparel,1.0,20.62,6.5,,
+850,17757,61,M,Single,Self Employed,2,Post Graduate,Tempe-Arizona,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,256.88,6.5,,
+851,17757,61,M,Single,Self Employed,2,Post Graduate,Tempe-Arizona,Recycled Paper Journal Set,Office,10.0,4.12,6.5,OFF10,10.0
+852,17757,61,M,Single,Self Employed,2,Post Graduate,Tempe-Arizona,Google Men's Bike Short Sleeve Tee Charcoal,Apparel,1.0,15.99,6.0,,20.0
+853,17757,61,M,Single,Self Employed,2,Post Graduate,Tempe-Arizona,Google Men's Vintage Badge Tee White,Apparel,1.0,4.56,12.99,,20.0
+854,17757,61,M,Single,Self Employed,2,Post Graduate,Tempe-Arizona,Android Sticker Sheet Ultra Removable,Office,3.0,2.47,99.55,OFF10,10.0
+855,17757,61,M,Single,Self Employed,2,Post Graduate,Tempe-Arizona,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.0,,
+856,17757,61,M,Single,Self Employed,2,Post Graduate,Tempe-Arizona,Maze Pen,Office,100.0,0.79,6.5,,20.0
+857,17757,61,M,Single,Self Employed,2,Post Graduate,Tempe-Arizona,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,3.0,79.0,6.5,,
+858,17757,61,M,Single,Self Employed,2,Post Graduate,Tempe-Arizona,YouTube Men's Short Sleeve Hero Tee Charcoal,Apparel,1.0,18.99,12.99,SALE20,20.0
+859,17757,61,M,Single,Self Employed,2,Post Graduate,Tempe-Arizona,Google Men's Bike Short Sleeve Tee Charcoal,Apparel,1.0,15.99,6.0,,20.0
+860,16203,19,M,Single,Student,0,Undergrad,Fargo-North Dakota,Nest Cam Indoor Security Camera - USA,Nest-USA,2.0,122.77,6.5,,10.0
+861,12431,54,F,Married,Employee,4,Post Graduate,Madison-Wisconsin,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,3.0,102.13,6.5,,10.0
+862,12431,54,F,Married,Employee,4,Post Graduate,Madison-Wisconsin,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,,30.0
+863,12437,65,M,Single,Employee,0,Post Graduate,Memphis-Tennessee,Google Crewneck Sweatshirt Navy,Apparel,2.0,42.39,12.99,,30.0
+864,14180,39,M,Single,Self Employed,4,Post Graduate,Sarasota-Florida,Ballpoint LED Light Pen,Office,1.0,2.04,50.0,OFF30,
+865,14180,39,M,Single,Self Employed,4,Post Graduate,Sarasota-Florida,Google Twill Cap,Apparel,2.0,10.99,6.0,SALE30,30.0
+866,14180,39,M,Single,Self Employed,4,Post Graduate,Sarasota-Florida,Sport Bag,Bags,500.0,4.99,6.0,,10.0
+867,14180,39,M,Single,Self Employed,4,Post Graduate,Sarasota-Florida,Ballpoint LED Light Pen,Office,31.0,2.0,260.82,,10.0
+868,14180,39,M,Single,Self Employed,4,Post Graduate,Sarasota-Florida,Google RFID Journal,Notebooks & Journals,1.0,6.0,12.99,,
+869,14180,39,M,Single,Self Employed,4,Post Graduate,Sarasota-Florida,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,153.71,6.5,ELEC10,10.0
+870,14180,39,M,Single,Self Employed,4,Post Graduate,Sarasota-Florida,Google Women's Short Sleeve Hero Tee White,Apparel,2.0,4.33,6.0,,30.0
+871,14180,39,M,Single,Self Employed,4,Post Graduate,Sarasota-Florida,YouTube Tee Black,Apparel,1.0,17.93,50.0,,30.0
+872,14180,39,M,Single,Self Employed,4,Post Graduate,Sarasota-Florida,Yoga Mat Blue,Lifestyle,1.0,22.99,6.0,,
+873,14180,39,M,Single,Self Employed,4,Post Graduate,Sarasota-Florida,Google Canvas Tote Natural/Navy,Bags,1.0,15.99,6.0,,30.0
+874,17230,17,M,Single,Student,0,High School,Sarasota-Florida,Android Men's Outerstellar Short Sleeve Tee Black,Apparel,1.0,15.99,6.0,SALE30,
+875,17230,17,M,Single,Student,0,High School,Sarasota-Florida,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,119.0,12.99,ELEC30,30.0
+876,17230,17,M,Single,Student,0,High School,Sarasota-Florida,Nest Cam IQ - USA,Nest,1.0,202.84,6.5,,30.0
+877,17230,17,M,Single,Student,0,High School,Sarasota-Florida,Google Men's 100% Cotton Short Sleeve Hero Tee Black,Apparel,1.0,16.99,6.0,SALE10,10.0
+878,17230,17,M,Single,Student,0,High School,Sarasota-Florida,Google Sunglasses,Lifestyle,1.0,2.8,6.0,EXTRA30,30.0
+879,17230,17,M,Single,Student,0,High School,Sarasota-Florida,Android Toddler Short Sleeve T-shirt Pewter,Apparel,1.0,13.59,6.0,,30.0
+880,14527,22,F,Single,Student,0,Graduate,Cheyenne-Wyoming,Waze Pack of 9 Decal Set,Accessories,1.0,13.59,6.0,,
+881,14527,22,F,Single,Student,0,Graduate,Cheyenne-Wyoming,Google Metallic Notebook Set,Office,1.0,5.99,19.99,OFF30,30.0
+882,14527,22,F,Single,Student,0,Graduate,Cheyenne-Wyoming,Nest Cam IQ - USA,Nest,1.0,199.0,12.99,,20.0
+883,14527,22,F,Single,Student,0,Graduate,Cheyenne-Wyoming,Google Toddler 1/4 Zip Fleece Pewter,Apparel,1.0,31.35,6.5,,10.0
+884,14527,22,F,Single,Student,0,Graduate,Cheyenne-Wyoming,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,1.0,79.0,6.0,,30.0
+885,14527,22,F,Single,Student,0,Graduate,Cheyenne-Wyoming,24 oz YouTube Sergeant Stripe Bottle,Drinkware,2.0,7.99,19.99,,30.0
+886,14527,22,F,Single,Student,0,Graduate,Cheyenne-Wyoming,Nest Cam Outdoor Security Camera - USA,Nest-USA,2.0,119.0,6.0,,10.0
+887,14527,22,F,Single,Student,0,Graduate,Cheyenne-Wyoming,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,,30.0
+888,14527,22,F,Single,Student,0,Graduate,Cheyenne-Wyoming,Insulated Bottle,Drinkware,1.0,32.99,6.46,,20.0
+889,14527,22,F,Single,Student,0,Graduate,Cheyenne-Wyoming,Switch Tone Color Crayon Pen,Office,4.0,3.884635416666667,19.99,OFF30,30.0
+890,14527,22,F,Single,Student,0,Graduate,Cheyenne-Wyoming,Google Kick Ball,Lifestyle,1.0,1.99,6.0,EXTRA30,30.0
+891,14527,22,F,Single,Student,0,Graduate,Cheyenne-Wyoming,Nest Cam Outdoor Security Camera - USA,Nest-USA,3.0,119.0,12.99,,10.0
+892,14527,22,F,Single,Student,0,Graduate,Cheyenne-Wyoming,Google Men's Vintage Badge Tee Black,Apparel,3.0,10.63,6.0,SALE10,10.0
+893,14527,22,F,Single,Student,0,Graduate,Cheyenne-Wyoming,Satin Black Ballpoint Pen,Office,60.0,9.6,53.72,,20.0
+894,14527,22,F,Single,Student,0,Graduate,Cheyenne-Wyoming,Nest Thermostat E - USA,Nest,2.0,99.0,6.5,,
+895,14527,22,F,Single,Student,0,Graduate,Cheyenne-Wyoming,Red Shine 15 oz Mug,Drinkware,8.0,10.39,19.99,EXTRA10,
+896,14527,22,F,Single,Student,0,Graduate,Cheyenne-Wyoming,Nest Learning Thermostat 3rd Gen-USA - Copper,Nest-USA,1.0,149.0,6.0,,10.0
+897,14527,22,F,Single,Student,0,Graduate,Cheyenne-Wyoming,Android Men's Short Sleeve Hero Tee Heather,Apparel,1.0,4.56,6.0,,20.0
+898,14527,22,F,Single,Student,0,Graduate,Cheyenne-Wyoming,Android Wool Heather Cap Heather/Black,Headgear,1.0,13.99,6.0,HGEAR10,
+899,14527,22,F,Single,Student,0,Graduate,Cheyenne-Wyoming,Google Men's 100% Cotton Short Sleeve Hero Tee Black,Apparel,1.0,16.99,6.0,,
+900,14527,22,F,Single,Student,0,Graduate,Cheyenne-Wyoming,You Tube Toddler Short Sleeve Tee Red,Apparel,1.0,13.59,8.36,,20.0
+901,13113,40,M,Married,Employee,3,Graduate,Boise-Idaho,Google Women's Tee Grey,Apparel,1.0,6.0,6.0,,
+902,13113,40,M,Married,Employee,3,Graduate,Boise-Idaho,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,1.0,79.0,6.0,,10.0
+903,13113,40,M,Married,Employee,3,Graduate,Boise-Idaho,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,151.88,6.5,,30.0
+904,13113,40,M,Married,Employee,3,Graduate,Boise-Idaho,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,2.0,80.52,19.99,,30.0
+905,13113,40,M,Married,Employee,3,Graduate,Boise-Idaho,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,121.3,6.5,,
+906,13230,55,M,Married,Employee,4,Graduate,Sarasota-Florida,Google Zip Hoodie Black,Apparel,2.0,48.92,6.5,SALE30,30.0
+907,13230,55,M,Married,Employee,4,Graduate,Sarasota-Florida,Badge Holder,Office,2.0,1.99,6.0,OFF10,
+908,13230,55,M,Married,Employee,4,Graduate,Sarasota-Florida,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,119.0,12.48,,10.0
+909,13230,55,M,Married,Employee,4,Graduate,Sarasota-Florida,Red Shine 15 oz Mug,Drinkware,1.0,10.39,6.0,,
+910,13230,55,M,Married,Employee,4,Graduate,Sarasota-Florida,Google Women's Short Sleeve Hero Tee Sky Blue,Apparel,2.0,15.19,6.5,,10.0
+911,13230,55,M,Married,Employee,4,Graduate,Sarasota-Florida,Google Laptop and Cell Phone Stickers,Office,20.0,2.99,12.99,,
+912,13230,55,M,Married,Employee,4,Graduate,Sarasota-Florida,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,2.0,149.0,12.99,,10.0
+913,13230,55,M,Married,Employee,4,Graduate,Sarasota-Florida,YouTube Onesie Heather,Apparel,1.0,23.99,6.0,SALE10,10.0
+914,13230,55,M,Married,Employee,4,Graduate,Sarasota-Florida,Google Laptop and Cell Phone Stickers,Office,1.0,2.39,6.0,,10.0
+915,13230,55,M,Married,Employee,4,Graduate,Sarasota-Florida,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,1.0,79.0,12.99,ELEC10,10.0
+916,13230,55,M,Married,Employee,4,Graduate,Sarasota-Florida,Google Women's Short Sleeve Hero Tee Sky Blue,Apparel,1.0,19.46884713375796,6.5,,10.0
+917,13230,55,M,Married,Employee,4,Graduate,Sarasota-Florida,Nest Cam IQ - USA,Nest,1.0,199.0,6.0,NE10,10.0
+918,13230,55,M,Married,Employee,4,Graduate,Sarasota-Florida,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1.0,151.88,6.5,,
+919,13468,65,F,Married,Housewife,1,Post Graduate,Fort Wayne-Indiana,Google Blackout Cap,Headgear,1.0,15.67,6.5,,10.0
+920,13468,65,F,Married,Housewife,1,Post Graduate,Fort Wayne-Indiana,Maze Pen,Office,30.0,0.99,6.5,,
+921,13468,65,F,Married,Housewife,1,Post Graduate,Fort Wayne-Indiana,Google Men's Long Sleeve Raglan Ocean Blue,Apparel,1.0,17.49,6.0,,
+922,13468,65,F,Married,Housewife,1,Post Graduate,Fort Wayne-Indiana,Android Women's Fleece Hoodie,Apparel,1.0,57.76,6.5,,
+923,13468,65,F,Married,Housewife,1,Post Graduate,Fort Wayne-Indiana,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,121.3,6.5,,
+924,13468,65,F,Married,Housewife,1,Post Graduate,Fort Wayne-Indiana,Google Canvas Tote Natural/Navy,Bags,8.0,12.79,21.29,,
+925,13468,65,F,Married,Housewife,1,Post Graduate,Fort Wayne-Indiana,Android Rise 14 oz Mug,Drinkware,1.0,12.99,6.0,,20.0
+926,13468,65,F,Married,Housewife,1,Post Graduate,Fort Wayne-Indiana,Rubber Grip Ballpoint Pen 4 Pack,Office,1.0,3.99,6.0,,30.0
+927,13800,39,F,Married,Housewife,4,Graduate,Boise-Idaho,Google Emoji Sticker Pack,Accessories,1.0,5.09,6.0,,30.0
+928,13800,39,F,Married,Housewife,4,Graduate,Boise-Idaho,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,121.3,6.5,ELEC30,30.0
+929,13800,39,F,Married,Housewife,4,Graduate,Boise-Idaho,Google Alpine Style Backpack,Bags,1.0,81.53,6.5,,30.0
+930,13800,39,F,Married,Housewife,4,Graduate,Boise-Idaho,Google Thermal Bottle Blue,Drinkware,15.0,19.56,12.48,EXTRA30,
+931,13777,58,F,Married,Housewife,3,Post Graduate,Savannah-Georgia,Google Men's Lightweight Microfleece Jacket Black,Apparel,1.0,61.89,6.5,,10.0
+932,13777,58,F,Married,Housewife,3,Post Graduate,Savannah-Georgia,26 oz Double Wall Insulated Bottle,Drinkware,1.0,25.78,6.5,EXTRA10,
+933,13777,58,F,Married,Housewife,3,Post Graduate,Savannah-Georgia,Android Rise 14 oz Mug,Drinkware,1.0,12.99,6.0,,20.0
+934,13777,58,F,Married,Housewife,3,Post Graduate,Savannah-Georgia,Google Men's 100% Cotton Short Sleeve Hero Tee Black,Apparel,1.0,17.53,6.5,,10.0
+935,13777,58,F,Married,Housewife,3,Post Graduate,Savannah-Georgia,Nest Cam Indoor Security Camera - CA,Nest-Canada,1.0,153.71,8.7,NCA10,10.0
+936,13777,58,F,Married,Housewife,3,Post Graduate,Savannah-Georgia,26 oz Double Wall Insulated Bottle,Drinkware,1.0,24.99,6.0,,
+937,13777,58,F,Married,Housewife,3,Post Graduate,Savannah-Georgia,Nest Thermostat E - USA,Nest,1.0,99.0,6.0,,
+938,13819,58,M,Single,Employee,4,Graduate,Peoria-Illinois,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,249.0,12.99,ELEC10,
+939,17228,50,F,Married,Employee,3,Graduate,Fargo-North Dakota,YouTube Tee Black,Apparel,1.0,17.93,6.5,,
+940,17228,50,F,Married,Employee,3,Graduate,Fargo-North Dakota,Google Men's 100% Cotton Short Sleeve Hero Tee Black,Apparel,1.0,3.47,6.5,SALE30,30.0
+941,17228,50,F,Married,Employee,3,Graduate,Fargo-North Dakota,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,122.77,6.5,,
+942,17228,50,F,Married,Employee,3,Graduate,Fargo-North Dakota,Google Men's Short Sleeve Performance Badge Tee Pewter,Apparel,2.0,21.99,6.5,,30.0
+943,17228,50,F,Married,Employee,3,Graduate,Fargo-North Dakota,Google Twill Cap,Apparel,1.0,11.2,6.0,,30.0
+944,17228,50,F,Married,Employee,3,Graduate,Fargo-North Dakota,Google Men's Short Sleeve Performance Badge Tee Black,Apparel,1.0,21.99,6.5,SALE30,
+945,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,2.0,151.88,6.5,ELEC30,30.0
+946,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.0,,
+947,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Google Twill Cap,Apparel,1.0,8.79,6.0,SALE20,
+948,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Collapsible Shopping Bag,Bags,1.0,4.99,6.0,AIO20,20.0
+949,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Google Sunglasses,Lifestyle,30.0,3.5,12.99,,20.0
+950,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Nest Cam Indoor Security Camera - CA,Nest-Canada,1.0,151.88,8.7,NCA30,30.0
+951,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Google Men's Performance 1/4 Zip Pullover Heather/Black,Apparel,1.0,87.99,6.5,,20.0
+952,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Google Sunglasses,Lifestyle,1.0,2.8,6.0,,
+953,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,151.88,6.5,,30.0
+954,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,2.0,79.0,6.0,,
+955,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Women's Weatherblock Shell Jacket Black,Apparel,1.0,37.2,6.0,SALE20,
+956,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,20 oz Stainless Steel Insulated Tumbler,Drinkware,1.0,19.99,6.0,,20.0
+957,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,12.99,ELEC10,10.0
+958,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Android Toddler Short Sleeve T-shirt Pewter,Apparel,12.0,16.99,6.0,,10.0
+959,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Google Women's Short Sleeve Badge Tee Grey,Apparel,1.0,3.47,6.5,,30.0
+960,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Google Men's Short Sleeve Performance Badge Tee Charcoal,Apparel,1.0,13.2,6.0,SALE20,20.0
+961,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Leatherette Journal,Office,4.0,7.69,6.0,,
+962,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Google Youth Short Sleeve Tee Red,Apparel,8.0,18.99,6.0,,10.0
+963,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,3.0,151.88,6.5,,
+964,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Google Twill Cap,Apparel,1.0,8.79,6.0,,10.0
+965,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Android Luggage Tag,Fun,2.0,8.99,6.0,,
+966,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,121.3,6.5,ELEC30,
+967,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Google Trike Tee Black,Apparel,1.0,16.3,6.5,,30.0
+968,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Google Youth Short Sleeve Tee Red,Apparel,6.0,18.99,6.0,,10.0
+969,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,122.77,6.5,ELEC10,10.0
+970,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Sport Bag,Bags,7.0,3.99,25.37,AIO10,10.0
+971,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,22 oz Android Bottle,Bottles,10.0,2.39,12.91,,10.0
+972,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Google Snapback Black Cap,Headgear,1.0,20.38,6.0,,30.0
+973,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Nest Cam Indoor Security Camera - USA,Nest-USA,4.0,119.0,6.0,,10.0
+974,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Ballpoint Stick Pen 4 Pack,Office,1.0,3.99,6.5,,
+975,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Google 40 oz Insulated Monster Bottle,Drinkware,1.0,28.05,6.5,EXTRA10,
+976,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Google Men's 100% Cotton Short Sleeve Hero Tee Black,Apparel,1.0,4.33,6.0,,
+977,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Collapsible Shopping Bag,Bags,1.0,3.99,6.0,,20.0
+978,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Google Women's Vintage Hero Tee Black,Apparel,1.0,5.7,6.0,SALE30,30.0
+979,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.5,,20.0
+980,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,ELEC10,10.0
+981,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,YouTube Men's Fleece Hoodie Black,Apparel,1.0,31.35,6.0,,20.0
+982,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Google Hard Cover Journal,Notebooks & Journals,12.0,11.99,42.45,,20.0
+983,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Google Large Standard Journal Navy,Office,21.0,16.3,6.0,,30.0
+984,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Google Women's Short Sleeve Hero Tee Sky Blue,Apparel,1.0,15.19,6.0,SALE20,20.0
+985,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Switch Tone Color Crayon Pen,Office,1.0,1.59,6.5,,10.0
+986,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,23 oz Wide Mouth Sport Bottle,Drinkware,1.0,11.2,6.0,,30.0
+987,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Google Sunglasses,Lifestyle,30.0,3.5,12.99,EXTRA20,20.0
+988,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Google Men's Vintage Badge Tee Black,Apparel,1.0,7.6,6.0,SALE20,20.0
+989,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,119.0,12.99,,10.0
+990,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Google Men's 100% Cotton Short Sleeve Hero Tee Black,Apparel,1.0,4.33,6.0,,
+991,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,151.88,6.5,,30.0
+992,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,8 pc Android Sticker Sheet,Office,1.0,1.59,6.5,,10.0
+993,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,YouTube Twill Cap,Apparel,1.0,10.99,6.0,SALE20,20.0
+994,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Badge Holder,Office,20.0,1.99,6.0,OFF10,10.0
+995,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Google Kick Ball,Lifestyle,20.0,1.99,6.0,,10.0
+996,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,119.0,12.99,,
+997,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Google Tee Green,Apparel,1.0,22.41,6.0,SALE30,
+998,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,153.71,6.5,,10.0
+999,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,BLM Sweatshirt,Apparel,2.0,33.59,6.0,,20.0
+1000,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Google Kick Ball,Lifestyle,3.0,1.99,6.0,,10.0
+1001,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,1.0,79.0,6.0,,10.0
+1002,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Google Men's Bike Short Sleeve Tee Charcoal,Apparel,1.0,19.99,6.0,,10.0
+1003,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Google Metallic Notebook Set,Office,10.0,4.79,12.91,OFF10,10.0
+1004,15311,57,M,Single,Self Employed,4,Post Graduate,Orlando-Florida,Google Men's Vintage Badge Tee Black,Apparel,1.0,7.6,6.0,SALE10,10.0
+1005,17226,42,F,Married,Housewife,3,Graduate,Toledo-Ohio,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,121.3,6.5,,30.0
+1006,15574,28,F,Married,Housewife,2,Post Graduate,Des Moines-Iowa,Gift Card - $25.00,Gift Cards,1.0,25.0,0.0,,30.0
+1007,15574,28,F,Married,Housewife,2,Post Graduate,Des Moines-Iowa,Google Sunglasses,Lifestyle,5.0,2.89,35.96,EXTRA10,10.0
+1008,15574,28,F,Married,Housewife,2,Post Graduate,Des Moines-Iowa,Google Women's Short Sleeve Hero Tee White,Apparel,1.0,14.02,57.74,,10.0
+1009,15574,28,F,Married,Housewife,2,Post Graduate,Des Moines-Iowa,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,153.71,6.5,,
+1010,15574,28,F,Married,Housewife,2,Post Graduate,Des Moines-Iowa,Google Men's Performance Full Zip Jacket Black,Apparel,1.0,99.03,13.78,SALE10,10.0
+1011,15574,28,F,Married,Housewife,2,Post Graduate,Des Moines-Iowa,YouTube Women's Short Sleeve Hero Tee Charcoal,Apparel,1.0,15.67,182.74,,10.0
+1012,15574,28,F,Married,Housewife,2,Post Graduate,Des Moines-Iowa,Waze Mood Ninja Window Decal,Waze,2.0,1.64,6.5,,10.0
+1013,15574,28,F,Married,Housewife,2,Post Graduate,Des Moines-Iowa,Nest Cam Outdoor Security Camera - USA,Nest-USA,2.0,122.77,6.5,ELEC10,10.0
+1014,15574,28,F,Married,Housewife,2,Post Graduate,Des Moines-Iowa,YouTube Custom Decals,Office,1.0,2.05,6.5,,10.0
+1015,15574,28,F,Married,Housewife,2,Post Graduate,Des Moines-Iowa,You Tube Toddler Short Sleeve Tee Red,Apparel,1.0,14.02,28.78,SALE10,
+1016,15574,28,F,Married,Housewife,2,Post Graduate,Des Moines-Iowa,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,122.77,6.5,,10.0
+1017,15574,28,F,Married,Housewife,2,Post Graduate,Des Moines-Iowa,Android Sticker Sheet Ultra Removable,Office,5.0,3.08,6.5,OFF10,
+1018,15574,28,F,Married,Housewife,2,Post Graduate,Des Moines-Iowa,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,122.77,6.5,,10.0
+1019,15574,28,F,Married,Housewife,2,Post Graduate,Des Moines-Iowa,Google Laptop and Cell Phone Stickers,Office,1.0,2.39,22.71,,30.0
+1020,15574,28,F,Married,Housewife,2,Post Graduate,Des Moines-Iowa,Google Spiral Journal with Pen,Notebooks & Journals,2.0,8.24,6.5,,10.0
+1021,15574,28,F,Married,Housewife,2,Post Graduate,Des Moines-Iowa,Switch Tone Color Crayon Pen,Office,21.0,1.99,6.0,,
+1022,15574,28,F,Married,Housewife,2,Post Graduate,Des Moines-Iowa,YouTube Men's Short Sleeve Hero Tee Charcoal,Apparel,5.0,15.67,182.74,,
+1023,15574,28,F,Married,Housewife,2,Post Graduate,Des Moines-Iowa,Nest Cam Outdoor Security Camera - USA,Nest-USA,4.0,122.77,6.5,ELEC10,10.0
+1024,15574,28,F,Married,Housewife,2,Post Graduate,Des Moines-Iowa,Google Men's  Zip Hoodie,Apparel,1.0,46.21,6.5,,10.0
+1025,15574,28,F,Married,Housewife,2,Post Graduate,Des Moines-Iowa,Google Men's Watershed Full Zip Hoodie Grey,Apparel,2.0,61.59,12.99,,
+1026,15574,28,F,Married,Housewife,2,Post Graduate,Des Moines-Iowa,Collapsible Shopping Bag,Bags,6.0,4.12,6.5,,
+1027,12971,31,F,Married,Self Employed,4,Graduate,Fargo-North Dakota,Google Laptop and Cell Phone Stickers,Office,1.0,2.39,6.0,,
+1028,12971,31,F,Married,Self Employed,4,Graduate,Fargo-North Dakota,Google Stylus Pen w/ LED Light,Office,1.0,4.4,49.73,,10.0
+1029,12971,31,F,Married,Self Employed,4,Graduate,Fargo-North Dakota,Google Kick Ball,Lifestyle,25.0,1.99,6.5,EXTRA30,30.0
+1030,12971,31,F,Married,Self Employed,4,Graduate,Fargo-North Dakota,Google Womens 3/4 Sleeve Baseball Raglan Heather/Black,Apparel,1.0,15.99,6.5,,10.0
+1031,12971,31,F,Married,Self Employed,4,Graduate,Fargo-North Dakota,Android 17oz Stainless Steel Sport Bottle,Drinkware,1.0,10.63,6.0,EXTRA10,10.0
+1032,12971,31,F,Married,Self Employed,4,Graduate,Fargo-North Dakota,Google Men's Airflow 1/4 Zip Pullover Lapis,Apparel,1.0,14.0,6.0,,10.0
+1033,12971,31,F,Married,Self Employed,4,Graduate,Fargo-North Dakota,Nest Cam Indoor Security Camera - USA,Nest-USA,2.0,119.0,6.5,ELEC10,
+1034,12971,31,F,Married,Self Employed,4,Graduate,Fargo-North Dakota,Google Womens 3/4 Sleeve Baseball Raglan Heather/Black,Apparel,1.0,15.99,6.5,,10.0
+1035,12971,31,F,Married,Self Employed,4,Graduate,Fargo-North Dakota,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,121.3,6.5,,30.0
+1036,18250,56,F,Single,Employee,2,Graduate,Sarasota-Florida,Waze Mobile Phone Vent Mount,Waze,10.0,5.7,15.72,,
+1037,13725,61,M,Single,Employee,1,Graduate,Springfield-Illinois,Nest Thermostat E - USA,Nest,1.0,100.91,6.5,,30.0
+1038,13725,61,M,Single,Employee,1,Graduate,Springfield-Illinois,Android Women's Dash Tee Grey,Apparel,1.0,17.93,6.5,,
+1039,13725,61,M,Single,Employee,1,Graduate,Springfield-Illinois,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,121.3,6.5,,
+1040,13725,61,M,Single,Employee,1,Graduate,Springfield-Illinois,Google Women's Short Sleeve Badge Tee Grey,Apparel,1.0,3.47,6.5,,30.0
+1041,13725,61,M,Single,Employee,1,Graduate,Springfield-Illinois,Google Women's Tee Grey,Apparel,1.0,22.41,6.0,,30.0
+1042,16748,26,M,Single,Employee,4,Post Graduate,Spokane-Washington,Google Executive Umbrella,Lifestyle,1.0,19.59,6.0,,
+1043,16748,26,M,Single,Employee,4,Post Graduate,Spokane-Washington,Google 17oz Stainless Steel Sport Bottle,Drinkware,10.0,16.79,40.25,,20.0
+1044,16029,54,F,Married,Employee,4,Ph.D,Tulsa-Oklahoma,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,153.71,6.5,ELEC10,10.0
+1045,16029,54,F,Married,Employee,4,Ph.D,Tulsa-Oklahoma,Nest Thermostat E - USA,Nest,1.0,99.0,6.0,,30.0
+1046,16029,54,F,Married,Employee,4,Ph.D,Tulsa-Oklahoma,Google Luggage Tag,Fun,1.0,3.6,49.73,,
+1047,16029,54,F,Married,Employee,4,Ph.D,Tulsa-Oklahoma,Nest Thermostat E - USA,Nest,1.0,100.91,6.5,,30.0
+1048,16029,54,F,Married,Employee,4,Ph.D,Tulsa-Oklahoma,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,119.0,19.99,,30.0
+1049,14045,19,F,Married,Student,1,Undergrad,Memphis-Tennessee,Android Sticker Sheet Ultra Removable,Office,1.0,2.47,6.5,,10.0
+1050,17375,34,F,Single,Employee,3,Post Graduate,Reno-Nevada,Google Men's Vintage Badge Tee Black,Apparel,3.0,10.63,6.0,SALE20,20.0
+1051,17375,34,F,Single,Employee,3,Post Graduate,Reno-Nevada,Nest Cam IQ - USA,Nest,1.0,202.84,6.5,,30.0
+1052,17375,34,F,Single,Employee,3,Post Graduate,Reno-Nevada,Google Laptop and Cell Phone Stickers,Office,5.0,2.99,6.0,,
+1053,15922,46,M,Single,Self Employed,4,Post Graduate,Des Moines-Iowa,Engraved Ceramic Google Mug,Drinkware,1.0,9.27,6.5,,
+1054,15039,41,F,Married,Self Employed,3,Post Graduate,Toledo-Ohio,Google Hard Cover Journal,Notebooks & Journals,2.0,11.99,13.78,,
+1055,15039,41,F,Married,Self Employed,3,Post Graduate,Toledo-Ohio,Ballpoint LED Light Pen,Office,6.0,2.04,6.5,,30.0
+1056,15039,41,F,Married,Self Employed,3,Post Graduate,Toledo-Ohio,Google Twill Cap,Apparel,1.0,11.2,6.0,,30.0
+1057,15039,41,F,Married,Self Employed,3,Post Graduate,Toledo-Ohio,Galaxy Screen Cleaning Cloth,Office,20.0,1.99,6.0,,30.0
+1058,15039,41,F,Married,Self Employed,3,Post Graduate,Toledo-Ohio,Google 22 oz Water Bottle,Drinkware,6.0,2.99,6.0,EXTRA20,20.0
+1059,15039,41,F,Married,Self Employed,3,Post Graduate,Toledo-Ohio,Google Onesie Red/Graphite,Apparel,1.0,19.19,6.0,,20.0
+1060,15039,41,F,Married,Self Employed,3,Post Graduate,Toledo-Ohio,Google Men's Vintage Badge Tee Black,Apparel,1.0,9.49,6.0,,10.0
+1061,15039,41,F,Married,Self Employed,3,Post Graduate,Toledo-Ohio,Google Sunglasses,Lifestyle,3.0,2.8,19.99,EXTRA10,10.0
+1062,15039,41,F,Married,Self Employed,3,Post Graduate,Toledo-Ohio,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,2.0,149.0,6.0,,20.0
+1063,15039,41,F,Married,Self Employed,3,Post Graduate,Toledo-Ohio,Nest Learning Thermostat 3rd Gen - CA - Stainless Steel,Nest-Canada,1.0,199.0,8.7,,30.0
+1064,15039,41,F,Married,Self Employed,3,Post Graduate,Toledo-Ohio,Google Metallic Notebook Set,Office,20.0,4.88,25.37,,30.0
+1065,15039,41,F,Married,Self Employed,3,Post Graduate,Toledo-Ohio,Google Youth Short Sleeve T-shirt Green,Apparel,1.0,10.63,6.0,SALE20,
+1066,15039,41,F,Married,Self Employed,3,Post Graduate,Toledo-Ohio,Leatherette Journal,Office,1.0,8.79,6.0,,20.0
+1067,15039,41,F,Married,Self Employed,3,Post Graduate,Toledo-Ohio,Google Men's Long & Lean Tee Charcoal,Apparel,1.0,19.99,117.7,,30.0
+1068,15039,41,F,Married,Self Employed,3,Post Graduate,Toledo-Ohio,Google Crew Sweater Navy,Apparel,1.0,42.39,6.5,SALE30,30.0
+1069,15039,41,F,Married,Self Employed,3,Post Graduate,Toledo-Ohio,Google Ballpoint Pen Black,Office,25.0,1.99,6.0,,20.0
+1070,15039,41,F,Married,Self Employed,3,Post Graduate,Toledo-Ohio,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.0,,10.0
+1071,15039,41,F,Married,Self Employed,3,Post Graduate,Toledo-Ohio,YouTube Youth Short Sleeve Tee Red,Apparel,1.0,15.19,6.0,,20.0
+1072,15039,41,F,Married,Self Employed,3,Post Graduate,Toledo-Ohio,Google Kick Ball,Lifestyle,100.0,1.59,28.7,EXTRA20,20.0
+1073,15039,41,F,Married,Self Employed,3,Post Graduate,Toledo-Ohio,Android Men's Vintage Tank,Apparel,1.0,14.69,19.99,SALE20,20.0
+1074,15039,41,F,Married,Self Employed,3,Post Graduate,Toledo-Ohio,Google Men's Long Sleeve Pullover Badge Tee Heather,Apparel,2.0,34.99,117.7,,30.0
+1075,15039,41,F,Married,Self Employed,3,Post Graduate,Toledo-Ohio,Google Men's Long Sleeve Pullover Badge Tee Heather,Apparel,1.0,27.99,6.5,,30.0
+1076,15039,41,F,Married,Self Employed,3,Post Graduate,Toledo-Ohio,Sport Bag,Bags,20.0,4.07,25.37,AIO30,30.0
+1077,15039,41,F,Married,Self Employed,3,Post Graduate,Toledo-Ohio,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,121.3,19.99,ELEC30,30.0
+1078,15039,41,F,Married,Self Employed,3,Post Graduate,Toledo-Ohio,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,119.0,19.99,,10.0
+1079,16546,64,M,Single,Self Employed,2,Post Graduate,Madison-Wisconsin,Gel Roller Pen,Office,1.0,3.61,6.5,,10.0
+1080,14156,50,F,Married,Housewife,4,Post Graduate,Des Moines-Iowa,Google Women's Short Sleeve Hero Tee Grey,Apparel,1.0,4.08,6.0,SALE30,30.0
+1081,14156,50,F,Married,Housewife,4,Post Graduate,Des Moines-Iowa,Nest Cam IQ - USA,Nest,1.0,199.0,6.0,,30.0
+1082,14156,50,F,Married,Housewife,4,Post Graduate,Des Moines-Iowa,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,151.88,19.99,ELEC30,30.0
+1083,14156,50,F,Married,Housewife,4,Post Graduate,Des Moines-Iowa,Windup Android,Lifestyle,1.0,3.99,6.0,,30.0
+1084,14156,50,F,Married,Housewife,4,Post Graduate,Des Moines-Iowa,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,121.3,6.5,ELEC30,30.0
+1085,14156,50,F,Married,Housewife,4,Post Graduate,Des Moines-Iowa,Google Laptop and Cell Phone Stickers,Office,2.0,3.05,6.0,,30.0
+1086,14156,50,F,Married,Housewife,4,Post Graduate,Des Moines-Iowa,Nest Thermostat E - USA,Nest,1.0,100.91,6.5,,
+1087,14156,50,F,Married,Housewife,4,Post Graduate,Des Moines-Iowa,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1.0,151.88,6.5,,30.0
+1088,14156,50,F,Married,Housewife,4,Post Graduate,Des Moines-Iowa,Android RFID Journal,Notebooks & Journals,1.0,4.8,6.0,,30.0
+1089,12775,59,M,Single,Employee,1,Graduate,Memphis-Tennessee,Google Women's Short Sleeve Hero Tee Heather,Apparel,1.0,3.87,6.5,SALE30,30.0
+1090,12775,59,M,Single,Employee,1,Graduate,Memphis-Tennessee,Nest Cam Outdoor Security Camera - USA,Nest-USA,2.0,121.3,6.5,,30.0
+1091,16938,20,F,Single,Student,0,Undergrad,El Paso-Texas,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,151.88,6.5,ELEC30,30.0
+1092,13047,62,F,Married,Housewife,2,Graduate,Savannah-Georgia,Galaxy Screen Cleaning Cloth,Office,31.0,1.99,6.5,,
+1093,13047,62,F,Married,Housewife,2,Graduate,Savannah-Georgia,Nest Learning Thermostat 3rd Gen-USA - Copper,Nest-USA,1.0,151.88,6.5,,
+1094,13047,62,F,Married,Housewife,2,Graduate,Savannah-Georgia,Color Changing Grip Pen,Office,3.0,1.55,6.5,,10.0
+1095,13047,62,F,Married,Housewife,2,Graduate,Savannah-Georgia,Spiral Notebook and Pen Set,Office,1.0,6.18,6.5,,
+1096,13047,62,F,Married,Housewife,2,Graduate,Savannah-Georgia,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,121.3,6.5,ELEC30,
+1097,14741,24,M,Single,Employee,0,Post Graduate,Toledo-Ohio,Google Men's Short Sleeve Badge Tee Charcoal,Apparel,1.0,15.67,20.74,,
+1098,15299,53,M,Single,Employee,3,Graduate,Madison-Wisconsin,Collapsible Shopping Bag,Bags,52.0,3.96,6.5,,
+1099,16570,54,M,Single,Employee,4,Graduate,Reno-Nevada,Google Women's Short Sleeve Hero Tee Heather,Apparel,1.0,7.75,6.5,SALE30,
+1100,16570,54,M,Single,Employee,4,Graduate,Reno-Nevada,Nest Cam Outdoor Security Camera - USA,Nest-USA,3.0,121.3,6.5,,30.0
+1101,16916,18,M,Single,Student,0,Undergrad,Springfield-Illinois,Red Spiral Google Notebook,Office,1.0,8.24,18.47,,
+1102,16916,18,M,Single,Student,0,Undergrad,Springfield-Illinois,Engraved Ceramic Google Mug,Drinkware,1.0,9.27,6.5,EXTRA10,10.0
+1103,16916,18,M,Single,Student,0,Undergrad,Springfield-Illinois,Google Women's Quilted Insulated Vest White,Apparel,1.0,77.36,6.5,SALE10,10.0
+1104,16916,18,M,Single,Student,0,Undergrad,Springfield-Illinois,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,122.77,6.5,,10.0
+1105,16916,18,M,Single,Student,0,Undergrad,Springfield-Illinois,Android Men's Pep Rally Short Sleeve Tee Navy,Apparel,1.0,16.5,6.5,,10.0
+1106,16110,58,M,Single,Self Employed,3,Graduate,Madison-Wisconsin,Google Tee Blue,Apparel,1.0,17.93,6.5,,30.0
+1107,16110,58,M,Single,Self Employed,3,Graduate,Madison-Wisconsin,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,1.0,80.52,6.5,,
+1108,16110,58,M,Single,Self Employed,3,Graduate,Madison-Wisconsin,Google Women's Short Sleeve Hero Tee Heather,Apparel,2.0,3.87,6.5,SALE30,
+1109,16110,58,M,Single,Self Employed,3,Graduate,Madison-Wisconsin,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,151.88,6.5,,30.0
+1110,16110,58,M,Single,Self Employed,3,Graduate,Madison-Wisconsin,Google Laptop and Cell Phone Stickers,Office,2.0,3.05,6.0,OFF30,30.0
+1111,16110,58,M,Single,Self Employed,3,Graduate,Madison-Wisconsin,Google Trike Tee Black,Apparel,1.0,16.3,6.5,,30.0
+1112,16110,58,M,Single,Self Employed,3,Graduate,Madison-Wisconsin,Google Protector Tee Navy,Apparel,1.0,16.3,6.5,SALE30,30.0
+1113,16110,58,M,Single,Self Employed,3,Graduate,Madison-Wisconsin,Google Women's Tee Grey,Apparel,1.0,17.93,6.5,,
+1114,16110,58,M,Single,Self Employed,3,Graduate,Madison-Wisconsin,Google Twill Cap,Apparel,2.0,8.96,6.5,,
+1115,16110,58,M,Single,Self Employed,3,Graduate,Madison-Wisconsin,Google Flower Tee Purple,Apparel,1.0,16.3,6.5,,30.0
+1116,16110,58,M,Single,Self Employed,3,Graduate,Madison-Wisconsin,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1.0,151.88,6.5,ELEC30,30.0
+1117,16110,58,M,Single,Self Employed,3,Graduate,Madison-Wisconsin,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1.0,151.88,6.5,ELEC30,
+1118,16110,58,M,Single,Self Employed,3,Graduate,Madison-Wisconsin,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,2.0,80.52,6.5,,
+1119,16110,58,M,Single,Self Employed,3,Graduate,Madison-Wisconsin,Nest Cam IQ - USA,Nest,1.0,202.84,6.5,,
+1120,13488,20,F,Single,Student,0,Undergrad,Memphis-Tennessee,YouTube Twill Cap,Apparel,1.0,10.99,6.0,,20.0
+1121,13488,20,F,Single,Student,0,Undergrad,Memphis-Tennessee,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1.0,151.88,6.5,,30.0
+1122,13488,20,F,Single,Student,0,Undergrad,Memphis-Tennessee,Maze Pen,Office,50.0,0.99,6.0,,
+1123,13488,20,F,Single,Student,0,Undergrad,Memphis-Tennessee,Windup Android,Lifestyle,1.0,4.07,6.0,,30.0
+1124,13488,20,F,Single,Student,0,Undergrad,Memphis-Tennessee,Red Shine 15 oz Mug,Drinkware,1.0,10.39,6.5,EXTRA30,
+1125,13488,20,F,Single,Student,0,Undergrad,Memphis-Tennessee,Windup Android,Lifestyle,44.0,3.99,6.5,,
+1126,13488,20,F,Single,Student,0,Undergrad,Memphis-Tennessee,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,2.0,149.0,6.5,ELEC30,30.0
+1127,13488,20,F,Single,Student,0,Undergrad,Memphis-Tennessee,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,3.0,149.0,6.0,,20.0
+1128,13488,20,F,Single,Student,0,Undergrad,Memphis-Tennessee,Google RFID Journal,Notebooks & Journals,2.0,6.0,6.0,NJ20,20.0
+1129,13488,20,F,Single,Student,0,Undergrad,Memphis-Tennessee,Android Men's Short Sleeve Hero Tee Heather,Apparel,1.0,4.56,6.0,SALE20,20.0
+1130,13488,20,F,Single,Student,0,Undergrad,Memphis-Tennessee,Leatherette Journal,Office,1.0,10.99,6.5,OFF30,30.0
+1131,15640,56,F,Married,Housewife,4,Post Graduate,Savannah-Georgia,Google Men's Airflow 1/4 Zip Pullover Black,Apparel,1.0,39.19,6.0,SALE20,20.0
+1132,15640,56,F,Married,Housewife,4,Post Graduate,Savannah-Georgia,Waze Pack of 9 Decal Set,Accessories,1.0,13.59,6.5,,10.0
+1133,15640,56,F,Married,Housewife,4,Post Graduate,Savannah-Georgia,Google Women's Short Sleeve Hero Tee White,Apparel,2.0,16.99,6.0,,
+1134,15640,56,F,Married,Housewife,4,Post Graduate,Savannah-Georgia,Google Men's 100% Cotton Short Sleeve Hero Tee White,Apparel,2.0,13.59,12.99,SALE10,10.0
+1135,15640,56,F,Married,Housewife,4,Post Graduate,Savannah-Georgia,YouTube Twill Cap,Apparel,1.0,10.99,6.0,SALE20,20.0
+1136,15640,56,F,Married,Housewife,4,Post Graduate,Savannah-Georgia,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,,
+1137,15640,56,F,Married,Housewife,4,Post Graduate,Savannah-Georgia,Google Metallic Notebook Set,Office,3.0,5.99,6.0,OFF10,10.0
+1138,15640,56,F,Married,Housewife,4,Post Graduate,Savannah-Georgia,Google Men's 100% Cotton Short Sleeve Hero Tee Black,Apparel,2.0,14.02,57.74,,10.0
+1139,15640,56,F,Married,Housewife,4,Post Graduate,Savannah-Georgia,Google Men's Short Sleeve Hero Tee Charcoal,Apparel,2.0,18.99,6.0,,10.0
+1140,15640,56,F,Married,Housewife,4,Post Graduate,Savannah-Georgia,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,3.0,79.0,6.0,ELEC10,10.0
+1141,12433,63,F,Married,Employee,1,Graduate,El Paso-Texas,Google Men's 100% Cotton Short Sleeve Hero Tee Red,Apparel,1.0,14.02,12.76,,10.0
+1142,12433,63,F,Married,Employee,1,Graduate,El Paso-Texas,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.5,,10.0
+1143,12433,63,F,Married,Employee,1,Graduate,El Paso-Texas,Leatherette Journal,Office,88.0,10.95,422.24,,10.0
+1144,12433,63,F,Married,Employee,1,Graduate,El Paso-Texas,Crunch Noise Dog Toy,Lifestyle,1.0,4.99,6.5,EXTRA10,10.0
+1145,12433,63,F,Married,Employee,1,Graduate,El Paso-Texas,Google Men's  Zip Hoodie,Apparel,1.0,46.21,6.5,,10.0
+1146,12433,63,F,Married,Employee,1,Graduate,El Paso-Texas,Google Laptop and Cell Phone Stickers,Office,20.0,2.99,30.92,,10.0
+1147,12433,63,F,Married,Employee,1,Graduate,El Paso-Texas,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.5,,10.0
+1148,12433,63,F,Married,Employee,1,Graduate,El Paso-Texas,Google Women's Vintage Hero Tee White,Apparel,1.0,15.19,6.5,,10.0
+1149,12433,63,F,Married,Employee,1,Graduate,El Paso-Texas,YouTube Spiral Journal with Pen,Notebooks & Journals,12.0,8.24,18.47,NJ10,10.0
+1150,12433,63,F,Married,Employee,1,Graduate,El Paso-Texas,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,122.77,6.5,ELEC10,10.0
+1151,12433,63,F,Married,Employee,1,Graduate,El Paso-Texas,Engraved Ceramic Google Mug,Drinkware,1.0,9.27,6.5,EXTRA10,10.0
+1152,12433,63,F,Married,Employee,1,Graduate,El Paso-Texas,Google Women's Short Sleeve Hero Tee Black,Apparel,1.0,17.53,6.5,SALE10,10.0
+1153,16955,54,M,Single,Employee,3,Graduate,Des Moines-Iowa,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,2.0,79.0,6.0,,20.0
+1154,16955,54,M,Single,Employee,3,Graduate,Des Moines-Iowa,Nest Cam Outdoor Security Camera - USA,Nest-USA,3.0,122.77,6.5,,10.0
+1155,13600,23,M,Married,Student,1,Graduate,Boise-Idaho,Nest Cam Indoor Security Camera - USA,Nest-USA,3.0,121.3,6.5,,30.0
+1156,13600,23,M,Married,Student,1,Graduate,Boise-Idaho,Nest Secure Alarm System Starter Pack - USA,Nest,1.0,355.74,6.5,,30.0
+1157,13600,23,M,Married,Student,1,Graduate,Boise-Idaho,YouTube Tee Black,Apparel,1.0,22.41,6.0,,30.0
+1158,18168,26,M,Single,Self Employed,4,Post Graduate,Sarasota-Florida,YouTube Hard Cover Journal,Notebooks & Journals,1.0,12.37,18.47,,10.0
+1159,18168,26,M,Single,Self Employed,4,Post Graduate,Sarasota-Florida,Google Men's 100% Cotton Short Sleeve Hero Tee Red,Apparel,2.0,17.53,6.5,,10.0
+1160,18168,26,M,Single,Self Employed,4,Post Graduate,Sarasota-Florida,YouTube Women's Short Sleeve Hero Tee Charcoal,Apparel,1.0,15.19,6.0,,30.0
+1161,18168,26,M,Single,Self Employed,4,Post Graduate,Sarasota-Florida,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,122.77,6.5,,10.0
+1162,18168,26,M,Single,Self Employed,4,Post Graduate,Sarasota-Florida,Google Men's Watershed Full Zip Hoodie Grey,Apparel,1.0,90.77,6.5,,10.0
+1163,18168,26,M,Single,Self Employed,4,Post Graduate,Sarasota-Florida,Google Onesie Red,Apparel,4.0,19.8,13.78,SALE10,10.0
+1164,15240,29,M,Single,Employee,1,Post Graduate,Fort Wayne-Indiana,Google Women's Tee Grey,Apparel,1.0,17.93,6.5,,
+1165,15240,29,M,Single,Employee,1,Post Graduate,Fort Wayne-Indiana,Nest Cam Outdoor Security Camera - USA,Nest-USA,2.0,121.3,13.38,,
+1166,17314,24,F,Married,Self Employed,0,School,Orlando-Florida,Google Protector Tee Navy,Apparel,1.0,16.3,6.5,SALE30,30.0
+1167,17314,24,F,Married,Self Employed,0,School,Orlando-Florida,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1.0,151.88,6.5,ELEC30,30.0
+1168,17811,44,F,Single,Employee,3,Post Graduate,Lubbock-Texas,Waze Baby on Board Window Decal,Waze,1.0,2.39,6.0,,
+1169,17811,44,F,Single,Employee,3,Post Graduate,Lubbock-Texas,Google Hard Cover Journal,Notebooks & Journals,2.0,11.99,19.02,,20.0
+1170,17811,44,F,Single,Employee,3,Post Graduate,Lubbock-Texas,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,2.0,79.0,6.0,,20.0
+1171,17811,44,F,Single,Employee,3,Post Graduate,Lubbock-Texas,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1.0,123.84885642737896,6.5,,
+1172,17811,44,F,Single,Employee,3,Post Graduate,Lubbock-Texas,Google 22 oz Water Bottle,Drinkware,1.0,2.44,6.5,,
+1173,17811,44,F,Single,Employee,3,Post Graduate,Lubbock-Texas,Google Women's Short Sleeve Badge Tee Navy,Apparel,1.0,6.8,6.0,,
+1174,17811,44,F,Single,Employee,3,Post Graduate,Lubbock-Texas,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,,
+1175,17675,18,F,Married,Student,0,High School,Chicago-Illinois,Android Sticker Sheet Ultra Removable,Office,6.0,2.99,6.0,,
+1176,17675,18,F,Married,Student,0,High School,Chicago-Illinois,Android Men's Short Sleeve Hero Tee Heather,Apparel,3.0,5.7,6.0,,10.0
+1177,17675,18,F,Married,Student,0,High School,Chicago-Illinois,Galaxy Screen Cleaning Cloth,Office,30.0,1.99,6.5,,30.0
+1178,17675,18,F,Married,Student,0,High School,Chicago-Illinois,Google Women's Long Sleeve Blended Cardigan Charcoal,Apparel,1.0,20.99,6.0,SALE10,
+1179,15658,34,F,Single,Self Employed,1,Post Graduate,Des Moines-Iowa,YouTube Men's Vintage Tee,Apparel,10.0,15.67,158.74,,10.0
+1180,15658,34,F,Single,Self Employed,1,Post Graduate,Des Moines-Iowa,YouTube Men's Vintage Tee,Apparel,5.0,15.67,158.74,SALE10,
+1181,15658,34,F,Single,Self Employed,1,Post Graduate,Des Moines-Iowa,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,4.0,81.5,6.5,,10.0
+1182,15658,34,F,Single,Self Employed,1,Post Graduate,Des Moines-Iowa,Nest Cam Outdoor Security Camera - USA,Nest-USA,3.0,121.3,6.5,,30.0
+1183,14047,60,F,Single,Employee,1,Graduate,Boise-Idaho,Rainbow Stylus Pen,Office,1.0,1.55,6.5,,10.0
+1184,13758,30,F,Married,Housewife,4,Post Graduate,Cheyenne-Wyoming,Google Men's 100% Cotton Short Sleeve Hero Tee Navy,Apparel,1.0,13.59,6.5,SALE20,
+1185,13758,30,F,Married,Housewife,4,Post Graduate,Cheyenne-Wyoming,Google Men's Skater Tee Grey,Apparel,1.0,11.19,20.85,,10.0
+1186,13758,30,F,Married,Housewife,4,Post Graduate,Cheyenne-Wyoming,Engraved Ceramic Google Mug,Drinkware,1.0,9.27,6.5,EXTRA10,10.0
+1187,13758,30,F,Married,Housewife,4,Post Graduate,Cheyenne-Wyoming,Galaxy Screen Cleaning Cloth,Office,2.0,2.05,6.5,,10.0
+1188,13798,31,F,Married,Housewife,3,Post Graduate,Sarasota-Florida,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,2.0,149.0,6.0,ELEC10,
+1189,13798,31,F,Married,Housewife,3,Post Graduate,Sarasota-Florida,Google Doodle Decal,Office,1.0,2.99,6.0,OFF20,20.0
+1190,13798,31,F,Married,Housewife,3,Post Graduate,Sarasota-Florida,Nest Secure Alarm System Starter Pack - USA,Nest,1.0,349.0,6.0,NE10,10.0
+1191,13798,31,F,Married,Housewife,3,Post Graduate,Sarasota-Florida,Google 25 oz Red Stainless Steel Bottle,Drinkware,10.0,11.19,6.0,,20.0
+1192,13798,31,F,Married,Housewife,3,Post Graduate,Sarasota-Florida,Google Men's Microfiber 1/4 Zip Pullover Blue/Indigo,Apparel,1.0,37.49,19.99,,
+1193,13798,31,F,Married,Housewife,3,Post Graduate,Sarasota-Florida,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.0,ELEC20,
+1194,13798,31,F,Married,Housewife,3,Post Graduate,Sarasota-Florida,Google Infuser-Top Water Bottle,Drinkware,14.0,7.99,26.4,,
+1195,13798,31,F,Married,Housewife,3,Post Graduate,Sarasota-Florida,Google Men's 100% Cotton Short Sleeve Hero Tee Navy,Apparel,1.0,16.99,19.99,,20.0
+1196,13798,31,F,Married,Housewife,3,Post Graduate,Sarasota-Florida,Google Kick Ball,Lifestyle,2.0,1.99,6.0,,20.0
+1197,13798,31,F,Married,Housewife,3,Post Graduate,Sarasota-Florida,Android Men's Outerstellar Short Sleeve Tee Black,Apparel,1.0,15.99,6.0,SALE20,20.0
+1198,13798,31,F,Married,Housewife,3,Post Graduate,Sarasota-Florida,Google RFID Journal,Notebooks & Journals,1.0,11.19,6.0,,20.0
+1199,13418,64,F,Prefer not to say,Housewife,2,Graduate,Chicago-Illinois,Android Men's Take Charge Short Sleeve Tee Purple,Apparel,1.0,11.19,12.99,SALE30,30.0
+1200,13418,64,F,Prefer not to say,Housewife,2,Graduate,Chicago-Illinois,8 pc Android Sticker Sheet,Office,2.0,1.99,6.0,,30.0
+1201,13408,51,F,Married,Housewife,4,Post Graduate,Fort Wayne-Indiana,Google Women's Short Sleeve Hero Tee Heather,Apparel,1.0,18.99,6.0,,10.0
+1202,13408,51,F,Married,Housewife,4,Post Graduate,Fort Wayne-Indiana,Google Alpine Style Backpack,Bags,1.0,82.52,35.96,,10.0
+1203,13408,51,F,Married,Housewife,4,Post Graduate,Fort Wayne-Indiana,Google Women's Tee Grey,Apparel,1.0,17.59,6.5,SALE20,20.0
+1204,13408,51,F,Married,Housewife,4,Post Graduate,Fort Wayne-Indiana,Android Rise 14 oz Mug,Drinkware,6.0,10.72,35.96,,10.0
+1205,13408,51,F,Married,Housewife,4,Post Graduate,Fort Wayne-Indiana,Google Laptop and Cell Phone Stickers,Office,3.0,2.39,6.5,,20.0
+1206,13408,51,F,Married,Housewife,4,Post Graduate,Fort Wayne-Indiana,Google Youth Girl Tee Green,Apparel,1.0,15.19,6.0,SALE30,30.0
+1207,13784,37,F,Married,Employee,2,Graduate,Cheyenne-Wyoming,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,1.0,79.0,6.5,ELEC20,
+1208,15602,29,F,Single,Employee,4,Graduate,Fort Wayne-Indiana,Colored Pencil Set,Office,1.0,2.39,6.0,OFF20,
+1209,18085,29,M,Single,Employee,3,Post Graduate,Boise-Idaho,Google Men's 100% Cotton Short Sleeve Hero Tee White,Apparel,1.0,17.53,6.5,,
+1210,16754,33,F,Single,Self Employed,3,Post Graduate,Savannah-Georgia,Google Men's 100% Cotton Short Sleeve Hero Tee Red,Apparel,1.0,14.02,6.5,,10.0
+1211,15646,28,F,Single,Self Employed,1,Graduate,Peoria-Illinois,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,153.71,6.5,,
+1212,13854,54,F,Single,Self Employed,4,Post Graduate,Chicago-Illinois,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1.0,149.0,19.99,ELEC20,20.0
+1213,13854,54,F,Single,Self Employed,4,Post Graduate,Chicago-Illinois,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1.0,149.0,6.0,,10.0
+1214,16098,46,M,Single,Employee,2,Graduate,Chicago-Illinois,Google Toddler 1/4 Zip Fleece Pewter,Apparel,1.0,31.35,6.5,,
+1215,16098,46,M,Single,Employee,2,Graduate,Chicago-Illinois,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,2.0,81.5,6.5,,10.0
+1216,14411,27,M,Married,Self Employed,4,Graduate,Spokane-Washington,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,121.3,6.5,,30.0
+1217,14411,27,M,Married,Self Employed,4,Graduate,Spokane-Washington,Waze Mobile Phone Vent Mount,Waze,1.0,7.12,6.0,,
+1218,14411,27,M,Married,Self Employed,4,Graduate,Spokane-Washington,Waze Baby on Board Window Decal,Waze,1.0,2.44,6.5,WEMP30,30.0
+1219,14411,27,M,Married,Self Employed,4,Graduate,Spokane-Washington,Google Crew Sweater Navy,Apparel,1.0,42.39,6.5,SALE30,
+1220,14411,27,M,Married,Self Employed,4,Graduate,Spokane-Washington,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1.0,151.88,6.5,,30.0
+1221,14443,48,M,Single,Employee,0,Graduate,Reno-Nevada,Google Stylus Pen w/ LED Light,Office,5.0,5.61,30.0,OFF30,30.0
+1222,14443,48,M,Single,Employee,0,Graduate,Reno-Nevada,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.5,,
+1223,17017,33,F,Single,Employee,2,Post Graduate,Orlando-Florida,Google Men's Vintage Badge Tee Black,Apparel,1.0,10.63,6.0,,
+1224,17017,33,F,Single,Employee,2,Post Graduate,Orlando-Florida,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,199.0,44.06,ELEC30,
+1225,17017,33,F,Single,Employee,2,Post Graduate,Orlando-Florida,Google Trucker Hat,Headgear,1.0,18.15,6.5,HGEAR10,10.0
+1226,17017,33,F,Single,Employee,2,Post Graduate,Orlando-Florida,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,153.71,6.5,ELEC10,10.0
+1227,17017,33,F,Single,Employee,2,Post Graduate,Orlando-Florida,Google Sunglasses,Lifestyle,1.0,3.5,6.0,,
